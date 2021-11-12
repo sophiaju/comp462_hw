@@ -69,6 +69,12 @@ def get_genic(contig_bounds, contig_seq, start_dict, mid_dict, stop_dict):
                 # update middle codon count
                 mid_dict[codon] += 1
 
+def count_to_freq(dict):
+    # make counts into frequencies
+    num_values = sum(dict.values())
+    for key in dict:
+        dict[key] = dict[key] / num_values
+
 
 def main():
     # read in command line arguments
@@ -109,14 +115,23 @@ def main():
         # get genic regions and populate codon_dict
         get_genic(contig_bounds, contig_seq, start_dict, mid_dict, stop_dict)
 
+        # make counts into frequencies
+        count_to_freq(nuc_dict)
+        count_to_freq(start_dict)
+        count_to_freq(mid_dict)
+        count_to_freq(stop_dict)
 
 
-    # print(fasta_dict["DN38.contig00001"].seq[653:656])
-
-    print(json.dumps(nuc_dict, indent=4))
-    print(json.dumps(start_dict, indent=4))
-    print(json.dumps(mid_dict, indent=4))
-    print(json.dumps(stop_dict, indent=4))
+    # output to file :D
+    with open(output_file, 'w') as file:
+        sys.stdout = file
+        json.dump(nuc_dict, file, indent=4)
+        print('\nstart codon frequencies')
+        json.dump(start_dict, file, indent=4)
+        print('\nmiddle codon frequencies')
+        json.dump(mid_dict, file, indent=4)
+        print('\nstop codon frequencies')
+        json.dump(stop_dict, file, indent=4)
 
 
 
