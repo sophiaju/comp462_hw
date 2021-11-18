@@ -64,7 +64,7 @@ def get_intergenic(contig_bounds, contig_seq, nuc_dict, contig_name):
         pop_nuc_dict_list(all_inter, nuc_dict, contig_name)
         # print(nuc_dict)
 
-def get_genic(contig_bounds, contig_seq, start_dict, mid_dict, stop_dict):
+def get_genic(contig_bounds, contig_seq, start_dict, mid_dict, stop_dict, contig_name):
     if not contig_bounds.empty:
         # for each genic region
         for i in range(0, len(contig_bounds)):
@@ -78,11 +78,19 @@ def get_genic(contig_bounds, contig_seq, start_dict, mid_dict, stop_dict):
             stop_codon = gen_chunk[-3:]
             stop_dict[stop_codon] += 1
 
+            # if contig_name == 'DN38.contig00082':
+            #     print(start_codon, stop_codon)
+
             middle_chunk = gen_chunk[3:-3]
+
+            # if contig_name == 'DN38.contig00082':
+            #     print(middle_chunk)
+
             # go codon by codon
             for i in range(0,len(middle_chunk),3):
                 codon = middle_chunk[i:i+3]
-
+                # if contig_name == 'DN38.contig00082':
+                #     print(codon)
                 # update middle codon count
                 mid_dict[codon] += 1
 
@@ -123,6 +131,9 @@ def main():
         contig_name = fasta_dict[contig].id
         contig_seq = fasta_dict[contig].seq
 
+        # if contig_name == 'DN38.contig00082':
+        #     print(contig_seq)
+
         contig_bounds = bounds_df.loc[bounds_df['contig']==contig_name, ['start','end']].reset_index()
 
         # print(contig_name)
@@ -131,7 +142,7 @@ def main():
         get_intergenic(contig_bounds, contig_seq, nuc_dict, contig_name)
         
         # get genic regions and populate codon_dict
-        get_genic(contig_bounds, contig_seq, start_dict, mid_dict, stop_dict)
+        get_genic(contig_bounds, contig_seq, start_dict, mid_dict, stop_dict, contig_name)
 
     # make counts into frequencies
     count_to_freq(nuc_dict)
