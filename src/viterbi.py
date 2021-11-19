@@ -197,7 +197,7 @@ def gen_gff3(contig_name, path):
             start = i[1] - 1
         if i[0] == 'stop':
             stop = i[1] + 1
-            gff3.append([contig_name, 'ena', start, stop, '.', '+', '0', '.'])
+            gff3.append([contig_name, 'ena', 'CDS', start, stop, '.', '+', '0', '.'])
 
     return(gff3)
 

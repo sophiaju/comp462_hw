@@ -1,11 +1,12 @@
 import os, sys
 import argparse
-import json
+import json, csv
 from Bio import SeqIO
 import math
 import pandas as pd
 
-def get_match_counts(first_group, sec_group, dict):
+def get_match_counts(first_group, sec_group, dict, seq_length, no_match_bounds):
+
 
     for first_contig in first_group:
 
@@ -28,15 +29,21 @@ def get_match_counts(first_group, sec_group, dict):
                 # matches neither
                 if a_start not in sec_start_list and a_end not in sec_end_list:
                     dict['none'] += 1
+                    seq_length['none'] += a_end - a_start
+                    no_match_bounds.append([first_contig_name, a_start, a_end])
                 # matches start but not end
                 elif a_start in sec_start_list and a_end not in sec_end_list:
                     dict['start'] += 1
+                    seq_length['start'] += a_end - a_start
                 # matches end but not start
                 elif a_start not in sec_start_list and a_end in sec_end_list:
                     dict['end'] += 1
+                    seq_length['end'] += a_end - a_start
                 # matches both
                 else:
                     dict['both'] += 1
+                    seq_length['both'] += a_end - a_start
+
 
         # if first contig not in second, no matches
         else:
@@ -59,9 +66,10 @@ def main():
     bounds_file = args.bounds
     gff3_file = args.gff3
 
+
     annotated_df = pd.read_csv(bounds_file, names=['contig', 'start', 'end'], sep=' ')
-    predicted_df = pd.read_csv(gff3_file, names=['contig',2, 'start', 'end', 5, 6, 7, 8], sep='\t')
-    predicted_df.drop(columns=[2,5,6,7,8], inplace=True)
+    predicted_df = pd.read_csv(gff3_file, names=['contig',2, 3,'start', 'end', 5, 6, 7, 8], sep='\t')
+    predicted_df.drop(columns=[2,3,5,6,7,8], inplace=True)
 
     annot_gr = annotated_df.groupby('contig')
     pred_gr = predicted_df.groupby('contig')
@@ -69,7 +77,27 @@ def main():
     # for each contig in the annotated (given) file
     a_matches = {'both':0, 'start':0, 'end':0, 'none':0}
 
-    get_match_counts(annot_gr, pred_gr, a_matches)
+    # get length of sequences
+    seq_length = {'both':0, 'start':0, 'end':0, 'none':0}
+
+    # get bounds of sequences with no match
+    no_match_bounds_a = []
+
+    get_match_counts(annot_gr, pred_gr, a_matches, seq_length, no_match_bounds_a)
+
+
+
+    print('number of annotated genes:',sum(a_matches.values()))
+
+    # get avg len of each category
+    for key, count in seq_length.items():
+        if a_matches[key] != 0:
+            seq_length[key] = count / a_matches[key]
+
+    print("lengths of annotated genes:")
+    print(seq_length)
+    # print(a_matches)
+
     count_to_freq(a_matches)
     print('fraction of annotated genes that: \nperfectly match both ends of one of predicted genes: ', a_matches['both'])
     print('match the start but not the end of a predicted gene:', a_matches['start'])
@@ -80,7 +108,24 @@ def main():
 
     # same with predicted genes
     p_matches = {'both':0, 'start':0, 'end':0, 'none':0}
-    get_match_counts(pred_gr, annot_gr, p_matches)
+
+    # get length of sequences
+    seq_length = {'both':0, 'start':0, 'end':0, 'none':0}
+    
+    no_match_bounds_p = []
+
+    get_match_counts(pred_gr, annot_gr, p_matches, seq_length, no_match_bounds_p)
+    print('number of predicted genes:',sum(p_matches.values()))
+
+    # get avg len of each category
+    for key, count in seq_length.items():
+        if p_matches[key] != 0:
+            seq_length[key] = count / p_matches[key]
+
+    print("lengths of predicted genes:")
+    print(seq_length)
+    # print(p_matches)
+
     count_to_freq(p_matches)
     print('fraction of predicted genes that: \nperfectly match both ends of one of annotated genes: ', p_matches['both'])
     print('match the start but not the end of a annotated gene:', p_matches['start'])
@@ -88,7 +133,16 @@ def main():
     print('do not match either the start or end of a annotated gene:', p_matches['none'])
 
 
+    # print(no_match_bounds_a)
+    with open('../extra/no_match_bounds_a.csv', 'w', newline='') as file:
+        csvwriter = csv.writer(file, delimiter=' ')
+        for line in no_match_bounds_a:
+            csvwriter.writerow(line)
 
+    with open('../extra/no_match_bound_p.csv', 'w', newline='') as outfile:
+        csvwriter = csv.writer(outfile, delimiter=' ')
+        for line in no_match_bounds_p:
+            csvwriter.writerow(line)
 
 if __name__ == '__main__':
     main()

@@ -1,5 +1,7 @@
 ### I ran everything from the src directory
 
+First, `pip install biopython` at the command line
+
 ## To get results for Q1.a):
 1. run `get_boundaries.sh input.file output.file strand_code`\
 exact command I used is:\

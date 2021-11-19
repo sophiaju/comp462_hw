@@ -19,7 +19,10 @@ def main():
 
     # read in lengths of each contig region
     df_gff = pd.read_csv(gff3_file, sep = ' ', skiprows=[0], nrows=151, names=[0,1,2,'contig','start','end'])
+    # for analysis question
+    # df_gff = pd.read_csv(gff3_file, sep = ' ', skiprows=[0], nrows=388, names=[0,1,2,'contig','start','end'])
     df_gff.drop(columns=[0,1,2], inplace=True)
+    # print(df_gff)
     contig_len_dict=df_gff.set_index('contig').to_dict('index')
 
     # avg lengths dict
@@ -36,6 +39,8 @@ def main():
     # calculate length of intergenic region
     num_intergenic = 0
     sum_intergenic = 0
+
+    # print(contig_len_dict.keys())
 
     # group dataframe by contig
     grouped = df.groupby(by='contig')

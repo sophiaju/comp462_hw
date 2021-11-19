@@ -1,2579 +1,2579 @@
-contig_32	ena	573	971	.	+	0	.
-contig_32	ena	1230	3065	.	+	0	.
-contig_32	ena	3519	4709	.	+	0	.
-contig_32	ena	4920	6500	.	+	0	.
-contig_32	ena	7430	8536	.	+	0	.
-contig_32	ena	8713	10785	.	+	0	.
-contig_32	ena	10917	11009	.	+	0	.
-contig_32	ena	12085	12501	.	+	0	.
-contig_32	ena	12688	14961	.	+	0	.
-contig_32	ena	15759	15971	.	+	0	.
-contig_32	ena	19828	19986	.	+	0	.
-contig_32	ena	20211	21446	.	+	0	.
-contig_32	ena	21707	21835	.	+	0	.
-contig_32	ena	21853	22443	.	+	0	.
-contig_32	ena	22461	23336	.	+	0	.
-contig_32	ena	23517	24059	.	+	0	.
-contig_32	ena	24548	25792	.	+	0	.
-contig_32	ena	27923	28081	.	+	0	.
-contig_32	ena	29348	29533	.	+	0	.
-contig_32	ena	31705	32826	.	+	0	.
-contig_32	ena	32924	33502	.	+	0	.
-contig_32	ena	33513	34757	.	+	0	.
-contig_32	ena	35811	37721	.	+	0	.
-contig_32	ena	37754	39505	.	+	0	.
-contig_32	ena	39916	40512	.	+	0	.
-contig_32	ena	41038	41427	.	+	0	.
-contig_32	ena	41750	42385	.	+	0	.
-contig_32	ena	42712	42798	.	+	0	.
-contig_32	ena	47528	48322	.	+	0	.
-contig_32	ena	50813	52648	.	+	0	.
-contig_32	ena	58531	59997	.	+	0	.
-contig_32	ena	60457	61014	.	+	0	.
-contig_32	ena	61155	61931	.	+	0	.
-contig_32	ena	62022	62762	.	+	0	.
-contig_32	ena	62769	63446	.	+	0	.
-contig_32	ena	63594	66314	.	+	0	.
-contig_32	ena	67582	69534	.	+	0	.
-contig_32	ena	72399	72512	.	+	0	.
-contig_32	ena	73817	74644	.	+	0	.
-contig_32	ena	74845	75336	.	+	0	.
-contig_32	ena	76448	78604	.	+	0	.
-contig_32	ena	79453	79773	.	+	0	.
-contig_32	ena	80079	82097	.	+	0	.
-contig_32	ena	84071	84448	.	+	0	.
-contig_32	ena	84573	85859	.	+	0	.
-contig_32	ena	86722	89346	.	+	0	.
-contig_32	ena	89884	91044	.	+	0	.
-contig_32	ena	91049	92491	.	+	0	.
-contig_32	ena	92859	93539	.	+	0	.
-contig_32	ena	97901	98614	.	+	0	.
-contig_32	ena	99593	100402	.	+	0	.
-contig_32	ena	100405	101742	.	+	0	.
-contig_32	ena	101750	102445	.	+	0	.
-contig_32	ena	102475	106905	.	+	0	.
-contig_32	ena	107587	107781	.	+	0	.
-contig_32	ena	108216	109652	.	+	0	.
-contig_32	ena	109733	110614	.	+	0	.
-contig_32	ena	111018	111371	.	+	0	.
-contig_32	ena	117448	117828	.	+	0	.
-contig_32	ena	118286	119806	.	+	0	.
-contig_32	ena	119873	120394	.	+	0	.
-contig_32	ena	120478	121098	.	+	0	.
-contig_32	ena	121393	122124	.	+	0	.
-contig_32	ena	122587	124173	.	+	0	.
-contig_32	ena	124190	125326	.	+	0	.
-contig_32	ena	125339	125446	.	+	0	.
-contig_32	ena	126358	126978	.	+	0	.
-contig_32	ena	127008	127418	.	+	0	.
-contig_32	ena	127433	128500	.	+	0	.
-contig_32	ena	128531	129862	.	+	0	.
-contig_32	ena	129894	130439	.	+	0	.
-contig_32	ena	130455	131237	.	+	0	.
-contig_32	ena	131366	132427	.	+	0	.
-contig_32	ena	132704	133573	.	+	0	.
-contig_32	ena	133594	133989	.	+	0	.
-contig_32	ena	134512	135720	.	+	0	.
-contig_32	ena	136756	139020	.	+	0	.
-contig_32	ena	139266	139715	.	+	0	.
-contig_32	ena	141089	142009	.	+	0	.
-contig_32	ena	142048	143358	.	+	0	.
-contig_32	ena	143459	148393	.	+	0	.
-contig_32	ena	148605	150485	.	+	0	.
-contig_32	ena	150494	150706	.	+	0	.
-contig_32	ena	150895	152685	.	+	0	.
-contig_32	ena	158795	159847	.	+	0	.
-contig_32	ena	159854	160657	.	+	0	.
-contig_32	ena	165289	165660	.	+	0	.
-contig_32	ena	166154	166327	.	+	0	.
-contig_32	ena	166376	166909	.	+	0	.
-contig_32	ena	167070	167414	.	+	0	.
-contig_32	ena	167432	167962	.	+	0	.
-contig_32	ena	168060	168449	.	+	0	.
-contig_32	ena	168508	169143	.	+	0	.
-contig_32	ena	171431	172147	.	+	0	.
-contig_32	ena	172358	173536	.	+	0	.
-contig_32	ena	173569	175317	.	+	0	.
-contig_32	ena	175360	176826	.	+	0	.
-contig_32	ena	176876	177250	.	+	0	.
-contig_32	ena	177312	177911	.	+	0	.
-contig_32	ena	177950	179071	.	+	0	.
-contig_32	ena	179417	180412	.	+	0	.
-contig_32	ena	180780	181403	.	+	0	.
-contig_32	ena	185883	186425	.	+	0	.
-contig_32	ena	186786	187088	.	+	0	.
-contig_32	ena	189455	191878	.	+	0	.
-contig_32	ena	195159	196955	.	+	0	.
-contig_32	ena	197645	199525	.	+	0	.
-contig_32	ena	199621	200319	.	+	0	.
-contig_32	ena	200423	200623	.	+	0	.
-contig_32	ena	202088	204202	.	+	0	.
-contig_32	ena	208193	208594	.	+	0	.
-contig_32	ena	208859	209824	.	+	0	.
-contig_32	ena	209885	210817	.	+	0	.
-contig_32	ena	210823	211608	.	+	0	.
-contig_32	ena	211752	213590	.	+	0	.
-contig_32	ena	213779	215197	.	+	0	.
-contig_32	ena	216287	216895	.	+	0	.
-contig_32	ena	219810	220649	.	+	0	.
-contig_32	ena	220863	221459	.	+	0	.
-contig_32	ena	221894	222892	.	+	0	.
-contig_32	ena	223112	224344	.	+	0	.
-contig_32	ena	224381	225379	.	+	0	.
-contig_32	ena	225879	226454	.	+	0	.
-contig_32	ena	226972	228093	.	+	0	.
-contig_32	ena	228257	228802	.	+	0	.
-contig_32	ena	228872	229528	.	+	0	.
-contig_32	ena	230040	230252	.	+	0	.
-contig_32	ena	230588	230917	.	+	0	.
-contig_32	ena	231532	232452	.	+	0	.
-contig_32	ena	232577	233116	.	+	0	.
-contig_32	ena	233142	234413	.	+	0	.
-contig_32	ena	234570	235880	.	+	0	.
-contig_32	ena	236050	236511	.	+	0	.
-contig_32	ena	236842	237006	.	+	0	.
-contig_32	ena	237463	239034	.	+	0	.
-contig_32	ena	239281	241107	.	+	0	.
-contig_32	ena	244045	244635	.	+	0	.
-contig_32	ena	252456	252818	.	+	0	.
-contig_32	ena	254936	255106	.	+	0	.
-contig_32	ena	259220	259777	.	+	0	.
-contig_32	ena	259782	261488	.	+	0	.
-contig_32	ena	263360	264715	.	+	0	.
-contig_32	ena	265244	266620	.	+	0	.
-contig_32	ena	266641	267642	.	+	0	.
-contig_32	ena	267729	269273	.	+	0	.
-contig_32	ena	269275	269850	.	+	0	.
-contig_32	ena	269883	270437	.	+	0	.
-contig_32	ena	270504	270920	.	+	0	.
-contig_32	ena	271207	272214	.	+	0	.
-contig_32	ena	272267	272572	.	+	0	.
-contig_32	ena	272577	273932	.	+	0	.
-contig_32	ena	273943	274377	.	+	0	.
-contig_32	ena	276112	276288	.	+	0	.
-contig_17	ena	371	682	.	+	0	.
-contig_17	ena	686	1393	.	+	0	.
-contig_17	ena	1441	3276	.	+	0	.
-contig_17	ena	4458	5963	.	+	0	.
-contig_17	ena	6170	7009	.	+	0	.
-contig_17	ena	7111	8178	.	+	0	.
-contig_17	ena	8223	9347	.	+	0	.
-contig_17	ena	9355	9969	.	+	0	.
-contig_17	ena	9972	10727	.	+	0	.
-contig_17	ena	10812	11423	.	+	0	.
-contig_17	ena	11440	12942	.	+	0	.
-contig_17	ena	12950	14002	.	+	0	.
-contig_17	ena	15710	15862	.	+	0	.
-contig_17	ena	16696	16953	.	+	0	.
-contig_17	ena	18703	19053	.	+	0	.
-contig_17	ena	25536	26672	.	+	0	.
-contig_17	ena	26975	27112	.	+	0	.
-contig_17	ena	27363	27638	.	+	0	.
-contig_17	ena	27770	29953	.	+	0	.
-contig_17	ena	30046	31170	.	+	0	.
-contig_17	ena	31259	32530	.	+	0	.
-contig_17	ena	35387	36061	.	+	0	.
-contig_17	ena	38057	38869	.	+	0	.
-contig_17	ena	39402	40487	.	+	0	.
-contig_17	ena	40507	41604	.	+	0	.
-contig_17	ena	41607	42512	.	+	0	.
-contig_17	ena	42516	43070	.	+	0	.
-contig_17	ena	43191	45047	.	+	0	.
-contig_17	ena	45220	46386	.	+	0	.
-contig_17	ena	46824	47066	.	+	0	.
-contig_17	ena	47597	47881	.	+	0	.
-contig_17	ena	48008	49285	.	+	0	.
-contig_17	ena	50356	54873	.	+	0	.
-contig_17	ena	56041	56670	.	+	0	.
-contig_17	ena	56687	57289	.	+	0	.
-contig_17	ena	57523	57588	.	+	0	.
-contig_17	ena	58145	58429	.	+	0	.
-contig_17	ena	58451	58729	.	+	0	.
-contig_17	ena	58740	59072	.	+	0	.
-contig_17	ena	59091	59792	.	+	0	.
-contig_17	ena	59804	60214	.	+	0	.
-contig_17	ena	60301	60405	.	+	0	.
-contig_17	ena	60822	61193	.	+	0	.
-contig_17	ena	61207	61524	.	+	0	.
-contig_17	ena	61626	62090	.	+	0	.
-contig_17	ena	62123	62413	.	+	0	.
-contig_17	ena	62444	62836	.	+	0	.
-contig_17	ena	62849	63382	.	+	0	.
-contig_17	ena	63392	63745	.	+	0	.
-contig_17	ena	64048	64263	.	+	0	.
-contig_17	ena	64271	64447	.	+	0	.
-contig_17	ena	64454	64888	.	+	0	.
-contig_17	ena	64909	66243	.	+	0	.
-contig_17	ena	66650	66898	.	+	0	.
-contig_17	ena	66917	67306	.	+	0	.
-contig_17	ena	67334	67954	.	+	0	.
-contig_17	ena	67978	68970	.	+	0	.
-contig_17	ena	68997	69380	.	+	0	.
-contig_17	ena	71350	71706	.	+	0	.
-contig_17	ena	74671	75051	.	+	0	.
-contig_17	ena	76080	76949	.	+	0	.
-contig_17	ena	77007	77915	.	+	0	.
-contig_17	ena	77933	79363	.	+	0	.
-contig_17	ena	79447	81171	.	+	0	.
-contig_17	ena	81185	81808	.	+	0	.
-contig_17	ena	83492	83647	.	+	0	.
-contig_17	ena	85883	86008	.	+	0	.
-contig_17	ena	86501	86701	.	+	0	.
-contig_17	ena	86776	86823	.	+	0	.
-contig_17	ena	88858	90573	.	+	0	.
-contig_17	ena	90579	94325	.	+	0	.
-contig_17	ena	94449	94736	.	+	0	.
-contig_17	ena	94858	95196	.	+	0	.
-contig_17	ena	97425	98675	.	+	0	.
-contig_17	ena	98692	99336	.	+	0	.
-contig_17	ena	99603	100565	.	+	0	.
-contig_17	ena	100611	102182	.	+	0	.
-contig_17	ena	102194	102880	.	+	0	.
-contig_17	ena	103925	104992	.	+	0	.
-contig_17	ena	110943	111050	.	+	0	.
-contig_17	ena	111427	111612	.	+	0	.
-contig_17	ena	114717	115520	.	+	0	.
-contig_17	ena	115531	116301	.	+	0	.
-contig_17	ena	116304	116792	.	+	0	.
-contig_17	ena	116797	117432	.	+	0	.
-contig_17	ena	117654	117749	.	+	0	.
-contig_17	ena	117912	118007	.	+	0	.
-contig_17	ena	118017	119282	.	+	0	.
-contig_17	ena	119422	120147	.	+	0	.
-contig_17	ena	122430	122831	.	+	0	.
-contig_17	ena	125538	125603	.	+	0	.
-contig_17	ena	126073	126633	.	+	0	.
-contig_17	ena	128332	128589	.	+	0	.
-contig_17	ena	128745	129914	.	+	0	.
-contig_17	ena	130368	130841	.	+	0	.
-contig_17	ena	130871	131305	.	+	0	.
-contig_17	ena	131315	131803	.	+	0	.
-contig_17	ena	133734	133826	.	+	0	.
-contig_17	ena	138758	139621	.	+	0	.
-contig_17	ena	142330	142506	.	+	0	.
-contig_17	ena	145983	146750	.	+	0	.
-contig_17	ena	146976	147524	.	+	0	.
-contig_17	ena	147529	148575	.	+	0	.
-contig_17	ena	148928	149887	.	+	0	.
-contig_17	ena	150075	151880	.	+	0	.
-contig_17	ena	152349	154064	.	+	0	.
-contig_17	ena	154090	154560	.	+	0	.
-contig_17	ena	154713	156593	.	+	0	.
-contig_17	ena	159749	160510	.	+	0	.
-contig_17	ena	160627	162408	.	+	0	.
-contig_17	ena	165958	166665	.	+	0	.
-contig_17	ena	174254	175087	.	+	0	.
-contig_17	ena	175208	176026	.	+	0	.
-contig_17	ena	176225	176314	.	+	0	.
-contig_17	ena	176851	177210	.	+	0	.
-contig_17	ena	177402	177689	.	+	0	.
-contig_17	ena	177705	178508	.	+	0	.
-contig_17	ena	180081	182051	.	+	0	.
-contig_17	ena	185254	186717	.	+	0	.
-contig_52	ena	756	1304	.	+	0	.
-contig_52	ena	1738	1875	.	+	0	.
-contig_52	ena	1880	2581	.	+	0	.
-contig_52	ena	2872	3360	.	+	0	.
-contig_52	ena	3463	3789	.	+	0	.
-contig_52	ena	4040	8068	.	+	0	.
-contig_52	ena	8525	12346	.	+	0	.
-contig_52	ena	13345	13962	.	+	0	.
-contig_52	ena	14068	14553	.	+	0	.
-contig_52	ena	14558	15298	.	+	0	.
-contig_52	ena	15613	16680	.	+	0	.
-contig_52	ena	18581	18976	.	+	0	.
-contig_52	ena	20816	21400	.	+	0	.
-contig_52	ena	24914	25312	.	+	0	.
-contig_52	ena	25354	25602	.	+	0	.
-contig_52	ena	35945	36070	.	+	0	.
-contig_52	ena	37199	38389	.	+	0	.
-contig_52	ena	39046	41916	.	+	0	.
-contig_52	ena	44667	44723	.	+	0	.
-contig_52	ena	46087	46245	.	+	0	.
-contig_52	ena	52848	53378	.	+	0	.
-contig_52	ena	54149	54265	.	+	0	.
-contig_52	ena	55734	56135	.	+	0	.
-contig_52	ena	57003	57518	.	+	0	.
-contig_52	ena	57632	58546	.	+	0	.
-contig_52	ena	58833	59795	.	+	0	.
-contig_52	ena	61838	63478	.	+	0	.
-contig_52	ena	63821	64375	.	+	0	.
-contig_52	ena	66122	66643	.	+	0	.
-contig_52	ena	66896	67474	.	+	0	.
-contig_52	ena	67699	69102	.	+	0	.
-contig_52	ena	69178	69228	.	+	0	.
-contig_52	ena	72966	73880	.	+	0	.
-contig_52	ena	74761	75015	.	+	0	.
-contig_52	ena	75266	76102	.	+	0	.
-contig_52	ena	80889	82469	.	+	0	.
-contig_52	ena	83756	83875	.	+	0	.
-contig_52	ena	84266	84655	.	+	0	.
-contig_52	ena	87262	87807	.	+	0	.
-contig_52	ena	90893	91363	.	+	0	.
-contig_52	ena	91486	93078	.	+	0	.
-contig_52	ena	93087	95081	.	+	0	.
-contig_52	ena	95086	96033	.	+	0	.
-contig_52	ena	96211	96471	.	+	0	.
-contig_52	ena	96744	97802	.	+	0	.
-contig_52	ena	98304	99047	.	+	0	.
-contig_52	ena	99050	100030	.	+	0	.
-contig_52	ena	100718	101785	.	+	0	.
-contig_52	ena	102013	102654	.	+	0	.
-contig_52	ena	103326	103511	.	+	0	.
-contig_52	ena	104071	104496	.	+	0	.
-contig_52	ena	104539	104724	.	+	0	.
-contig_52	ena	106217	108670	.	+	0	.
-contig_52	ena	108708	109451	.	+	0	.
-contig_52	ena	109546	110232	.	+	0	.
-contig_52	ena	110368	111384	.	+	0	.
-contig_52	ena	112170	112946	.	+	0	.
-contig_52	ena	112970	116236	.	+	0	.
-contig_52	ena	116379	116957	.	+	0	.
-contig_52	ena	117374	118519	.	+	0	.
-contig_52	ena	118797	119774	.	+	0	.
-contig_52	ena	119789	121249	.	+	0	.
-contig_52	ena	121462	122253	.	+	0	.
-contig_52	ena	124698	125012	.	+	0	.
-contig_52	ena	128329	128907	.	+	0	.
-contig_52	ena	128954	130249	.	+	0	.
-contig_52	ena	130252	130692	.	+	0	.
-contig_52	ena	130695	130901	.	+	0	.
-contig_52	ena	131016	131597	.	+	0	.
-contig_52	ena	131724	132665	.	+	0	.
-contig_52	ena	134099	134881	.	+	0	.
-contig_52	ena	135063	135755	.	+	0	.
-contig_52	ena	135776	136147	.	+	0	.
-contig_52	ena	136956	137330	.	+	0	.
-contig_52	ena	137448	137918	.	+	0	.
-contig_52	ena	138313	138507	.	+	0	.
-contig_52	ena	138555	140093	.	+	0	.
-contig_9	ena	14483	14659	.	+	0	.
-contig_9	ena	15734	16738	.	+	0	.
-contig_9	ena	17598	18260	.	+	0	.
-contig_9	ena	18620	18751	.	+	0	.
-contig_9	ena	20110	21402	.	+	0	.
-contig_9	ena	24578	24856	.	+	0	.
-contig_9	ena	26473	27810	.	+	0	.
-contig_9	ena	28096	29145	.	+	0	.
-contig_9	ena	30539	33877	.	+	0	.
-contig_9	ena	34818	36491	.	+	0	.
-contig_9	ena	36693	37646	.	+	0	.
-contig_9	ena	37649	38674	.	+	0	.
-contig_9	ena	38677	39660	.	+	0	.
-contig_9	ena	39698	40693	.	+	0	.
-contig_9	ena	40769	42490	.	+	0	.
-contig_9	ena	42492	43382	.	+	0	.
-contig_9	ena	43392	45311	.	+	0	.
-contig_9	ena	45402	47807	.	+	0	.
-contig_9	ena	47879	49291	.	+	0	.
-contig_9	ena	55515	56711	.	+	0	.
-contig_9	ena	56838	58064	.	+	0	.
-contig_9	ena	58079	59215	.	+	0	.
-contig_9	ena	68989	69321	.	+	0	.
-contig_9	ena	69448	70164	.	+	0	.
-contig_9	ena	70471	70743	.	+	0	.
-contig_9	ena	70806	71687	.	+	0	.
-contig_9	ena	72533	73135	.	+	0	.
-contig_9	ena	73333	73617	.	+	0	.
-contig_9	ena	73641	74435	.	+	0	.
-contig_9	ena	74448	75353	.	+	0	.
-contig_9	ena	79224	79892	.	+	0	.
-contig_9	ena	80985	81539	.	+	0	.
-contig_9	ena	88930	89037	.	+	0	.
-contig_9	ena	89944	90672	.	+	0	.
-contig_9	ena	90892	91362	.	+	0	.
-contig_9	ena	91623	93050	.	+	0	.
-contig_9	ena	93098	94324	.	+	0	.
-contig_9	ena	94763	95287	.	+	0	.
-contig_9	ena	95289	95897	.	+	0	.
-contig_9	ena	95930	96670	.	+	0	.
-contig_9	ena	99995	100204	.	+	0	.
-contig_9	ena	101000	101794	.	+	0	.
-contig_9	ena	102196	103158	.	+	0	.
-contig_9	ena	105764	105832	.	+	0	.
-contig_9	ena	106174	106494	.	+	0	.
-contig_9	ena	122512	125073	.	+	0	.
-contig_25	ena	345	545	.	+	0	.
-contig_25	ena	724	2562	.	+	0	.
-contig_25	ena	2653	3264	.	+	0	.
-contig_25	ena	3368	3595	.	+	0	.
-contig_25	ena	3637	4191	.	+	0	.
-contig_25	ena	4650	5045	.	+	0	.
-contig_25	ena	5167	6864	.	+	0	.
-contig_25	ena	7027	8067	.	+	0	.
-contig_25	ena	10188	10370	.	+	0	.
-contig_25	ena	10404	11393	.	+	0	.
-contig_25	ena	11439	12383	.	+	0	.
-contig_25	ena	12698	13807	.	+	0	.
-contig_25	ena	15282	15950	.	+	0	.
-contig_25	ena	16063	17178	.	+	0	.
-contig_25	ena	18820	19677	.	+	0	.
-contig_25	ena	20520	20912	.	+	0	.
-contig_25	ena	20936	21874	.	+	0	.
-contig_25	ena	21930	23465	.	+	0	.
-contig_25	ena	23660	24841	.	+	0	.
-contig_25	ena	24847	25935	.	+	0	.
-contig_25	ena	26679	26831	.	+	0	.
-contig_25	ena	27390	28190	.	+	0	.
-contig_25	ena	29158	31638	.	+	0	.
-contig_25	ena	31851	32303	.	+	0	.
-contig_25	ena	32353	32880	.	+	0	.
-contig_25	ena	32954	33166	.	+	0	.
-contig_25	ena	33176	33781	.	+	0	.
-contig_25	ena	34400	34807	.	+	0	.
-contig_25	ena	34942	35406	.	+	0	.
-contig_25	ena	35408	35665	.	+	0	.
-contig_25	ena	36159	36506	.	+	0	.
-contig_25	ena	36716	37363	.	+	0	.
-contig_25	ena	38015	40216	.	+	0	.
-contig_25	ena	40840	41571	.	+	0	.
-contig_25	ena	41604	42098	.	+	0	.
-contig_25	ena	42108	42458	.	+	0	.
-contig_25	ena	42594	44621	.	+	0	.
-contig_25	ena	44630	45025	.	+	0	.
-contig_25	ena	45294	46226	.	+	0	.
-contig_25	ena	47327	47518	.	+	0	.
-contig_25	ena	47676	48278	.	+	0	.
-contig_25	ena	48467	48946	.	+	0	.
-contig_25	ena	48976	49680	.	+	0	.
-contig_25	ena	49894	50205	.	+	0	.
-contig_25	ena	50213	50497	.	+	0	.
-contig_25	ena	50752	53511	.	+	0	.
-contig_25	ena	53521	54069	.	+	0	.
-contig_25	ena	54269	54592	.	+	0	.
-contig_25	ena	54860	55114	.	+	0	.
-contig_25	ena	55149	55358	.	+	0	.
-contig_25	ena	55473	56015	.	+	0	.
-contig_25	ena	56525	56761	.	+	0	.
-contig_25	ena	56774	57763	.	+	0	.
-contig_25	ena	57772	57966	.	+	0	.
-contig_25	ena	58293	59150	.	+	0	.
-contig_25	ena	59407	59625	.	+	0	.
-contig_25	ena	63225	63287	.	+	0	.
-contig_25	ena	63396	63689	.	+	0	.
-contig_25	ena	74800	75189	.	+	0	.
-contig_25	ena	75220	76290	.	+	0	.
-contig_25	ena	76315	77571	.	+	0	.
-contig_25	ena	77852	80869	.	+	0	.
-contig_25	ena	81195	82796	.	+	0	.
-contig_25	ena	83093	84346	.	+	0	.
-contig_25	ena	84496	85200	.	+	0	.
-contig_25	ena	85362	86648	.	+	0	.
-contig_25	ena	87227	88015	.	+	0	.
-contig_25	ena	88184	89044	.	+	0	.
-contig_25	ena	89113	89898	.	+	0	.
-contig_25	ena	89904	91019	.	+	0	.
-contig_25	ena	91589	92587	.	+	0	.
-contig_25	ena	92638	93318	.	+	0	.
-contig_25	ena	93322	94683	.	+	0	.
-contig_25	ena	94937	96826	.	+	0	.
-contig_25	ena	100757	101899	.	+	0	.
-contig_25	ena	102059	102631	.	+	0	.
-contig_25	ena	102702	103982	.	+	0	.
-contig_25	ena	104173	106452	.	+	0	.
-contig_25	ena	106625	106918	.	+	0	.
-contig_25	ena	107095	108954	.	+	0	.
-contig_25	ena	109120	109389	.	+	0	.
-contig_25	ena	110000	110608	.	+	0	.
-contig_25	ena	110858	111052	.	+	0	.
-contig_25	ena	114078	115400	.	+	0	.
-contig_25	ena	115418	117091	.	+	0	.
-contig_25	ena	117342	117863	.	+	0	.
-contig_25	ena	117877	118755	.	+	0	.
-contig_25	ena	118895	119884	.	+	0	.
-contig_25	ena	120319	121314	.	+	0	.
-contig_25	ena	125353	126222	.	+	0	.
-contig_25	ena	127362	128333	.	+	0	.
-contig_25	ena	128399	131446	.	+	0	.
-contig_25	ena	132248	132586	.	+	0	.
-contig_25	ena	132958	133362	.	+	0	.
-contig_25	ena	133906	134367	.	+	0	.
-contig_33	ena	92	232	.	+	0	.
-contig_33	ena	590	1129	.	+	0	.
-contig_33	ena	4167	5648	.	+	0	.
-contig_33	ena	7817	9484	.	+	0	.
-contig_33	ena	9494	10939	.	+	0	.
-contig_33	ena	11068	11409	.	+	0	.
-contig_33	ena	11446	11883	.	+	0	.
-contig_33	ena	12862	13239	.	+	0	.
-contig_33	ena	13283	14788	.	+	0	.
-contig_33	ena	14968	15771	.	+	0	.
-contig_33	ena	15848	16726	.	+	0	.
-contig_33	ena	16881	17801	.	+	0	.
-contig_33	ena	17822	18841	.	+	0	.
-contig_33	ena	19718	20701	.	+	0	.
-contig_33	ena	22083	22631	.	+	0	.
-contig_33	ena	26072	26614	.	+	0	.
-contig_33	ena	26617	26970	.	+	0	.
-contig_33	ena	27053	27406	.	+	0	.
-contig_33	ena	27409	27993	.	+	0	.
-contig_33	ena	28106	31204	.	+	0	.
-contig_33	ena	31209	32324	.	+	0	.
-contig_33	ena	32549	33604	.	+	0	.
-contig_33	ena	33613	36678	.	+	0	.
-contig_33	ena	37213	40962	.	+	0	.
-contig_33	ena	41582	42334	.	+	0	.
-contig_33	ena	42978	43193	.	+	0	.
-contig_33	ena	43320	44030	.	+	0	.
-contig_33	ena	44108	45358	.	+	0	.
-contig_33	ena	45436	45819	.	+	0	.
-contig_33	ena	45822	47021	.	+	0	.
-contig_33	ena	47048	48283	.	+	0	.
-contig_33	ena	48493	49197	.	+	0	.
-contig_33	ena	49275	50072	.	+	0	.
-contig_33	ena	50134	51195	.	+	0	.
-contig_33	ena	51300	51719	.	+	0	.
-contig_33	ena	51976	52290	.	+	0	.
-contig_33	ena	52292	53572	.	+	0	.
-contig_33	ena	53574	54140	.	+	0	.
-contig_33	ena	55209	55850	.	+	0	.
-contig_33	ena	56455	56709	.	+	0	.
-contig_33	ena	57621	57782	.	+	0	.
-contig_33	ena	59521	60921	.	+	0	.
-contig_33	ena	60924	61598	.	+	0	.
-contig_33	ena	61759	62352	.	+	0	.
-contig_33	ena	64225	65148	.	+	0	.
-contig_33	ena	65189	66091	.	+	0	.
-contig_33	ena	66099	66854	.	+	0	.
-contig_33	ena	69096	69221	.	+	0	.
-contig_33	ena	71587	71763	.	+	0	.
-contig_33	ena	71929	72186	.	+	0	.
-contig_33	ena	72301	72564	.	+	0	.
-contig_33	ena	73061	74977	.	+	0	.
-contig_33	ena	76059	76136	.	+	0	.
-contig_33	ena	76203	76391	.	+	0	.
-contig_33	ena	76751	79663	.	+	0	.
-contig_33	ena	83139	84236	.	+	0	.
-contig_33	ena	84315	86126	.	+	0	.
-contig_33	ena	86852	86965	.	+	0	.
-contig_33	ena	88366	90552	.	+	0	.
-contig_33	ena	90645	91577	.	+	0	.
-contig_33	ena	91603	93585	.	+	0	.
-contig_33	ena	95361	98963	.	+	0	.
-contig_33	ena	98967	100733	.	+	0	.
-contig_33	ena	100735	102402	.	+	0	.
-contig_33	ena	105666	109115	.	+	0	.
-contig_33	ena	110255	110605	.	+	0	.
-contig_33	ena	113289	113576	.	+	0	.
-contig_33	ena	113975	115900	.	+	0	.
-contig_33	ena	116242	117435	.	+	0	.
-contig_33	ena	120286	120945	.	+	0	.
-contig_33	ena	121287	122267	.	+	0	.
-contig_33	ena	122277	123365	.	+	0	.
-contig_33	ena	123864	124373	.	+	0	.
-contig_2	ena	985	2274	.	+	0	.
-contig_2	ena	2419	2883	.	+	0	.
-contig_2	ena	3133	4293	.	+	0	.
-contig_2	ena	4387	4788	.	+	0	.
-contig_2	ena	5020	6051	.	+	0	.
-contig_2	ena	6082	7332	.	+	0	.
-contig_2	ena	7533	7982	.	+	0	.
-contig_2	ena	8002	9108	.	+	0	.
-contig_2	ena	9110	9766	.	+	0	.
-contig_2	ena	9864	10973	.	+	0	.
-contig_2	ena	11149	11619	.	+	0	.
-contig_2	ena	11892	12086	.	+	0	.
-contig_2	ena	12153	13121	.	+	0	.
-contig_2	ena	13127	13630	.	+	0	.
-contig_2	ena	17149	17859	.	+	0	.
-contig_2	ena	17926	18828	.	+	0	.
-contig_2	ena	19198	20421	.	+	0	.
-contig_2	ena	21546	22361	.	+	0	.
-contig_2	ena	22438	22965	.	+	0	.
-contig_2	ena	23087	23353	.	+	0	.
-contig_2	ena	23362	24441	.	+	0	.
-contig_2	ena	29805	29975	.	+	0	.
-contig_2	ena	32840	33385	.	+	0	.
-contig_2	ena	33389	34165	.	+	0	.
-contig_2	ena	36172	36378	.	+	0	.
-contig_2	ena	37051	37635	.	+	0	.
-contig_2	ena	37742	38620	.	+	0	.
-contig_2	ena	38790	40214	.	+	0	.
-contig_2	ena	40467	41966	.	+	0	.
-contig_2	ena	43651	44010	.	+	0	.
-contig_2	ena	46731	47852	.	+	0	.
-contig_2	ena	51689	51904	.	+	0	.
-contig_2	ena	52031	52129	.	+	0	.
-contig_2	ena	61245	61589	.	+	0	.
-contig_2	ena	63519	63689	.	+	0	.
-contig_2	ena	64533	64709	.	+	0	.
-contig_2	ena	67643	68740	.	+	0	.
-contig_2	ena	70415	70690	.	+	0	.
-contig_2	ena	74010	74138	.	+	0	.
-contig_2	ena	75450	76709	.	+	0	.
-contig_2	ena	76735	77826	.	+	0	.
-contig_2	ena	77831	78706	.	+	0	.
-contig_2	ena	78730	79113	.	+	0	.
-contig_2	ena	79152	79934	.	+	0	.
-contig_2	ena	79977	80831	.	+	0	.
-contig_2	ena	81412	82896	.	+	0	.
-contig_2	ena	83137	83475	.	+	0	.
-contig_2	ena	87510	90161	.	+	0	.
-contig_2	ena	91082	91180	.	+	0	.
-contig_2	ena	93923	95017	.	+	0	.
-contig_2	ena	95102	95893	.	+	0	.
-contig_2	ena	96240	97469	.	+	0	.
-contig_2	ena	99652	100287	.	+	0	.
-contig_2	ena	100296	100727	.	+	0	.
-contig_2	ena	102666	103592	.	+	0	.
-contig_2	ena	103606	104433	.	+	0	.
-contig_2	ena	104852	105247	.	+	0	.
-contig_2	ena	105252	105668	.	+	0	.
-contig_2	ena	105686	106393	.	+	0	.
-contig_2	ena	106448	107728	.	+	0	.
-contig_2	ena	107970	108719	.	+	0	.
-contig_2	ena	108741	109529	.	+	0	.
-contig_2	ena	109567	110346	.	+	0	.
-contig_2	ena	110406	111497	.	+	0	.
-contig_2	ena	111745	112434	.	+	0	.
-contig_42	ena	2000	2119	.	+	0	.
-contig_42	ena	13128	14372	.	+	0	.
-contig_42	ena	16775	16957	.	+	0	.
-contig_42	ena	17605	18501	.	+	0	.
-contig_42	ena	19790	20122	.	+	0	.
-contig_42	ena	21988	22146	.	+	0	.
-contig_42	ena	24750	24821	.	+	0	.
-contig_42	ena	26010	26150	.	+	0	.
-contig_42	ena	62256	62408	.	+	0	.
-contig_42	ena	69878	70429	.	+	0	.
-contig_42	ena	70446	70922	.	+	0	.
-contig_42	ena	70937	71578	.	+	0	.
-contig_42	ena	72086	73021	.	+	0	.
-contig_42	ena	73442	73819	.	+	0	.
-contig_42	ena	73864	74859	.	+	0	.
-contig_42	ena	75646	75987	.	+	0	.
-contig_42	ena	76143	76448	.	+	0	.
-contig_42	ena	76458	76709	.	+	0	.
-contig_42	ena	77562	77900	.	+	0	.
-contig_42	ena	80334	80702	.	+	0	.
-contig_42	ena	80934	81383	.	+	0	.
-contig_42	ena	87712	88002	.	+	0	.
-contig_42	ena	88270	88419	.	+	0	.
-contig_42	ena	89028	89921	.	+	0	.
-contig_42	ena	92315	92536	.	+	0	.
-contig_42	ena	93879	93980	.	+	0	.
-contig_42	ena	95941	97644	.	+	0	.
-contig_42	ena	98499	99536	.	+	0	.
-contig_42	ena	99547	100863	.	+	0	.
-contig_42	ena	102355	102750	.	+	0	.
-contig_42	ena	103039	104103	.	+	0	.
-contig_42	ena	105084	106430	.	+	0	.
-contig_42	ena	106932	107135	.	+	0	.
-contig_42	ena	108458	108646	.	+	0	.
-contig_42	ena	109500	110666	.	+	0	.
-contig_30	ena	959	1132	.	+	0	.
-contig_30	ena	1356	2321	.	+	0	.
-contig_30	ena	3138	5933	.	+	0	.
-contig_30	ena	7582	8178	.	+	0	.
-contig_30	ena	8749	9555	.	+	0	.
-contig_30	ena	9780	10100	.	+	0	.
-contig_30	ena	10109	10597	.	+	0	.
-contig_30	ena	11138	12133	.	+	0	.
-contig_30	ena	13198	13374	.	+	0	.
-contig_30	ena	13984	14055	.	+	0	.
-contig_30	ena	16513	16782	.	+	0	.
-contig_30	ena	20281	21972	.	+	0	.
-contig_30	ena	22609	23079	.	+	0	.
-contig_30	ena	23313	24254	.	+	0	.
-contig_30	ena	24313	24663	.	+	0	.
-contig_30	ena	24844	25632	.	+	0	.
-contig_30	ena	31352	32227	.	+	0	.
-contig_30	ena	32264	34285	.	+	0	.
-contig_30	ena	34546	35784	.	+	0	.
-contig_30	ena	35892	37001	.	+	0	.
-contig_30	ena	37016	37498	.	+	0	.
-contig_30	ena	37527	38129	.	+	0	.
-contig_30	ena	38149	38484	.	+	0	.
-contig_30	ena	38639	39172	.	+	0	.
-contig_30	ena	39198	40187	.	+	0	.
-contig_30	ena	40393	41355	.	+	0	.
-contig_30	ena	41381	41854	.	+	0	.
-contig_30	ena	41856	42617	.	+	0	.
-contig_30	ena	43404	43493	.	+	0	.
-contig_30	ena	45761	46528	.	+	0	.
-contig_30	ena	46672	47136	.	+	0	.
-contig_30	ena	47963	48229	.	+	0	.
-contig_30	ena	48986	49180	.	+	0	.
-contig_30	ena	49791	50261	.	+	0	.
-contig_30	ena	50462	51181	.	+	0	.
-contig_30	ena	51323	52573	.	+	0	.
-contig_30	ena	54297	54635	.	+	0	.
-contig_30	ena	58683	58826	.	+	0	.
-contig_30	ena	69394	70419	.	+	0	.
-contig_30	ena	70511	71464	.	+	0	.
-contig_30	ena	71506	73332	.	+	0	.
-contig_30	ena	73371	74228	.	+	0	.
-contig_30	ena	74239	75078	.	+	0	.
-contig_30	ena	77303	77671	.	+	0	.
-contig_30	ena	78005	78778	.	+	0	.
-contig_30	ena	78891	79088	.	+	0	.
-contig_30	ena	81859	82386	.	+	0	.
-contig_30	ena	82781	83425	.	+	0	.
-contig_30	ena	89068	89238	.	+	0	.
-contig_30	ena	89424	89981	.	+	0	.
-contig_30	ena	93394	93693	.	+	0	.
-contig_30	ena	94595	95656	.	+	0	.
-contig_30	ena	96334	98766	.	+	0	.
-contig_30	ena	98872	100398	.	+	0	.
-contig_7	ena	795	1061	.	+	0	.
-contig_7	ena	1077	2246	.	+	0	.
-contig_7	ena	2442	3029	.	+	0	.
-contig_7	ena	3608	4594	.	+	0	.
-contig_7	ena	5032	5637	.	+	0	.
-contig_7	ena	5664	7505	.	+	0	.
-contig_7	ena	7524	8390	.	+	0	.
-contig_7	ena	8393	9223	.	+	0	.
-contig_7	ena	10349	13993	.	+	0	.
-contig_7	ena	16010	16984	.	+	0	.
-contig_7	ena	17043	18245	.	+	0	.
-contig_7	ena	19644	20138	.	+	0	.
-contig_7	ena	20799	23240	.	+	0	.
-contig_7	ena	23313	23909	.	+	0	.
-contig_7	ena	23916	25265	.	+	0	.
-contig_7	ena	25795	26664	.	+	0	.
-contig_7	ena	28143	29195	.	+	0	.
-contig_7	ena	29239	30336	.	+	0	.
-contig_7	ena	30342	31145	.	+	0	.
-contig_7	ena	31625	31825	.	+	0	.
-contig_7	ena	32642	33262	.	+	0	.
-contig_7	ena	33527	33922	.	+	0	.
-contig_7	ena	33928	34644	.	+	0	.
-contig_7	ena	34907	35953	.	+	0	.
-contig_7	ena	35956	36723	.	+	0	.
-contig_7	ena	36849	38015	.	+	0	.
-contig_7	ena	38020	38535	.	+	0	.
-contig_7	ena	38540	39055	.	+	0	.
-contig_7	ena	39057	39590	.	+	0	.
-contig_7	ena	43341	43502	.	+	0	.
-contig_7	ena	43709	44923	.	+	0	.
-contig_7	ena	46236	47753	.	+	0	.
-contig_7	ena	48114	49010	.	+	0	.
-contig_7	ena	49016	50311	.	+	0	.
-contig_7	ena	50322	51362	.	+	0	.
-contig_7	ena	51432	52505	.	+	0	.
-contig_7	ena	52532	53146	.	+	0	.
-contig_7	ena	53576	53896	.	+	0	.
-contig_7	ena	54409	54651	.	+	0	.
-contig_7	ena	54705	55283	.	+	0	.
-contig_7	ena	57521	57745	.	+	0	.
-contig_7	ena	58722	60251	.	+	0	.
-contig_7	ena	60638	60910	.	+	0	.
-contig_7	ena	63446	63871	.	+	0	.
-contig_7	ena	64603	65967	.	+	0	.
-contig_7	ena	66499	67110	.	+	0	.
-contig_7	ena	69132	70316	.	+	0	.
-contig_7	ena	70341	72803	.	+	0	.
-contig_7	ena	74322	74999	.	+	0	.
-contig_7	ena	75233	75448	.	+	0	.
-contig_7	ena	76243	77982	.	+	0	.
-contig_7	ena	79477	80382	.	+	0	.
-contig_7	ena	80589	80903	.	+	0	.
-contig_7	ena	81906	82016	.	+	0	.
-contig_7	ena	88523	89194	.	+	0	.
-contig_7	ena	89222	89443	.	+	0	.
-contig_7	ena	89544	89825	.	+	0	.
-contig_7	ena	90097	91020	.	+	0	.
-contig_7	ena	91022	92107	.	+	0	.
-contig_7	ena	92118	95207	.	+	0	.
-contig_7	ena	95268	95837	.	+	0	.
-contig_7	ena	97362	97643	.	+	0	.
-contig_7	ena	99106	100476	.	+	0	.
-contig_4	ena	343	648	.	+	0	.
-contig_4	ena	736	2022	.	+	0	.
-contig_4	ena	2337	2765	.	+	0	.
-contig_4	ena	2776	4242	.	+	0	.
-contig_4	ena	4253	4507	.	+	0	.
-contig_4	ena	4575	5747	.	+	0	.
-contig_4	ena	5761	6186	.	+	0	.
-contig_4	ena	6231	6701	.	+	0	.
-contig_4	ena	6712	7929	.	+	0	.
-contig_4	ena	8112	9452	.	+	0	.
-contig_4	ena	9465	10430	.	+	0	.
-contig_4	ena	10432	11376	.	+	0	.
-contig_4	ena	11387	12427	.	+	0	.
-contig_4	ena	13794	14750	.	+	0	.
-contig_4	ena	15935	16090	.	+	0	.
-contig_4	ena	18692	18946	.	+	0	.
-contig_4	ena	22641	23135	.	+	0	.
-contig_4	ena	23859	24071	.	+	0	.
-contig_4	ena	27955	28950	.	+	0	.
-contig_4	ena	29058	30086	.	+	0	.
-contig_4	ena	30197	31357	.	+	0	.
-contig_4	ena	31367	32425	.	+	0	.
-contig_4	ena	32666	34249	.	+	0	.
-contig_4	ena	35432	35764	.	+	0	.
-contig_4	ena	36492	37652	.	+	0	.
-contig_4	ena	37741	37974	.	+	0	.
-contig_4	ena	39355	40362	.	+	0	.
-contig_4	ena	42275	42454	.	+	0	.
-contig_4	ena	43008	43334	.	+	0	.
-contig_4	ena	49484	49669	.	+	0	.
-contig_4	ena	49769	50719	.	+	0	.
-contig_4	ena	51329	51589	.	+	0	.
-contig_4	ena	52965	56378	.	+	0	.
-contig_4	ena	56688	60308	.	+	0	.
-contig_4	ena	60341	62419	.	+	0	.
-contig_4	ena	63495	63824	.	+	0	.
-contig_4	ena	64380	64847	.	+	0	.
-contig_4	ena	64994	66097	.	+	0	.
-contig_4	ena	66371	66988	.	+	0	.
-contig_4	ena	67069	67497	.	+	0	.
-contig_4	ena	72641	73144	.	+	0	.
-contig_4	ena	73271	73831	.	+	0	.
-contig_4	ena	73849	74496	.	+	0	.
-contig_4	ena	78590	78901	.	+	0	.
-contig_4	ena	79391	80731	.	+	0	.
-contig_4	ena	80737	81981	.	+	0	.
-contig_4	ena	82738	83370	.	+	0	.
-contig_4	ena	83378	83974	.	+	0	.
-contig_4	ena	84008	85231	.	+	0	.
-contig_4	ena	85485	86402	.	+	0	.
-contig_22	ena	392	901	.	+	0	.
-contig_22	ena	1221	3758	.	+	0	.
-contig_22	ena	6215	6625	.	+	0	.
-contig_22	ena	7192	8481	.	+	0	.
-contig_22	ena	8927	9040	.	+	0	.
-contig_22	ena	9585	9986	.	+	0	.
-contig_22	ena	12412	12615	.	+	0	.
-contig_22	ena	13785	14144	.	+	0	.
-contig_22	ena	15298	16098	.	+	0	.
-contig_22	ena	20813	21553	.	+	0	.
-contig_22	ena	21836	23428	.	+	0	.
-contig_22	ena	32372	32476	.	+	0	.
-contig_22	ena	34915	35637	.	+	0	.
-contig_22	ena	37790	38323	.	+	0	.
-contig_22	ena	38326	39258	.	+	0	.
-contig_22	ena	39534	39725	.	+	0	.
-contig_22	ena	41323	41403	.	+	0	.
-contig_22	ena	43458	44675	.	+	0	.
-contig_22	ena	44683	45657	.	+	0	.
-contig_22	ena	45828	47783	.	+	0	.
-contig_22	ena	48117	48371	.	+	0	.
-contig_22	ena	48403	48762	.	+	0	.
-contig_22	ena	48797	50911	.	+	0	.
-contig_22	ena	50921	51427	.	+	0	.
-contig_22	ena	51562	51888	.	+	0	.
-contig_22	ena	51897	54320	.	+	0	.
-contig_22	ena	54440	55159	.	+	0	.
-contig_22	ena	55175	55819	.	+	0	.
-contig_22	ena	55843	56853	.	+	0	.
-contig_22	ena	56905	58077	.	+	0	.
-contig_22	ena	58118	58417	.	+	0	.
-contig_22	ena	58432	60108	.	+	0	.
-contig_22	ena	60330	62003	.	+	0	.
-contig_22	ena	62659	62733	.	+	0	.
-contig_22	ena	63039	63140	.	+	0	.
-contig_22	ena	63816	63959	.	+	0	.
-contig_22	ena	66113	66265	.	+	0	.
-contig_22	ena	68305	68919	.	+	0	.
-contig_22	ena	69142	69903	.	+	0	.
-contig_22	ena	70802	70927	.	+	0	.
-contig_22	ena	72149	72697	.	+	0	.
-contig_22	ena	72844	73131	.	+	0	.
-contig_22	ena	73874	74665	.	+	0	.
-contig_22	ena	74838	76052	.	+	0	.
-contig_22	ena	76767	76952	.	+	0	.
-contig_22	ena	77633	78199	.	+	0	.
-contig_22	ena	78366	78656	.	+	0	.
-contig_22	ena	78691	80289	.	+	0	.
-contig_22	ena	81021	81218	.	+	0	.
-contig_22	ena	82295	82435	.	+	0	.
-contig_22	ena	83750	83881	.	+	0	.
-contig_22	ena	84068	84241	.	+	0	.
-contig_36	ena	501	932	.	+	0	.
-contig_36	ena	1326	1787	.	+	0	.
-contig_36	ena	1790	3178	.	+	0	.
-contig_36	ena	3222	3764	.	+	0	.
-contig_36	ena	3775	4851	.	+	0	.
-contig_36	ena	4872	6143	.	+	0	.
-contig_36	ena	6165	7037	.	+	0	.
-contig_36	ena	7041	7922	.	+	0	.
-contig_36	ena	8190	8711	.	+	0	.
-contig_36	ena	8762	9175	.	+	0	.
-contig_36	ena	9225	9650	.	+	0	.
-contig_36	ena	9652	11049	.	+	0	.
-contig_36	ena	15145	19098	.	+	0	.
-contig_36	ena	19220	19717	.	+	0	.
-contig_36	ena	20529	20819	.	+	0	.
-contig_36	ena	20944	21324	.	+	0	.
-contig_36	ena	21544	22452	.	+	0	.
-contig_36	ena	22469	23311	.	+	0	.
-contig_36	ena	31795	32178	.	+	0	.
-contig_36	ena	33341	33913	.	+	0	.
-contig_36	ena	33961	34464	.	+	0	.
-contig_36	ena	34499	34549	.	+	0	.
-contig_36	ena	34716	35525	.	+	0	.
-contig_36	ena	40759	41550	.	+	0	.
-contig_36	ena	41722	44103	.	+	0	.
-contig_36	ena	44150	44935	.	+	0	.
-contig_36	ena	45110	46093	.	+	0	.
-contig_36	ena	46303	47418	.	+	0	.
-contig_36	ena	47984	48721	.	+	0	.
-contig_36	ena	48740	51127	.	+	0	.
-contig_36	ena	51440	51613	.	+	0	.
-contig_36	ena	52821	53534	.	+	0	.
-contig_36	ena	53547	54191	.	+	0	.
-contig_36	ena	54691	54897	.	+	0	.
-contig_36	ena	56438	56698	.	+	0	.
-contig_36	ena	63249	66293	.	+	0	.
-contig_36	ena	66689	66826	.	+	0	.
-contig_36	ena	67043	68629	.	+	0	.
-contig_36	ena	73278	73472	.	+	0	.
-contig_36	ena	75631	75834	.	+	0	.
-contig_36	ena	76217	76960	.	+	0	.
-contig_36	ena	77512	77622	.	+	0	.
-contig_36	ena	78297	80225	.	+	0	.
-contig_36	ena	80442	80780	.	+	0	.
-contig_36	ena	81120	81473	.	+	0	.
-contig_60	ena	845	907	.	+	0	.
-contig_60	ena	3795	4262	.	+	0	.
-contig_60	ena	4266	5399	.	+	0	.
-contig_60	ena	7011	7316	.	+	0	.
-contig_60	ena	8879	9391	.	+	0	.
-contig_60	ena	9423	10370	.	+	0	.
-contig_60	ena	10454	11734	.	+	0	.
-contig_60	ena	12153	13166	.	+	0	.
-contig_60	ena	13176	14621	.	+	0	.
-contig_60	ena	15114	15257	.	+	0	.
-contig_60	ena	16623	16745	.	+	0	.
-contig_60	ena	17029	17130	.	+	0	.
-contig_60	ena	17406	18827	.	+	0	.
-contig_60	ena	18924	19865	.	+	0	.
-contig_60	ena	19898	20503	.	+	0	.
-contig_60	ena	21642	22553	.	+	0	.
-contig_60	ena	24308	24397	.	+	0	.
-contig_60	ena	24639	26231	.	+	0	.
-contig_60	ena	26243	26527	.	+	0	.
-contig_60	ena	26539	27477	.	+	0	.
-contig_60	ena	27532	29331	.	+	0	.
-contig_60	ena	29335	30864	.	+	0	.
-contig_60	ena	32049	33161	.	+	0	.
-contig_60	ena	34279	34854	.	+	0	.
-contig_60	ena	46574	46891	.	+	0	.
-contig_60	ena	53285	53398	.	+	0	.
-contig_60	ena	55903	56766	.	+	0	.
-contig_60	ena	56827	57927	.	+	0	.
-contig_60	ena	58114	59016	.	+	0	.
-contig_60	ena	59035	61452	.	+	0	.
-contig_60	ena	61903	62337	.	+	0	.
-contig_60	ena	62480	62569	.	+	0	.
-contig_60	ena	63029	63244	.	+	0	.
-contig_60	ena	63743	63913	.	+	0	.
-contig_60	ena	66185	66517	.	+	0	.
-contig_60	ena	70357	70647	.	+	0	.
-contig_60	ena	70822	71067	.	+	0	.
-contig_60	ena	71824	72765	.	+	0	.
-contig_60	ena	78243	79700	.	+	0	.
-contig_60	ena	79707	80237	.	+	0	.
-contig_31	ena	3280	3876	.	+	0	.
-contig_31	ena	4128	4250	.	+	0	.
-contig_31	ena	6066	6134	.	+	0	.
-contig_31	ena	6281	7096	.	+	0	.
-contig_31	ena	8194	8625	.	+	0	.
-contig_31	ena	14205	14324	.	+	0	.
-contig_31	ena	14414	14524	.	+	0	.
-contig_31	ena	15890	17839	.	+	0	.
-contig_31	ena	18351	19547	.	+	0	.
-contig_31	ena	21266	22189	.	+	0	.
-contig_31	ena	22791	23270	.	+	0	.
-contig_31	ena	23514	23969	.	+	0	.
-contig_31	ena	24526	26157	.	+	0	.
-contig_31	ena	26338	27180	.	+	0	.
-contig_31	ena	27192	28100	.	+	0	.
-contig_31	ena	28126	29100	.	+	0	.
-contig_31	ena	29361	30092	.	+	0	.
-contig_31	ena	30279	31229	.	+	0	.
-contig_31	ena	33590	33784	.	+	0	.
-contig_31	ena	38525	38752	.	+	0	.
-contig_31	ena	40072	40215	.	+	0	.
-contig_31	ena	42379	43260	.	+	0	.
-contig_31	ena	43531	43911	.	+	0	.
-contig_31	ena	45033	45995	.	+	0	.
-contig_31	ena	47169	47936	.	+	0	.
-contig_31	ena	48035	50137	.	+	0	.
-contig_31	ena	51730	51849	.	+	0	.
-contig_31	ena	53050	53532	.	+	0	.
-contig_31	ena	53600	55366	.	+	0	.
-contig_31	ena	55446	55970	.	+	0	.
-contig_31	ena	57226	60105	.	+	0	.
-contig_31	ena	60121	61365	.	+	0	.
-contig_31	ena	61444	62577	.	+	0	.
-contig_31	ena	64725	65666	.	+	0	.
-contig_31	ena	71154	73712	.	+	0	.
-contig_31	ena	73858	74499	.	+	0	.
-contig_31	ena	74799	75029	.	+	0	.
-contig_31	ena	76998	77555	.	+	0	.
-contig_31	ena	77605	78243	.	+	0	.
-contig_31	ena	78245	79201	.	+	0	.
-contig_31	ena	79215	80054	.	+	0	.
-contig_39	ena	3665	4489	.	+	0	.
-contig_39	ena	4741	5169	.	+	0	.
-contig_39	ena	5185	5577	.	+	0	.
-contig_39	ena	6621	7763	.	+	0	.
-contig_39	ena	7895	8497	.	+	0	.
-contig_39	ena	8625	9230	.	+	0	.
-contig_39	ena	9234	9710	.	+	0	.
-contig_39	ena	11355	11462	.	+	0	.
-contig_39	ena	13223	14086	.	+	0	.
-contig_39	ena	14784	15734	.	+	0	.
-contig_39	ena	15744	16061	.	+	0	.
-contig_39	ena	16316	17788	.	+	0	.
-contig_39	ena	17793	19301	.	+	0	.
-contig_39	ena	19322	20659	.	+	0	.
-contig_39	ena	20773	21738	.	+	0	.
-contig_39	ena	21772	23100	.	+	0	.
-contig_39	ena	23238	24332	.	+	0	.
-contig_39	ena	24340	25386	.	+	0	.
-contig_39	ena	25400	26860	.	+	0	.
-contig_39	ena	27190	27819	.	+	0	.
-contig_39	ena	27830	29092	.	+	0	.
-contig_39	ena	29125	30339	.	+	0	.
-contig_39	ena	30438	31355	.	+	0	.
-contig_39	ena	32234	34933	.	+	0	.
-contig_39	ena	34996	35397	.	+	0	.
-contig_39	ena	35851	36300	.	+	0	.
-contig_39	ena	37247	37921	.	+	0	.
-contig_39	ena	37938	41171	.	+	0	.
-contig_39	ena	42245	43006	.	+	0	.
-contig_39	ena	49023	49682	.	+	0	.
-contig_39	ena	52805	52897	.	+	0	.
-contig_39	ena	60608	61564	.	+	0	.
-contig_39	ena	61606	63405	.	+	0	.
-contig_39	ena	63696	65954	.	+	0	.
-contig_39	ena	65959	66408	.	+	0	.
-contig_39	ena	68168	68509	.	+	0	.
-contig_39	ena	69442	71901	.	+	0	.
-contig_39	ena	71905	72876	.	+	0	.
-contig_39	ena	73089	74153	.	+	0	.
-contig_15	ena	691	1308	.	+	0	.
-contig_15	ena	1775	2683	.	+	0	.
-contig_15	ena	2918	3649	.	+	0	.
-contig_15	ena	3967	5103	.	+	0	.
-contig_15	ena	5998	7125	.	+	0	.
-contig_15	ena	7135	10287	.	+	0	.
-contig_15	ena	11117	11296	.	+	0	.
-contig_15	ena	12470	13072	.	+	0	.
-contig_15	ena	14643	15086	.	+	0	.
-contig_15	ena	16587	16760	.	+	0	.
-contig_15	ena	19391	20512	.	+	0	.
-contig_15	ena	20641	20748	.	+	0	.
-contig_15	ena	23694	23903	.	+	0	.
-contig_15	ena	26841	27068	.	+	0	.
-contig_15	ena	28697	28795	.	+	0	.
-contig_15	ena	30658	31626	.	+	0	.
-contig_15	ena	34799	34981	.	+	0	.
-contig_15	ena	38415	38594	.	+	0	.
-contig_15	ena	38777	39151	.	+	0	.
-contig_15	ena	39869	40021	.	+	0	.
-contig_15	ena	40094	40249	.	+	0	.
-contig_15	ena	40660	41877	.	+	0	.
-contig_15	ena	41984	43477	.	+	0	.
-contig_15	ena	43788	44669	.	+	0	.
-contig_15	ena	44696	45493	.	+	0	.
-contig_15	ena	45515	46645	.	+	0	.
-contig_15	ena	46749	47669	.	+	0	.
-contig_15	ena	47774	48475	.	+	0	.
-contig_15	ena	52312	52416	.	+	0	.
-contig_15	ena	54743	55102	.	+	0	.
-contig_15	ena	55128	55589	.	+	0	.
-contig_15	ena	55822	71238	.	+	0	.
-contig_15	ena	71999	72262	.	+	0	.
-contig_15	ena	72332	72532	.	+	0	.
-contig_14	ena	1737	2063	.	+	0	.
-contig_14	ena	2123	3043	.	+	0	.
-contig_14	ena	3215	3568	.	+	0	.
-contig_14	ena	3812	3943	.	+	0	.
-contig_14	ena	5764	5994	.	+	0	.
-contig_14	ena	6285	7127	.	+	0	.
-contig_14	ena	7300	8052	.	+	0	.
-contig_14	ena	8100	8777	.	+	0	.
-contig_14	ena	10191	10499	.	+	0	.
-contig_14	ena	10871	11764	.	+	0	.
-contig_14	ena	12475	12741	.	+	0	.
-contig_14	ena	15532	15648	.	+	0	.
-contig_14	ena	15870	16748	.	+	0	.
-contig_14	ena	18843	19064	.	+	0	.
-contig_14	ena	19152	19304	.	+	0	.
-contig_14	ena	19959	20351	.	+	0	.
-contig_14	ena	21744	22349	.	+	0	.
-contig_14	ena	24197	25042	.	+	0	.
-contig_14	ena	26735	27154	.	+	0	.
-contig_14	ena	28258	29016	.	+	0	.
-contig_14	ena	29194	32862	.	+	0	.
-contig_14	ena	33554	33682	.	+	0	.
-contig_14	ena	40009	40215	.	+	0	.
-contig_14	ena	42665	42832	.	+	0	.
-contig_14	ena	44498	44800	.	+	0	.
-contig_14	ena	45192	45431	.	+	0	.
-contig_14	ena	46064	46318	.	+	0	.
-contig_14	ena	46438	47223	.	+	0	.
-contig_14	ena	47441	47542	.	+	0	.
-contig_14	ena	48568	48870	.	+	0	.
-contig_14	ena	56961	57125	.	+	0	.
-contig_14	ena	59049	59288	.	+	0	.
-contig_14	ena	59519	60325	.	+	0	.
-contig_14	ena	61373	62134	.	+	0	.
-contig_14	ena	63155	63466	.	+	0	.
-contig_14	ena	63518	64120	.	+	0	.
-contig_14	ena	64588	66150	.	+	0	.
-contig_14	ena	67308	67847	.	+	0	.
-contig_14	ena	67943	68746	.	+	0	.
-contig_14	ena	68926	69189	.	+	0	.
-contig_14	ena	69574	70017	.	+	0	.
-contig_5	ena	815	2332	.	+	0	.
-contig_5	ena	8408	8839	.	+	0	.
-contig_5	ena	11771	11944	.	+	0	.
-contig_5	ena	12161	12502	.	+	0	.
-contig_5	ena	12513	13136	.	+	0	.
-contig_5	ena	13173	13580	.	+	0	.
-contig_5	ena	15875	16294	.	+	0	.
-contig_5	ena	17082	17222	.	+	0	.
-contig_5	ena	18244	18486	.	+	0	.
-contig_5	ena	18982	19611	.	+	0	.
-contig_5	ena	19990	20613	.	+	0	.
-contig_5	ena	23480	23614	.	+	0	.
-contig_5	ena	24211	24489	.	+	0	.
-contig_5	ena	25666	26202	.	+	0	.
-contig_5	ena	26343	27776	.	+	0	.
-contig_5	ena	27886	28245	.	+	0	.
-contig_5	ena	28615	29952	.	+	0	.
-contig_5	ena	29977	30144	.	+	0	.
-contig_5	ena	30161	32503	.	+	0	.
-contig_5	ena	32768	33622	.	+	0	.
-contig_5	ena	33649	34011	.	+	0	.
-contig_5	ena	36955	37026	.	+	0	.
-contig_5	ena	37160	38353	.	+	0	.
-contig_5	ena	38412	38762	.	+	0	.
-contig_5	ena	41101	41514	.	+	0	.
-contig_5	ena	42163	42336	.	+	0	.
-contig_5	ena	45248	46231	.	+	0	.
-contig_5	ena	46924	47334	.	+	0	.
-contig_5	ena	47920	48051	.	+	0	.
-contig_5	ena	49221	49298	.	+	0	.
-contig_5	ena	50228	50860	.	+	0	.
-contig_5	ena	51001	51423	.	+	0	.
-contig_5	ena	51504	51566	.	+	0	.
-contig_5	ena	52098	52535	.	+	0	.
-contig_5	ena	53543	54679	.	+	0	.
-contig_5	ena	54967	56307	.	+	0	.
-contig_5	ena	56362	56925	.	+	0	.
-contig_5	ena	57051	57806	.	+	0	.
-contig_5	ena	58043	58819	.	+	0	.
-contig_5	ena	58830	59333	.	+	0	.
-contig_5	ena	59365	60372	.	+	0	.
-contig_5	ena	60409	60498	.	+	0	.
-contig_5	ena	60707	61264	.	+	0	.
-contig_5	ena	63070	63927	.	+	0	.
-contig_5	ena	64579	65802	.	+	0	.
-contig_54	ena	4865	5590	.	+	0	.
-contig_54	ena	6087	6266	.	+	0	.
-contig_54	ena	6957	7688	.	+	0	.
-contig_54	ena	7698	8249	.	+	0	.
-contig_54	ena	10897	12543	.	+	0	.
-contig_54	ena	12659	13033	.	+	0	.
-contig_54	ena	13062	14066	.	+	0	.
-contig_54	ena	14134	14274	.	+	0	.
-contig_54	ena	16196	16288	.	+	0	.
-contig_54	ena	17587	18750	.	+	0	.
-contig_54	ena	19519	19647	.	+	0	.
-contig_54	ena	21682	22677	.	+	0	.
-contig_54	ena	22846	24528	.	+	0	.
-contig_54	ena	24548	25153	.	+	0	.
-contig_54	ena	30975	31136	.	+	0	.
-contig_54	ena	31146	31217	.	+	0	.
-contig_54	ena	33320	33580	.	+	0	.
-contig_54	ena	35388	36548	.	+	0	.
-contig_54	ena	36668	37816	.	+	0	.
-contig_54	ena	38361	38498	.	+	0	.
-contig_54	ena	43868	44458	.	+	0	.
-contig_54	ena	45516	46013	.	+	0	.
-contig_54	ena	51560	51685	.	+	0	.
-contig_54	ena	53066	53251	.	+	0	.
-contig_54	ena	54835	55353	.	+	0	.
-contig_54	ena	57087	57806	.	+	0	.
-contig_54	ena	58324	59142	.	+	0	.
-contig_54	ena	62238	62423	.	+	0	.
-contig_54	ena	62551	62697	.	+	0	.
-contig_76	ena	5732	5857	.	+	0	.
-contig_76	ena	10369	10539	.	+	0	.
-contig_76	ena	10586	11605	.	+	0	.
-contig_76	ena	14292	14579	.	+	0	.
-contig_76	ena	15939	16841	.	+	0	.
-contig_76	ena	17052	18116	.	+	0	.
-contig_76	ena	18457	19557	.	+	0	.
-contig_76	ena	19852	20949	.	+	0	.
-contig_76	ena	21194	21448	.	+	0	.
-contig_76	ena	21469	23571	.	+	0	.
-contig_76	ena	23578	23880	.	+	0	.
-contig_76	ena	23893	24303	.	+	0	.
-contig_76	ena	24447	25946	.	+	0	.
-contig_76	ena	26147	27103	.	+	0	.
-contig_76	ena	27130	28545	.	+	0	.
-contig_76	ena	28675	28986	.	+	0	.
-contig_76	ena	29068	30747	.	+	0	.
-contig_76	ena	30779	31795	.	+	0	.
-contig_76	ena	31892	32692	.	+	0	.
-contig_76	ena	32728	34014	.	+	0	.
-contig_76	ena	34018	34449	.	+	0	.
-contig_76	ena	34555	36603	.	+	0	.
-contig_76	ena	37145	38188	.	+	0	.
-contig_76	ena	38258	38668	.	+	0	.
-contig_76	ena	38731	39090	.	+	0	.
-contig_76	ena	39227	39949	.	+	0	.
-contig_76	ena	39965	40234	.	+	0	.
-contig_76	ena	40247	41029	.	+	0	.
-contig_76	ena	41039	42169	.	+	0	.
-contig_76	ena	42501	44432	.	+	0	.
-contig_76	ena	44566	45975	.	+	0	.
-contig_76	ena	45989	46876	.	+	0	.
-contig_76	ena	46941	47603	.	+	0	.
-contig_76	ena	47648	48016	.	+	0	.
-contig_76	ena	48138	48878	.	+	0	.
-contig_76	ena	48888	51113	.	+	0	.
-contig_76	ena	51195	52274	.	+	0	.
-contig_76	ena	52283	53059	.	+	0	.
-contig_76	ena	53070	54122	.	+	0	.
-contig_76	ena	54155	54649	.	+	0	.
-contig_76	ena	54748	55149	.	+	0	.
-contig_76	ena	56060	56728	.	+	0	.
-contig_76	ena	57049	57591	.	+	0	.
-contig_76	ena	57604	57810	.	+	0	.
-contig_76	ena	57906	58292	.	+	0	.
-contig_76	ena	58490	60271	.	+	0	.
-contig_76	ena	60273	60827	.	+	0	.
-contig_76	ena	61034	61306	.	+	0	.
-contig_76	ena	61597	62520	.	+	0	.
-contig_76	ena	62686	63393	.	+	0	.
-contig_63	ena	2170	3588	.	+	0	.
-contig_63	ena	9186	11204	.	+	0	.
-contig_63	ena	13562	15277	.	+	0	.
-contig_63	ena	15353	16909	.	+	0	.
-contig_63	ena	17061	18038	.	+	0	.
-contig_63	ena	18041	18979	.	+	0	.
-contig_63	ena	19223	20110	.	+	0	.
-contig_63	ena	23367	24050	.	+	0	.
-contig_63	ena	24057	24800	.	+	0	.
-contig_63	ena	27070	27297	.	+	0	.
-contig_63	ena	28439	28633	.	+	0	.
-contig_63	ena	30071	30967	.	+	0	.
-contig_63	ena	31130	32050	.	+	0	.
-contig_63	ena	34665	35945	.	+	0	.
-contig_63	ena	35955	36566	.	+	0	.
-contig_63	ena	39295	41337	.	+	0	.
-contig_63	ena	41628	41876	.	+	0	.
-contig_63	ena	42018	45137	.	+	0	.
-contig_63	ena	45370	46026	.	+	0	.
-contig_63	ena	46205	46681	.	+	0	.
-contig_63	ena	47203	47301	.	+	0	.
-contig_63	ena	48323	48850	.	+	0	.
-contig_63	ena	48937	49260	.	+	0	.
-contig_63	ena	50137	50550	.	+	0	.
-contig_63	ena	53464	53640	.	+	0	.
-contig_63	ena	55589	57592	.	+	0	.
-contig_63	ena	58453	59493	.	+	0	.
-contig_63	ena	59504	60334	.	+	0	.
-contig_63	ena	60446	61108	.	+	0	.
-contig_63	ena	61209	62027	.	+	0	.
-contig_63	ena	62060	62740	.	+	0	.
-contig_63	ena	63035	64891	.	+	0	.
-contig_50	ena	1082	2293	.	+	0	.
-contig_50	ena	2429	3433	.	+	0	.
-contig_50	ena	3693	4622	.	+	0	.
-contig_50	ena	4637	5098	.	+	0	.
-contig_50	ena	5207	5596	.	+	0	.
-contig_50	ena	8723	8983	.	+	0	.
-contig_50	ena	8987	9481	.	+	0	.
-contig_50	ena	9878	10318	.	+	0	.
-contig_50	ena	11185	12456	.	+	0	.
-contig_50	ena	16198	16476	.	+	0	.
-contig_50	ena	35790	35864	.	+	0	.
-contig_50	ena	37583	37744	.	+	0	.
-contig_50	ena	46289	46894	.	+	0	.
-contig_50	ena	47080	47952	.	+	0	.
-contig_50	ena	48096	50918	.	+	0	.
-contig_50	ena	50985	52748	.	+	0	.
-contig_50	ena	54449	55798	.	+	0	.
-contig_50	ena	59786	61078	.	+	0	.
-contig_18	ena	783	3569	.	+	0	.
-contig_18	ena	4269	4523	.	+	0	.
-contig_18	ena	9337	9498	.	+	0	.
-contig_18	ena	16467	18035	.	+	0	.
-contig_18	ena	18919	19893	.	+	0	.
-contig_18	ena	19910	20395	.	+	0	.
-contig_18	ena	21014	21190	.	+	0	.
-contig_18	ena	24532	24843	.	+	0	.
-contig_18	ena	25038	25637	.	+	0	.
-contig_18	ena	25684	26346	.	+	0	.
-contig_18	ena	26681	27835	.	+	0	.
-contig_18	ena	29740	30360	.	+	0	.
-contig_18	ena	38125	39132	.	+	0	.
-contig_18	ena	39649	40179	.	+	0	.
-contig_18	ena	40433	40759	.	+	0	.
-contig_18	ena	40861	41556	.	+	0	.
-contig_18	ena	43294	43905	.	+	0	.
-contig_18	ena	43920	44873	.	+	0	.
-contig_18	ena	44928	45491	.	+	0	.
-contig_18	ena	45513	45935	.	+	0	.
-contig_18	ena	48707	48925	.	+	0	.
-contig_18	ena	48960	49778	.	+	0	.
-contig_18	ena	49820	50377	.	+	0	.
-contig_18	ena	50710	51141	.	+	0	.
-contig_18	ena	51152	51754	.	+	0	.
-contig_18	ena	51875	52933	.	+	0	.
-contig_18	ena	54703	54975	.	+	0	.
-contig_18	ena	55820	56596	.	+	0	.
-contig_18	ena	56618	56890	.	+	0	.
-contig_18	ena	56970	58109	.	+	0	.
-contig_18	ena	58729	60366	.	+	0	.
-contig_18	ena	61400	62011	.	+	0	.
-contig_18	ena	62029	62760	.	+	0	.
-contig_27	ena	419	1051	.	+	0	.
-contig_27	ena	1339	2130	.	+	0	.
-contig_27	ena	2246	3178	.	+	0	.
-contig_27	ena	6194	7012	.	+	0	.
-contig_27	ena	7143	7853	.	+	0	.
-contig_27	ena	7880	8623	.	+	0	.
-contig_27	ena	8820	9758	.	+	0	.
-contig_27	ena	9920	10957	.	+	0	.
-contig_27	ena	11423	11605	.	+	0	.
-contig_27	ena	13594	14178	.	+	0	.
-contig_27	ena	14735	15691	.	+	0	.
-contig_27	ena	16262	16450	.	+	0	.
-contig_27	ena	19104	19460	.	+	0	.
-contig_27	ena	25018	25692	.	+	0	.
-contig_27	ena	26008	27681	.	+	0	.
-contig_27	ena	29610	31955	.	+	0	.
-contig_27	ena	31957	32838	.	+	0	.
-contig_27	ena	36701	37519	.	+	0	.
-contig_27	ena	37526	38224	.	+	0	.
-contig_27	ena	38266	38952	.	+	0	.
-contig_27	ena	38987	39517	.	+	0	.
-contig_27	ena	39583	41292	.	+	0	.
-contig_27	ena	41485	41622	.	+	0	.
-contig_27	ena	44113	44484	.	+	0	.
-contig_27	ena	49813	50679	.	+	0	.
-contig_27	ena	51047	51115	.	+	0	.
-contig_27	ena	52080	53369	.	+	0	.
-contig_27	ena	55739	57931	.	+	0	.
-contig_27	ena	58978	59205	.	+	0	.
-contig_27	ena	59448	59825	.	+	0	.
-contig_6	ena	411	704	.	+	0	.
-contig_6	ena	795	2540	.	+	0	.
-contig_6	ena	2781	3365	.	+	0	.
-contig_6	ena	4035	4157	.	+	0	.
-contig_6	ena	4166	4393	.	+	0	.
-contig_6	ena	5489	5608	.	+	0	.
-contig_6	ena	5629	6222	.	+	0	.
-contig_6	ena	6278	7534	.	+	0	.
-contig_6	ena	9729	10268	.	+	0	.
-contig_6	ena	10301	10834	.	+	0	.
-contig_6	ena	11745	11900	.	+	0	.
-contig_6	ena	12643	13548	.	+	0	.
-contig_6	ena	13793	14218	.	+	0	.
-contig_6	ena	16295	18040	.	+	0	.
-contig_6	ena	18614	19588	.	+	0	.
-contig_6	ena	19863	20054	.	+	0	.
-contig_6	ena	20208	21104	.	+	0	.
-contig_6	ena	21367	22500	.	+	0	.
-contig_6	ena	27828	28856	.	+	0	.
-contig_6	ena	29788	30222	.	+	0	.
-contig_6	ena	30224	30460	.	+	0	.
-contig_6	ena	30534	32225	.	+	0	.
-contig_6	ena	34633	35298	.	+	0	.
-contig_6	ena	35504	35632	.	+	0	.
-contig_6	ena	36599	37324	.	+	0	.
-contig_6	ena	37484	38098	.	+	0	.
-contig_6	ena	41496	41615	.	+	0	.
-contig_6	ena	44516	45193	.	+	0	.
-contig_6	ena	45276	47636	.	+	0	.
-contig_6	ena	48067	49401	.	+	0	.
-contig_6	ena	51963	52535	.	+	0	.
-contig_6	ena	52562	54511	.	+	0	.
-contig_6	ena	54634	54708	.	+	0	.
-contig_41	ena	637	2508	.	+	0	.
-contig_41	ena	2737	4518	.	+	0	.
-contig_41	ena	7550	8473	.	+	0	.
-contig_41	ena	11852	12532	.	+	0	.
-contig_41	ena	12535	13227	.	+	0	.
-contig_41	ena	13301	13633	.	+	0	.
-contig_41	ena	13645	14496	.	+	0	.
-contig_41	ena	14596	15537	.	+	0	.
-contig_41	ena	15828	16319	.	+	0	.
-contig_41	ena	17399	17698	.	+	0	.
-contig_41	ena	18109	18720	.	+	0	.
-contig_41	ena	20234	20722	.	+	0	.
-contig_41	ena	22013	22843	.	+	0	.
-contig_41	ena	25046	26074	.	+	0	.
-contig_41	ena	26283	27368	.	+	0	.
-contig_41	ena	28452	29369	.	+	0	.
-contig_41	ena	30252	31160	.	+	0	.
-contig_41	ena	31523	31759	.	+	0	.
-contig_41	ena	31978	32145	.	+	0	.
-contig_41	ena	37431	38033	.	+	0	.
-contig_41	ena	38448	39848	.	+	0	.
-contig_41	ena	39877	41097	.	+	0	.
-contig_41	ena	41228	41644	.	+	0	.
-contig_41	ena	41664	43844	.	+	0	.
-contig_41	ena	43868	44908	.	+	0	.
-contig_41	ena	45956	46987	.	+	0	.
-contig_41	ena	46998	48311	.	+	0	.
-contig_35	ena	1560	2159	.	+	0	.
-contig_35	ena	2672	3592	.	+	0	.
-contig_35	ena	3730	5205	.	+	0	.
-contig_35	ena	5218	6384	.	+	0	.
-contig_35	ena	8527	8772	.	+	0	.
-contig_35	ena	11443	11964	.	+	0	.
-contig_35	ena	11976	13277	.	+	0	.
-contig_35	ena	13329	14792	.	+	0	.
-contig_35	ena	14805	16217	.	+	0	.
-contig_35	ena	16221	17198	.	+	0	.
-contig_35	ena	17208	17837	.	+	0	.
-contig_35	ena	18149	18448	.	+	0	.
-contig_35	ena	19472	20140	.	+	0	.
-contig_35	ena	20256	21428	.	+	0	.
-contig_35	ena	21507	22136	.	+	0	.
-contig_35	ena	22147	23241	.	+	0	.
-contig_35	ena	25277	25945	.	+	0	.
-contig_35	ena	26379	26906	.	+	0	.
-contig_35	ena	29284	31044	.	+	0	.
-contig_35	ena	31156	31590	.	+	0	.
-contig_35	ena	31600	32292	.	+	0	.
-contig_35	ena	32297	33118	.	+	0	.
-contig_35	ena	33124	33771	.	+	0	.
-contig_35	ena	33780	34661	.	+	0	.
-contig_35	ena	34884	35312	.	+	0	.
-contig_35	ena	36710	38569	.	+	0	.
-contig_35	ena	39181	39411	.	+	0	.
-contig_35	ena	39973	40185	.	+	0	.
-contig_35	ena	42143	42250	.	+	0	.
-contig_35	ena	43343	43885	.	+	0	.
-contig_35	ena	45112	45273	.	+	0	.
-contig_35	ena	47392	47589	.	+	0	.
-contig_35	ena	49987	51426	.	+	0	.
-contig_35	ena	51626	51790	.	+	0	.
-contig_56	ena	485	1066	.	+	0	.
-contig_56	ena	4825	4977	.	+	0	.
-contig_56	ena	6201	6326	.	+	0	.
-contig_56	ena	10545	11273	.	+	0	.
-contig_56	ena	11688	12128	.	+	0	.
-contig_56	ena	12130	12819	.	+	0	.
-contig_56	ena	12915	13484	.	+	0	.
-contig_56	ena	13893	14228	.	+	0	.
-contig_56	ena	18161	18268	.	+	0	.
-contig_56	ena	20953	22041	.	+	0	.
-contig_56	ena	23286	24821	.	+	0	.
-contig_56	ena	24895	25623	.	+	0	.
-contig_56	ena	27368	27460	.	+	0	.
-contig_56	ena	28078	28401	.	+	0	.
-contig_56	ena	30406	30540	.	+	0	.
-contig_56	ena	37111	38127	.	+	0	.
-contig_56	ena	39520	40701	.	+	0	.
-contig_56	ena	40711	42351	.	+	0	.
-contig_56	ena	46801	46986	.	+	0	.
-contig_56	ena	47042	47950	.	+	0	.
-contig_10	ena	1820	1999	.	+	0	.
-contig_10	ena	4361	4912	.	+	0	.
-contig_10	ena	9110	9217	.	+	0	.
-contig_10	ena	10426	10695	.	+	0	.
-contig_10	ena	11953	12243	.	+	0	.
-contig_10	ena	12246	14729	.	+	0	.
-contig_10	ena	14805	15281	.	+	0	.
-contig_10	ena	15312	15887	.	+	0	.
-contig_10	ena	15899	16033	.	+	0	.
-contig_10	ena	23358	23468	.	+	0	.
-contig_10	ena	23563	24240	.	+	0	.
-contig_10	ena	24272	25102	.	+	0	.
-contig_10	ena	25468	26235	.	+	0	.
-contig_10	ena	37470	38033	.	+	0	.
-contig_10	ena	39702	40100	.	+	0	.
-contig_10	ena	40279	40887	.	+	0	.
-contig_10	ena	41676	41840	.	+	0	.
-contig_10	ena	44117	44185	.	+	0	.
-contig_10	ena	47489	47803	.	+	0	.
-contig_10	ena	48027	49301	.	+	0	.
-contig_10	ena	51350	51499	.	+	0	.
-contig_53	ena	2254	3618	.	+	0	.
-contig_53	ena	7722	7946	.	+	0	.
-contig_53	ena	8679	9935	.	+	0	.
-contig_53	ena	11672	12109	.	+	0	.
-contig_53	ena	13489	13803	.	+	0	.
-contig_53	ena	13860	14540	.	+	0	.
-contig_53	ena	16578	16685	.	+	0	.
-contig_53	ena	19199	19912	.	+	0	.
-contig_53	ena	20043	20885	.	+	0	.
-contig_53	ena	21100	21825	.	+	0	.
-contig_53	ena	21917	22474	.	+	0	.
-contig_53	ena	22751	23326	.	+	0	.
-contig_53	ena	23333	24181	.	+	0	.
-contig_53	ena	24531	25448	.	+	0	.
-contig_53	ena	25457	26803	.	+	0	.
-contig_53	ena	26849	29263	.	+	0	.
-contig_53	ena	29274	29789	.	+	0	.
-contig_53	ena	29798	30829	.	+	0	.
-contig_53	ena	30943	31374	.	+	0	.
-contig_53	ena	31376	32164	.	+	0	.
-contig_53	ena	32257	33399	.	+	0	.
-contig_53	ena	33403	34026	.	+	0	.
-contig_53	ena	34398	37619	.	+	0	.
-contig_53	ena	38101	38616	.	+	0	.
-contig_53	ena	38812	40011	.	+	0	.
-contig_53	ena	40090	40389	.	+	0	.
-contig_53	ena	40527	40865	.	+	0	.
-contig_53	ena	40926	41780	.	+	0	.
-contig_53	ena	45115	45663	.	+	0	.
-contig_53	ena	46534	46932	.	+	0	.
-contig_53	ena	47013	48191	.	+	0	.
-contig_53	ena	48671	48877	.	+	0	.
-contig_53	ena	48964	50826	.	+	0	.
-contig_53	ena	51412	51537	.	+	0	.
-contig_97	ena	21404	23572	.	+	0	.
-contig_97	ena	24403	24942	.	+	0	.
-contig_97	ena	25080	25337	.	+	0	.
-contig_97	ena	26766	28166	.	+	0	.
-contig_97	ena	30191	31585	.	+	0	.
-contig_97	ena	32541	33320	.	+	0	.
-contig_97	ena	33612	34388	.	+	0	.
-contig_97	ena	35442	35603	.	+	0	.
-contig_97	ena	37421	39418	.	+	0	.
-contig_97	ena	41740	42735	.	+	0	.
-contig_97	ena	43214	44287	.	+	0	.
-contig_97	ena	44439	45263	.	+	0	.
-contig_97	ena	45359	46405	.	+	0	.
-contig_97	ena	47395	47484	.	+	0	.
-contig_97	ena	48940	50235	.	+	0	.
-contig_1	ena	590	1327	.	+	0	.
-contig_1	ena	1344	1838	.	+	0	.
-contig_1	ena	5536	5712	.	+	0	.
-contig_1	ena	6349	7083	.	+	0	.
-contig_1	ena	7434	7907	.	+	0	.
-contig_1	ena	8049	10157	.	+	0	.
-contig_1	ena	11111	11410	.	+	0	.
-contig_1	ena	17223	17993	.	+	0	.
-contig_1	ena	18794	19291	.	+	0	.
-contig_1	ena	19613	20533	.	+	0	.
-contig_1	ena	20539	21489	.	+	0	.
-contig_1	ena	21565	22488	.	+	0	.
-contig_1	ena	22501	23247	.	+	0	.
-contig_1	ena	23545	23649	.	+	0	.
-contig_1	ena	23771	24982	.	+	0	.
-contig_1	ena	25068	25871	.	+	0	.
-contig_1	ena	26150	26884	.	+	0	.
-contig_1	ena	26953	27519	.	+	0	.
-contig_1	ena	27575	28480	.	+	0	.
-contig_1	ena	28615	29238	.	+	0	.
-contig_1	ena	29682	31112	.	+	0	.
-contig_1	ena	31482	31883	.	+	0	.
-contig_1	ena	34878	35969	.	+	0	.
-contig_1	ena	37719	38936	.	+	0	.
-contig_1	ena	39245	40060	.	+	0	.
-contig_1	ena	46301	47362	.	+	0	.
-contig_1	ena	47555	48235	.	+	0	.
-contig_1	ena	48345	50015	.	+	0	.
-contig_98	ena	1096	1875	.	+	0	.
-contig_98	ena	2628	2789	.	+	0	.
-contig_98	ena	7960	8739	.	+	0	.
-contig_98	ena	9626	9817	.	+	0	.
-contig_98	ena	10098	11084	.	+	0	.
-contig_98	ena	11713	11931	.	+	0	.
-contig_98	ena	12382	12579	.	+	0	.
-contig_98	ena	14350	14517	.	+	0	.
-contig_98	ena	14662	14784	.	+	0	.
-contig_98	ena	15250	15363	.	+	0	.
-contig_98	ena	18687	19256	.	+	0	.
-contig_98	ena	20683	21150	.	+	0	.
-contig_98	ena	22399	22611	.	+	0	.
-contig_98	ena	27904	29064	.	+	0	.
-contig_98	ena	29076	32213	.	+	0	.
-contig_98	ena	32560	32829	.	+	0	.
-contig_98	ena	33370	34962	.	+	0	.
-contig_98	ena	35773	37581	.	+	0	.
-contig_98	ena	37793	37951	.	+	0	.
-contig_98	ena	43276	43470	.	+	0	.
-contig_98	ena	44739	45500	.	+	0	.
-contig_98	ena	45516	45950	.	+	0	.
-contig_98	ena	46143	46367	.	+	0	.
-contig_98	ena	46519	47043	.	+	0	.
-contig_117	ena	1333	2223	.	+	0	.
-contig_117	ena	2235	3062	.	+	0	.
-contig_117	ena	3390	3836	.	+	0	.
-contig_117	ena	9120	9764	.	+	0	.
-contig_117	ena	11057	11212	.	+	0	.
-contig_117	ena	12733	13383	.	+	0	.
-contig_117	ena	15002	15166	.	+	0	.
-contig_117	ena	25150	25251	.	+	0	.
-contig_117	ena	26427	26627	.	+	0	.
-contig_117	ena	29133	29363	.	+	0	.
-contig_117	ena	29883	30227	.	+	0	.
-contig_117	ena	32109	32354	.	+	0	.
-contig_117	ena	32931	33401	.	+	0	.
-contig_117	ena	35072	35473	.	+	0	.
-contig_117	ena	36452	36592	.	+	0	.
-contig_117	ena	37100	37522	.	+	0	.
-contig_117	ena	37761	39287	.	+	0	.
-contig_117	ena	39304	40074	.	+	0	.
-contig_117	ena	41235	42365	.	+	0	.
-contig_117	ena	42580	43308	.	+	0	.
-contig_117	ena	43555	44019	.	+	0	.
-contig_117	ena	44056	44679	.	+	0	.
-contig_117	ena	44850	45311	.	+	0	.
-contig_117	ena	45586	46086	.	+	0	.
-contig_117	ena	46925	47350	.	+	0	.
-contig_80	ena	763	2400	.	+	0	.
-contig_80	ena	2528	3841	.	+	0	.
-contig_80	ena	4641	5831	.	+	0	.
-contig_80	ena	6047	7099	.	+	0	.
-contig_80	ena	8057	8452	.	+	0	.
-contig_80	ena	8621	8899	.	+	0	.
-contig_80	ena	8954	10777	.	+	0	.
-contig_80	ena	10831	11739	.	+	0	.
-contig_80	ena	12235	12582	.	+	0	.
-contig_80	ena	13771	14418	.	+	0	.
-contig_80	ena	14575	15042	.	+	0	.
-contig_80	ena	15073	16287	.	+	0	.
-contig_80	ena	16331	16714	.	+	0	.
-contig_80	ena	17171	17686	.	+	0	.
-contig_80	ena	17972	19561	.	+	0	.
-contig_80	ena	19573	19911	.	+	0	.
-contig_80	ena	19986	20186	.	+	0	.
-contig_80	ena	20351	21637	.	+	0	.
-contig_80	ena	21701	22126	.	+	0	.
-contig_80	ena	22194	23447	.	+	0	.
-contig_80	ena	24040	24774	.	+	0	.
-contig_80	ena	24780	25898	.	+	0	.
-contig_80	ena	26054	27202	.	+	0	.
-contig_80	ena	27272	27886	.	+	0	.
-contig_80	ena	27932	29059	.	+	0	.
-contig_80	ena	29324	30751	.	+	0	.
-contig_80	ena	31297	31746	.	+	0	.
-contig_80	ena	32123	33097	.	+	0	.
-contig_80	ena	33773	33874	.	+	0	.
-contig_80	ena	34926	36389	.	+	0	.
-contig_80	ena	36814	38025	.	+	0	.
-contig_80	ena	38287	39990	.	+	0	.
-contig_80	ena	40151	40744	.	+	0	.
-contig_80	ena	42696	42815	.	+	0	.
-contig_80	ena	44107	45009	.	+	0	.
-contig_80	ena	45099	46076	.	+	0	.
-contig_80	ena	46173	46232	.	+	0	.
-contig_138	ena	340	1173	.	+	0	.
-contig_138	ena	1700	1777	.	+	0	.
-contig_138	ena	2037	3785	.	+	0	.
-contig_138	ena	3917	4345	.	+	0	.
-contig_138	ena	12582	13295	.	+	0	.
-contig_138	ena	13378	14073	.	+	0	.
-contig_138	ena	24765	25454	.	+	0	.
-contig_138	ena	26373	27134	.	+	0	.
-contig_138	ena	33861	34628	.	+	0	.
-contig_138	ena	34757	34963	.	+	0	.
-contig_138	ena	35012	35545	.	+	0	.
-contig_138	ena	36267	36716	.	+	0	.
-contig_138	ena	40779	41915	.	+	0	.
-contig_138	ena	41918	43132	.	+	0	.
-contig_138	ena	43222	44814	.	+	0	.
-contig_138	ena	45100	46695	.	+	0	.
-contig_121	ena	298	747	.	+	0	.
-contig_121	ena	958	1800	.	+	0	.
-contig_121	ena	2135	3571	.	+	0	.
-contig_121	ena	3907	4134	.	+	0	.
-contig_121	ena	5108	6364	.	+	0	.
-contig_121	ena	6556	7029	.	+	0	.
-contig_121	ena	7506	7757	.	+	0	.
-contig_121	ena	7864	7962	.	+	0	.
-contig_121	ena	9498	10688	.	+	0	.
-contig_121	ena	13050	13715	.	+	0	.
-contig_121	ena	16408	17001	.	+	0	.
-contig_121	ena	18190	18504	.	+	0	.
-contig_121	ena	18852	19724	.	+	0	.
-contig_121	ena	19865	21211	.	+	0	.
-contig_121	ena	22079	23317	.	+	0	.
-contig_121	ena	23327	24604	.	+	0	.
-contig_121	ena	27577	28056	.	+	0	.
-contig_121	ena	28071	29699	.	+	0	.
-contig_121	ena	33264	34958	.	+	0	.
-contig_121	ena	35105	35860	.	+	0	.
-contig_121	ena	36196	37290	.	+	0	.
-contig_121	ena	37431	37946	.	+	0	.
-contig_121	ena	38116	40956	.	+	0	.
-contig_121	ena	41100	41837	.	+	0	.
-contig_121	ena	42233	44029	.	+	0	.
-contig_121	ena	44257	46083	.	+	0	.
-contig_121	ena	46163	46810	.	+	0	.
-contig_111	ena	8407	9072	.	+	0	.
-contig_111	ena	9414	10496	.	+	0	.
-contig_111	ena	10658	11677	.	+	0	.
-contig_111	ena	12673	13626	.	+	0	.
-contig_111	ena	13662	14696	.	+	0	.
-contig_111	ena	14786	17752	.	+	0	.
-contig_111	ena	22406	22624	.	+	0	.
-contig_111	ena	23116	24096	.	+	0	.
-contig_111	ena	24161	24367	.	+	0	.
-contig_111	ena	31113	32360	.	+	0	.
-contig_111	ena	32390	34723	.	+	0	.
-contig_111	ena	34800	35981	.	+	0	.
-contig_111	ena	37767	38189	.	+	0	.
-contig_111	ena	38558	41740	.	+	0	.
-contig_29	ena	710	772	.	+	0	.
-contig_29	ena	3364	4617	.	+	0	.
-contig_29	ena	5233	6399	.	+	0	.
-contig_29	ena	6909	8810	.	+	0	.
-contig_29	ena	9011	9904	.	+	0	.
-contig_29	ena	14697	14846	.	+	0	.
-contig_29	ena	15304	16308	.	+	0	.
-contig_29	ena	16331	17122	.	+	0	.
-contig_29	ena	17331	18548	.	+	0	.
-contig_29	ena	18788	20662	.	+	0	.
-contig_29	ena	21371	22270	.	+	0	.
-contig_29	ena	25203	25997	.	+	0	.
-contig_29	ena	26302	26577	.	+	0	.
-contig_29	ena	26771	27160	.	+	0	.
-contig_29	ena	27219	27662	.	+	0	.
-contig_29	ena	27691	29460	.	+	0	.
-contig_29	ena	29662	30180	.	+	0	.
-contig_29	ena	30213	31304	.	+	0	.
-contig_29	ena	31355	32851	.	+	0	.
-contig_29	ena	33123	33758	.	+	0	.
-contig_29	ena	33880	34548	.	+	0	.
-contig_29	ena	34864	35235	.	+	0	.
-contig_29	ena	35256	35546	.	+	0	.
-contig_29	ena	35563	35790	.	+	0	.
-contig_29	ena	35824	36273	.	+	0	.
-contig_29	ena	37293	38687	.	+	0	.
-contig_29	ena	38692	39777	.	+	0	.
-contig_29	ena	39785	40996	.	+	0	.
-contig_29	ena	41790	43442	.	+	0	.
-contig_34	ena	1917	2675	.	+	0	.
-contig_34	ena	3063	4580	.	+	0	.
-contig_34	ena	4846	6006	.	+	0	.
-contig_34	ena	6209	7513	.	+	0	.
-contig_34	ena	7626	8447	.	+	0	.
-contig_34	ena	8457	9299	.	+	0	.
-contig_34	ena	9352	10470	.	+	0	.
-contig_34	ena	10479	11240	.	+	0	.
-contig_34	ena	11275	11973	.	+	0	.
-contig_34	ena	12343	14514	.	+	0	.
-contig_34	ena	16053	17006	.	+	0	.
-contig_34	ena	19344	19523	.	+	0	.
-contig_34	ena	24784	25569	.	+	0	.
-contig_34	ena	26338	28020	.	+	0	.
-contig_34	ena	28309	29121	.	+	0	.
-contig_34	ena	29525	30028	.	+	0	.
-contig_34	ena	31604	31918	.	+	0	.
-contig_34	ena	32134	32364	.	+	0	.
-contig_34	ena	32623	32703	.	+	0	.
-contig_34	ena	33335	34543	.	+	0	.
-contig_34	ena	34655	35176	.	+	0	.
-contig_34	ena	35326	35901	.	+	0	.
-contig_34	ena	42407	42721	.	+	0	.
-contig_75	ena	1622	2137	.	+	0	.
-contig_75	ena	5665	5961	.	+	0	.
-contig_75	ena	6001	6360	.	+	0	.
-contig_75	ena	8304	8477	.	+	0	.
-contig_75	ena	8683	9417	.	+	0	.
-contig_75	ena	9558	10325	.	+	0	.
-contig_75	ena	10361	11239	.	+	0	.
-contig_75	ena	11299	13233	.	+	0	.
-contig_75	ena	13405	14358	.	+	0	.
-contig_75	ena	14748	16868	.	+	0	.
-contig_75	ena	18517	18615	.	+	0	.
-contig_75	ena	20029	20112	.	+	0	.
-contig_75	ena	20655	20732	.	+	0	.
-contig_75	ena	20946	21146	.	+	0	.
-contig_75	ena	21519	21689	.	+	0	.
-contig_75	ena	22229	22468	.	+	0	.
-contig_75	ena	24750	25202	.	+	0	.
-contig_75	ena	29888	30802	.	+	0	.
-contig_75	ena	30937	32904	.	+	0	.
-contig_75	ena	32992	33219	.	+	0	.
-contig_75	ena	33353	33553	.	+	0	.
-contig_75	ena	33707	34240	.	+	0	.
-contig_75	ena	34401	34622	.	+	0	.
-contig_75	ena	35926	36381	.	+	0	.
-contig_75	ena	36552	36905	.	+	0	.
-contig_75	ena	37058	37306	.	+	0	.
-contig_75	ena	37726	37794	.	+	0	.
-contig_75	ena	41744	42361	.	+	0	.
-contig_3	ena	6526	8286	.	+	0	.
-contig_3	ena	14632	14973	.	+	0	.
-contig_3	ena	15262	16245	.	+	0	.
-contig_3	ena	16322	17743	.	+	0	.
-contig_3	ena	19546	20778	.	+	0	.
-contig_3	ena	21305	21457	.	+	0	.
-contig_3	ena	21817	22473	.	+	0	.
-contig_3	ena	25145	25834	.	+	0	.
-contig_3	ena	25859	27559	.	+	0	.
-contig_3	ena	29764	30072	.	+	0	.
-contig_3	ena	38600	39457	.	+	0	.
-contig_3	ena	39678	41294	.	+	0	.
-contig_8	ena	2685	2801	.	+	0	.
-contig_8	ena	14665	16551	.	+	0	.
-contig_8	ena	16772	18637	.	+	0	.
-contig_8	ena	20496	20966	.	+	0	.
-contig_8	ena	21235	23829	.	+	0	.
-contig_8	ena	23856	24749	.	+	0	.
-contig_8	ena	24817	25782	.	+	0	.
-contig_8	ena	26035	26820	.	+	0	.
-contig_8	ena	27023	27574	.	+	0	.
-contig_8	ena	27993	29228	.	+	0	.
-contig_8	ena	29625	30224	.	+	0	.
-contig_8	ena	30236	31078	.	+	0	.
-contig_8	ena	31089	33572	.	+	0	.
-contig_8	ena	33576	33899	.	+	0	.
-contig_8	ena	34049	34312	.	+	0	.
-contig_8	ena	35855	36094	.	+	0	.
-contig_8	ena	37706	39487	.	+	0	.
-contig_8	ena	40349	41335	.	+	0	.
-contig_118	ena	3578	4216	.	+	0	.
-contig_118	ena	4367	5128	.	+	0	.
-contig_118	ena	7344	8780	.	+	0	.
-contig_118	ena	12674	12901	.	+	0	.
-contig_118	ena	13013	14743	.	+	0	.
-contig_118	ena	15219	15881	.	+	0	.
-contig_118	ena	15905	17248	.	+	0	.
-contig_118	ena	17286	17852	.	+	0	.
-contig_118	ena	18190	19533	.	+	0	.
-contig_118	ena	21230	21454	.	+	0	.
-contig_118	ena	22088	22333	.	+	0	.
-contig_118	ena	26719	27063	.	+	0	.
-contig_118	ena	27883	28452	.	+	0	.
-contig_118	ena	28863	30743	.	+	0	.
-contig_118	ena	30959	31861	.	+	0	.
-contig_118	ena	32315	33133	.	+	0	.
-contig_118	ena	34204	35079	.	+	0	.
-contig_118	ena	35235	36146	.	+	0	.
-contig_118	ena	36357	38393	.	+	0	.
-contig_68	ena	1041	1142	.	+	0	.
-contig_68	ena	3028	3747	.	+	0	.
-contig_68	ena	4705	4971	.	+	0	.
-contig_68	ena	5337	5816	.	+	0	.
-contig_68	ena	6435	8912	.	+	0	.
-contig_68	ena	9038	10255	.	+	0	.
-contig_68	ena	10361	11587	.	+	0	.
-contig_68	ena	12134	12262	.	+	0	.
-contig_68	ena	12992	14482	.	+	0	.
-contig_68	ena	14503	16263	.	+	0	.
-contig_68	ena	18320	18856	.	+	0	.
-contig_68	ena	19133	19348	.	+	0	.
-contig_68	ena	19930	20469	.	+	0	.
-contig_68	ena	21746	22603	.	+	0	.
-contig_68	ena	22711	23535	.	+	0	.
-contig_68	ena	23894	24556	.	+	0	.
-contig_68	ena	24686	25048	.	+	0	.
-contig_68	ena	25475	27052	.	+	0	.
-contig_68	ena	27600	27995	.	+	0	.
-contig_68	ena	28243	28464	.	+	0	.
-contig_68	ena	29729	30280	.	+	0	.
-contig_68	ena	30463	31155	.	+	0	.
-contig_68	ena	31287	32759	.	+	0	.
-contig_68	ena	32859	33860	.	+	0	.
-contig_68	ena	33876	35021	.	+	0	.
-contig_99	ena	1118	1918	.	+	0	.
-contig_99	ena	8396	9268	.	+	0	.
-contig_99	ena	9281	9799	.	+	0	.
-contig_99	ena	10172	10606	.	+	0	.
-contig_99	ena	10616	10894	.	+	0	.
-contig_99	ena	14110	14925	.	+	0	.
-contig_99	ena	14966	15793	.	+	0	.
-contig_99	ena	16394	16936	.	+	0	.
-contig_99	ena	17100	18023	.	+	0	.
-contig_99	ena	18033	18491	.	+	0	.
-contig_99	ena	24196	24843	.	+	0	.
-contig_99	ena	25079	25966	.	+	0	.
-contig_99	ena	26655	28379	.	+	0	.
-contig_99	ena	35082	35339	.	+	0	.
-contig_57	ena	2770	2835	.	+	0	.
-contig_57	ena	3598	4527	.	+	0	.
-contig_57	ena	4540	5163	.	+	0	.
-contig_57	ena	9794	9889	.	+	0	.
-contig_57	ena	11545	11748	.	+	0	.
-contig_57	ena	13587	13949	.	+	0	.
-contig_57	ena	14133	16196	.	+	0	.
-contig_57	ena	16484	18256	.	+	0	.
-contig_57	ena	18634	19488	.	+	0	.
-contig_57	ena	19787	21487	.	+	0	.
-contig_57	ena	21569	22972	.	+	0	.
-contig_57	ena	22985	24985	.	+	0	.
-contig_57	ena	25674	27326	.	+	0	.
-contig_57	ena	28428	28904	.	+	0	.
-contig_57	ena	29081	29368	.	+	0	.
-contig_57	ena	29381	30505	.	+	0	.
-contig_57	ena	30722	31057	.	+	0	.
-contig_57	ena	32266	32547	.	+	0	.
-contig_57	ena	32831	33040	.	+	0	.
-contig_57	ena	33158	34744	.	+	0	.
-contig_57	ena	35865	36326	.	+	0	.
-contig_57	ena	36523	36741	.	+	0	.
-contig_116	ena	518	1081	.	+	0	.
-contig_116	ena	24609	24938	.	+	0	.
-contig_116	ena	34220	34522	.	+	0	.
-contig_116	ena	35235	36071	.	+	0	.
-contig_87	ena	588	1223	.	+	0	.
-contig_87	ena	4513	4731	.	+	0	.
-contig_87	ena	8488	10074	.	+	0	.
-contig_87	ena	10398	10757	.	+	0	.
-contig_87	ena	11170	12675	.	+	0	.
-contig_87	ena	12732	13406	.	+	0	.
-contig_87	ena	13476	14888	.	+	0	.
-contig_87	ena	15528	15665	.	+	0	.
-contig_87	ena	16627	17007	.	+	0	.
-contig_87	ena	18390	18629	.	+	0	.
-contig_87	ena	19728	19835	.	+	0	.
-contig_87	ena	22111	22338	.	+	0	.
-contig_87	ena	23727	23987	.	+	0	.
-contig_13	ena	262	726	.	+	0	.
-contig_13	ena	2411	2545	.	+	0	.
-contig_13	ena	3370	3435	.	+	0	.
-contig_13	ena	3818	4432	.	+	0	.
-contig_13	ena	4499	4807	.	+	0	.
-contig_13	ena	5600	6223	.	+	0	.
-contig_13	ena	6277	7500	.	+	0	.
-contig_13	ena	7607	7942	.	+	0	.
-contig_13	ena	7972	8973	.	+	0	.
-contig_13	ena	9548	10768	.	+	0	.
-contig_13	ena	10967	11881	.	+	0	.
-contig_13	ena	12410	12811	.	+	0	.
-contig_13	ena	13876	14463	.	+	0	.
-contig_13	ena	14906	15499	.	+	0	.
-contig_13	ena	16665	17852	.	+	0	.
-contig_13	ena	17873	18550	.	+	0	.
-contig_13	ena	18699	19505	.	+	0	.
-contig_13	ena	19682	20539	.	+	0	.
-contig_13	ena	20974	21294	.	+	0	.
-contig_13	ena	21413	22222	.	+	0	.
-contig_13	ena	22854	23393	.	+	0	.
-contig_13	ena	23436	24248	.	+	0	.
-contig_13	ena	27279	27833	.	+	0	.
-contig_13	ena	28074	28835	.	+	0	.
-contig_13	ena	29197	30039	.	+	0	.
-contig_13	ena	30573	31214	.	+	0	.
-contig_13	ena	31289	31594	.	+	0	.
-contig_13	ena	33408	34511	.	+	0	.
-contig_13	ena	34999	36036	.	+	0	.
-contig_74	ena	4162	5346	.	+	0	.
-contig_74	ena	5523	7463	.	+	0	.
-contig_74	ena	10680	11144	.	+	0	.
-contig_74	ena	11871	12749	.	+	0	.
-contig_74	ena	12949	14034	.	+	0	.
-contig_74	ena	15062	15523	.	+	0	.
-contig_74	ena	15538	15801	.	+	0	.
-contig_74	ena	16422	16559	.	+	0	.
-contig_74	ena	18077	19225	.	+	0	.
-contig_74	ena	19448	20602	.	+	0	.
-contig_74	ena	21247	21612	.	+	0	.
-contig_74	ena	21823	27936	.	+	0	.
-contig_74	ena	28061	28855	.	+	0	.
-contig_74	ena	29030	29956	.	+	0	.
-contig_74	ena	30037	31266	.	+	0	.
-contig_74	ena	31294	31830	.	+	0	.
-contig_74	ena	31892	32383	.	+	0	.
-contig_74	ena	32486	33934	.	+	0	.
-contig_74	ena	35220	35405	.	+	0	.
-contig_12	ena	958	1167	.	+	0	.
-contig_12	ena	4180	4404	.	+	0	.
-contig_12	ena	6776	6937	.	+	0	.
-contig_12	ena	7730	7834	.	+	0	.
-contig_12	ena	8628	8909	.	+	0	.
-contig_12	ena	9417	9698	.	+	0	.
-contig_12	ena	10339	11799	.	+	0	.
-contig_12	ena	13358	13840	.	+	0	.
-contig_12	ena	13954	14688	.	+	0	.
-contig_12	ena	14796	16151	.	+	0	.
-contig_12	ena	19113	19817	.	+	0	.
-contig_12	ena	20788	20952	.	+	0	.
-contig_12	ena	23989	24159	.	+	0	.
-contig_12	ena	28678	29241	.	+	0	.
-contig_12	ena	29672	29833	.	+	0	.
-contig_12	ena	30184	31950	.	+	0	.
-contig_12	ena	32136	33176	.	+	0	.
-contig_12	ena	33390	34670	.	+	0	.
-contig_12	ena	34678	35391	.	+	0	.
-contig_122	ena	3351	3989	.	+	0	.
-contig_122	ena	4037	5266	.	+	0	.
-contig_122	ena	5384	5668	.	+	0	.
-contig_122	ena	8034	9770	.	+	0	.
-contig_122	ena	11225	11503	.	+	0	.
-contig_122	ena	19019	19765	.	+	0	.
-contig_122	ena	21236	23692	.	+	0	.
-contig_122	ena	25686	26069	.	+	0	.
-contig_122	ena	27165	27239	.	+	0	.
-contig_122	ena	28369	29214	.	+	0	.
-contig_122	ena	29622	31055	.	+	0	.
-contig_122	ena	32584	33135	.	+	0	.
-contig_122	ena	33375	33596	.	+	0	.
-contig_122	ena	33865	34935	.	+	0	.
-contig_81	ena	1092	2330	.	+	0	.
-contig_81	ena	2487	2834	.	+	0	.
-contig_81	ena	3355	5094	.	+	0	.
-contig_81	ena	5097	6431	.	+	0	.
-contig_81	ena	6589	7257	.	+	0	.
-contig_81	ena	7452	8225	.	+	0	.
-contig_81	ena	8372	9385	.	+	0	.
-contig_81	ena	12615	13808	.	+	0	.
-contig_81	ena	16966	19140	.	+	0	.
-contig_81	ena	21493	21696	.	+	0	.
-contig_81	ena	22706	24394	.	+	0	.
-contig_81	ena	24426	24701	.	+	0	.
-contig_81	ena	24979	25650	.	+	0	.
-contig_81	ena	27888	28139	.	+	0	.
-contig_81	ena	28320	28484	.	+	0	.
-contig_81	ena	28641	28967	.	+	0	.
-contig_81	ena	29164	30423	.	+	0	.
-contig_81	ena	30596	31522	.	+	0	.
-contig_81	ena	31963	33468	.	+	0	.
-contig_81	ena	33492	33737	.	+	0	.
-contig_81	ena	33860	34465	.	+	0	.
-contig_77	ena	305	1915	.	+	0	.
-contig_77	ena	1936	2724	.	+	0	.
-contig_77	ena	2916	3677	.	+	0	.
-contig_77	ena	6935	7006	.	+	0	.
-contig_77	ena	7688	7783	.	+	0	.
-contig_77	ena	8994	9164	.	+	0	.
-contig_77	ena	9613	9747	.	+	0	.
-contig_77	ena	11569	11646	.	+	0	.
-contig_77	ena	13507	13635	.	+	0	.
-contig_77	ena	14345	14527	.	+	0	.
-contig_77	ena	14611	16203	.	+	0	.
-contig_77	ena	24516	25121	.	+	0	.
-contig_77	ena	25459	26562	.	+	0	.
-contig_77	ena	26643	27221	.	+	0	.
-contig_77	ena	28441	28638	.	+	0	.
-contig_77	ena	28919	29590	.	+	0	.
-contig_77	ena	29637	32024	.	+	0	.
-contig_77	ena	32064	33149	.	+	0	.
-contig_77	ena	33503	34594	.	+	0	.
-contig_61	ena	3287	4780	.	+	0	.
-contig_61	ena	4978	5370	.	+	0	.
-contig_61	ena	26757	28556	.	+	0	.
-contig_61	ena	28791	29858	.	+	0	.
-contig_61	ena	29935	32499	.	+	0	.
-contig_61	ena	32670	32924	.	+	0	.
-contig_62	ena	138	5366	.	+	0	.
-contig_62	ena	16903	17868	.	+	0	.
-contig_62	ena	18524	19105	.	+	0	.
-contig_62	ena	24228	25391	.	+	0	.
-contig_62	ena	29072	31297	.	+	0	.
-contig_101	ena	2228	3457	.	+	0	.
-contig_101	ena	3460	4743	.	+	0	.
-contig_101	ena	4746	5579	.	+	0	.
-contig_101	ena	5594	7372	.	+	0	.
-contig_101	ena	7510	8271	.	+	0	.
-contig_101	ena	8351	9133	.	+	0	.
-contig_101	ena	9552	10520	.	+	0	.
-contig_101	ena	11219	11695	.	+	0	.
-contig_101	ena	11697	12146	.	+	0	.
-contig_101	ena	12471	13520	.	+	0	.
-contig_101	ena	13847	15067	.	+	0	.
-contig_101	ena	16685	16960	.	+	0	.
-contig_101	ena	21641	25225	.	+	0	.
-contig_101	ena	27024	28484	.	+	0	.
-contig_101	ena	28711	29889	.	+	0	.
-contig_101	ena	29951	31480	.	+	0	.
-contig_71	ena	533	865	.	+	0	.
-contig_71	ena	3524	3745	.	+	0	.
-contig_71	ena	7054	8025	.	+	0	.
-contig_71	ena	8211	8558	.	+	0	.
-contig_71	ena	10732	10950	.	+	0	.
-contig_71	ena	15212	17236	.	+	0	.
-contig_71	ena	18743	19030	.	+	0	.
-contig_71	ena	20024	20404	.	+	0	.
-contig_71	ena	20491	21186	.	+	0	.
-contig_71	ena	21344	22528	.	+	0	.
-contig_71	ena	23482	24546	.	+	0	.
-contig_71	ena	24556	25563	.	+	0	.
-contig_71	ena	29231	30223	.	+	0	.
-contig_88	ena	969	1055	.	+	0	.
-contig_88	ena	6369	7124	.	+	0	.
-contig_88	ena	7150	8400	.	+	0	.
-contig_88	ena	8466	8990	.	+	0	.
-contig_88	ena	8992	11163	.	+	0	.
-contig_88	ena	11165	12400	.	+	0	.
-contig_88	ena	12438	13787	.	+	0	.
-contig_88	ena	14836	16032	.	+	0	.
-contig_88	ena	16038	17144	.	+	0	.
-contig_88	ena	17147	17551	.	+	0	.
-contig_88	ena	17640	19070	.	+	0	.
-contig_88	ena	19987	20865	.	+	0	.
-contig_88	ena	20878	22191	.	+	0	.
-contig_88	ena	23569	23742	.	+	0	.
-contig_88	ena	25608	25805	.	+	0	.
-contig_88	ena	29843	30934	.	+	0	.
-contig_72	ena	1471	1854	.	+	0	.
-contig_72	ena	2238	3659	.	+	0	.
-contig_72	ena	4073	4984	.	+	0	.
-contig_72	ena	12703	15051	.	+	0	.
-contig_72	ena	16366	16842	.	+	0	.
-contig_72	ena	17295	17456	.	+	0	.
-contig_72	ena	27391	29310	.	+	0	.
-contig_114	ena	1978	2646	.	+	0	.
-contig_114	ena	3694	3897	.	+	0	.
-contig_114	ena	4377	5015	.	+	0	.
-contig_114	ena	5280	6287	.	+	0	.
-contig_114	ena	6846	7433	.	+	0	.
-contig_114	ena	11588	11785	.	+	0	.
-contig_114	ena	12332	12493	.	+	0	.
-contig_114	ena	13196	13282	.	+	0	.
-contig_114	ena	18975	21683	.	+	0	.
-contig_114	ena	22045	23004	.	+	0	.
-contig_114	ena	23102	24067	.	+	0	.
-contig_114	ena	28165	28386	.	+	0	.
-contig_44	ena	345	1361	.	+	0	.
-contig_44	ena	1388	2146	.	+	0	.
-contig_44	ena	3236	3730	.	+	0	.
-contig_44	ena	10899	12104	.	+	0	.
-contig_44	ena	12255	12845	.	+	0	.
-contig_44	ena	12849	13787	.	+	0	.
-contig_44	ena	15866	16621	.	+	0	.
-contig_44	ena	21802	22179	.	+	0	.
-contig_120	ena	297	1418	.	+	0	.
-contig_120	ena	1552	2253	.	+	0	.
-contig_120	ena	2318	3082	.	+	0	.
-contig_120	ena	4094	5233	.	+	0	.
-contig_120	ena	5443	6591	.	+	0	.
-contig_120	ena	7740	8300	.	+	0	.
-contig_120	ena	10278	11789	.	+	0	.
-contig_120	ena	14272	14895	.	+	0	.
-contig_120	ena	14932	15477	.	+	0	.
-contig_120	ena	15504	15596	.	+	0	.
-contig_120	ena	17811	21704	.	+	0	.
-contig_120	ena	21864	22169	.	+	0	.
-contig_120	ena	22795	22866	.	+	0	.
-contig_120	ena	23600	23833	.	+	0	.
-contig_120	ena	24217	24756	.	+	0	.
-contig_73	ena	3131	3430	.	+	0	.
-contig_73	ena	3439	4218	.	+	0	.
-contig_73	ena	5466	7367	.	+	0	.
-contig_73	ena	7386	8693	.	+	0	.
-contig_73	ena	10220	11290	.	+	0	.
-contig_73	ena	14144	14401	.	+	0	.
-contig_73	ena	14584	16116	.	+	0	.
-contig_73	ena	17433	17537	.	+	0	.
-contig_73	ena	19289	19996	.	+	0	.
-contig_73	ena	20538	22319	.	+	0	.
-contig_73	ena	23180	23551	.	+	0	.
-contig_73	ena	24485	24613	.	+	0	.
-contig_96	ena	217	1701	.	+	0	.
-contig_96	ena	1718	4009	.	+	0	.
-contig_96	ena	4025	5476	.	+	0	.
-contig_96	ena	5478	6038	.	+	0	.
-contig_96	ena	7773	7850	.	+	0	.
-contig_96	ena	9333	9611	.	+	0	.
-contig_96	ena	10591	11277	.	+	0	.
-contig_96	ena	11366	12298	.	+	0	.
-contig_96	ena	12320	13030	.	+	0	.
-contig_96	ena	13033	13182	.	+	0	.
-contig_96	ena	13241	13990	.	+	0	.
-contig_96	ena	14305	16359	.	+	0	.
-contig_96	ena	23431	25344	.	+	0	.
-contig_96	ena	25392	25592	.	+	0	.
-contig_96	ena	25768	26067	.	+	0	.
-contig_91	ena	823	2436	.	+	0	.
-contig_91	ena	6961	7089	.	+	0	.
-contig_91	ena	12993	13154	.	+	0	.
-contig_91	ena	15879	16916	.	+	0	.
-contig_91	ena	17090	18322	.	+	0	.
-contig_91	ena	18413	19228	.	+	0	.
-contig_91	ena	20447	21439	.	+	0	.
-contig_91	ena	21768	22220	.	+	0	.
-contig_91	ena	23646	24488	.	+	0	.
-contig_91	ena	25291	25797	.	+	0	.
-contig_69	ena	480	617	.	+	0	.
-contig_69	ena	6844	7482	.	+	0	.
-contig_69	ena	17096	17797	.	+	0	.
-contig_69	ena	18039	18554	.	+	0	.
-contig_69	ena	18576	20117	.	+	0	.
-contig_109	ena	1045	2415	.	+	0	.
-contig_109	ena	2979	4850	.	+	0	.
-contig_109	ena	6806	7066	.	+	0	.
-contig_109	ena	7137	8234	.	+	0	.
-contig_109	ena	10220	10828	.	+	0	.
-contig_109	ena	11335	11448	.	+	0	.
-contig_109	ena	11789	12097	.	+	0	.
-contig_109	ena	13269	13868	.	+	0	.
-contig_109	ena	14413	14757	.	+	0	.
-contig_109	ena	14868	15515	.	+	0	.
-contig_109	ena	18444	18932	.	+	0	.
-contig_109	ena	19255	20604	.	+	0	.
-contig_109	ena	21466	21768	.	+	0	.
-contig_109	ena	22213	22281	.	+	0	.
-contig_59	ena	369	500	.	+	0	.
-contig_59	ena	1434	2042	.	+	0	.
-contig_59	ena	2302	3054	.	+	0	.
-contig_59	ena	3108	3884	.	+	0	.
-contig_59	ena	3895	4842	.	+	0	.
-contig_59	ena	4953	5429	.	+	0	.
-contig_59	ena	11301	13166	.	+	0	.
-contig_59	ena	13210	14649	.	+	0	.
-contig_59	ena	17878	18792	.	+	0	.
-contig_59	ena	18995	20335	.	+	0	.
-contig_59	ena	20378	20593	.	+	0	.
-contig_58	ena	379	750	.	+	0	.
-contig_58	ena	1764	1952	.	+	0	.
-contig_58	ena	2290	2571	.	+	0	.
-contig_58	ena	3088	5754	.	+	0	.
-contig_58	ena	6771	7661	.	+	0	.
-contig_58	ena	7764	8084	.	+	0	.
-contig_58	ena	10063	10182	.	+	0	.
-contig_58	ena	11329	11457	.	+	0	.
-contig_58	ena	16299	16481	.	+	0	.
-contig_58	ena	21013	21369	.	+	0	.
-contig_28	ena	5472	6023	.	+	0	.
-contig_28	ena	8012	8086	.	+	0	.
-contig_45	ena	4711	5046	.	+	0	.
-contig_45	ena	5594	5650	.	+	0	.
-contig_45	ena	10527	10868	.	+	0	.
-contig_45	ena	13504	13662	.	+	0	.
-contig_45	ena	15646	15789	.	+	0	.
-contig_45	ena	15994	16035	.	+	0	.
-contig_45	ena	17379	17588	.	+	0	.
-contig_78	ena	795	1307	.	+	0	.
-contig_78	ena	1492	2535	.	+	0	.
-contig_78	ena	3797	5056	.	+	0	.
-contig_78	ena	10179	12068	.	+	0	.
-contig_78	ena	12291	13037	.	+	0	.
-contig_78	ena	13552	13665	.	+	0	.
-contig_78	ena	19851	20660	.	+	0	.
-contig_84	ena	586	795	.	+	0	.
-contig_84	ena	3089	3223	.	+	0	.
-contig_84	ena	7157	7864	.	+	0	.
-contig_84	ena	8045	8881	.	+	0	.
-contig_84	ena	9414	10424	.	+	0	.
-contig_84	ena	12604	13392	.	+	0	.
-contig_84	ena	18558	18701	.	+	0	.
-contig_84	ena	19519	19611	.	+	0	.
-contig_136	ena	335	1012	.	+	0	.
-contig_136	ena	2441	3415	.	+	0	.
-contig_136	ena	3679	4410	.	+	0	.
-contig_136	ena	9660	10760	.	+	0	.
-contig_136	ena	10764	11837	.	+	0	.
-contig_136	ena	14518	14814	.	+	0	.
-contig_136	ena	14912	16243	.	+	0	.
-contig_136	ena	16297	16605	.	+	0	.
-contig_136	ena	16615	17937	.	+	0	.
-contig_136	ena	17954	18712	.	+	0	.
-contig_136	ena	18751	19803	.	+	0	.
-contig_136	ena	19873	20280	.	+	0	.
-contig_26	ena	7334	8161	.	+	0	.
-contig_26	ena	10238	10870	.	+	0	.
-contig_26	ena	12489	13700	.	+	0	.
-contig_26	ena	16309	16512	.	+	0	.
-contig_26	ena	16962	17078	.	+	0	.
-contig_26	ena	17080	18141	.	+	0	.
-contig_26	ena	18307	18387	.	+	0	.
-contig_131	ena	464	1162	.	+	0	.
-contig_131	ena	4052	4495	.	+	0	.
-contig_131	ena	4556	4846	.	+	0	.
-contig_131	ena	4856	6112	.	+	0	.
-contig_131	ena	8476	8826	.	+	0	.
-contig_131	ena	11103	12416	.	+	0	.
-contig_131	ena	12533	12949	.	+	0	.
-contig_131	ena	14859	16559	.	+	0	.
-contig_131	ena	16829	17029	.	+	0	.
-contig_131	ena	18068	18154	.	+	0	.
-contig_131	ena	19057	19239	.	+	0	.
-contig_11	ena	413	2332	.	+	0	.
-contig_11	ena	2337	2822	.	+	0	.
-contig_11	ena	3030	3578	.	+	0	.
-contig_11	ena	4909	5772	.	+	0	.
-contig_11	ena	6248	7024	.	+	0	.
-contig_11	ena	7222	7734	.	+	0	.
-contig_11	ena	8195	9511	.	+	0	.
-contig_11	ena	9822	10676	.	+	0	.
-contig_11	ena	12635	14377	.	+	0	.
-contig_55	ena	3946	4938	.	+	0	.
-contig_55	ena	5087	6373	.	+	0	.
-contig_55	ena	10349	10480	.	+	0	.
-contig_55	ena	12339	12923	.	+	0	.
-contig_55	ena	13179	14417	.	+	0	.
-contig_55	ena	18244	18501	.	+	0	.
-contig_112	ena	891	1400	.	+	0	.
-contig_112	ena	2470	5304	.	+	0	.
-contig_112	ena	7423	9984	.	+	0	.
-contig_112	ena	9999	10322	.	+	0	.
-contig_112	ena	10511	11332	.	+	0	.
-contig_112	ena	11500	12258	.	+	0	.
-contig_112	ena	12822	13310	.	+	0	.
-contig_112	ena	13573	14340	.	+	0	.
-contig_112	ena	14383	15708	.	+	0	.
-contig_112	ena	15786	16271	.	+	0	.
-contig_112	ena	16325	16672	.	+	0	.
-contig_112	ena	16675	17310	.	+	0	.
-contig_112	ena	18060	18602	.	+	0	.
-contig_79	ena	7908	8783	.	+	0	.
-contig_79	ena	10166	10330	.	+	0	.
-contig_79	ena	11032	11664	.	+	0	.
-contig_23	ena	5151	6140	.	+	0	.
-contig_23	ena	6144	6830	.	+	0	.
-contig_40	ena	3995	4471	.	+	0	.
-contig_40	ena	8402	8785	.	+	0	.
-contig_40	ena	8857	9135	.	+	0	.
-contig_40	ena	10918	11085	.	+	0	.
-contig_40	ena	12723	13319	.	+	0	.
-contig_40	ena	13637	14881	.	+	0	.
-contig_130	ena	1557	2348	.	+	0	.
-contig_130	ena	2412	2840	.	+	0	.
-contig_130	ena	4411	5793	.	+	0	.
-contig_130	ena	5798	7507	.	+	0	.
-contig_130	ena	7549	10632	.	+	0	.
-contig_130	ena	10717	11292	.	+	0	.
-contig_130	ena	11901	13322	.	+	0	.
-contig_130	ena	13645	14634	.	+	0	.
-contig_163	ena	1605	1757	.	+	0	.
-contig_163	ena	2404	3435	.	+	0	.
-contig_163	ena	3641	4015	.	+	0	.
-contig_163	ena	6803	7285	.	+	0	.
-contig_163	ena	7381	8094	.	+	0	.
-contig_163	ena	8289	10196	.	+	0	.
-contig_163	ena	10271	11938	.	+	0	.
-contig_163	ena	14002	14901	.	+	0	.
-contig_163	ena	15694	15846	.	+	0	.
-contig_137	ena	6628	6981	.	+	0	.
-contig_137	ena	8366	9319	.	+	0	.
-contig_137	ena	9480	10115	.	+	0	.
-contig_137	ena	10118	11533	.	+	0	.
-contig_137	ena	11582	12451	.	+	0	.
-contig_137	ena	13323	14450	.	+	0	.
-contig_137	ena	14888	15706	.	+	0	.
-contig_51	ena	2959	4374	.	+	0	.
-contig_51	ena	6255	7394	.	+	0	.
-contig_51	ena	10356	11609	.	+	0	.
-contig_51	ena	11884	13077	.	+	0	.
-contig_51	ena	13129	14160	.	+	0	.
-contig_144	ena	348	728	.	+	0	.
-contig_144	ena	779	1018	.	+	0	.
-contig_144	ena	1576	1752	.	+	0	.
-contig_144	ena	2028	2852	.	+	0	.
-contig_144	ena	2889	3272	.	+	0	.
-contig_144	ena	4167	4610	.	+	0	.
-contig_144	ena	4688	5476	.	+	0	.
-contig_144	ena	5654	6049	.	+	0	.
-contig_144	ena	6294	9335	.	+	0	.
-contig_144	ena	10052	10411	.	+	0	.
-contig_144	ena	11319	12932	.	+	0	.
-contig_144	ena	13921	14571	.	+	0	.
-contig_83	ena	383	1375	.	+	0	.
-contig_83	ena	2596	3903	.	+	0	.
-contig_83	ena	3972	4214	.	+	0	.
-contig_83	ena	4732	5784	.	+	0	.
-contig_83	ena	5810	6292	.	+	0	.
-contig_83	ena	9847	10023	.	+	0	.
-contig_83	ena	10271	10897	.	+	0	.
-contig_83	ena	10939	12993	.	+	0	.
-contig_83	ena	12996	13670	.	+	0	.
-contig_104	ena	11327	11572	.	+	0	.
-contig_115	ena	2481	4310	.	+	0	.
-contig_115	ena	5068	5970	.	+	0	.
-contig_115	ena	6523	7407	.	+	0	.
-contig_115	ena	8433	8627	.	+	0	.
-contig_115	ena	9184	9420	.	+	0	.
-contig_115	ena	9955	10077	.	+	0	.
-contig_115	ena	11515	12168	.	+	0	.
-contig_115	ena	12182	12475	.	+	0	.
-contig_100	ena	1115	3304	.	+	0	.
-contig_100	ena	4234	4788	.	+	0	.
-contig_100	ena	5254	5607	.	+	0	.
-contig_100	ena	6004	6522	.	+	0	.
-contig_100	ena	9185	9370	.	+	0	.
-contig_100	ena	10116	10751	.	+	0	.
-contig_100	ena	10829	11314	.	+	0	.
-contig_110	ena	716	961	.	+	0	.
-contig_110	ena	3320	3667	.	+	0	.
-contig_110	ena	3674	4147	.	+	0	.
-contig_110	ena	4801	5427	.	+	0	.
-contig_147	ena	336	2024	.	+	0	.
-contig_147	ena	2202	2708	.	+	0	.
-contig_147	ena	2712	3743	.	+	0	.
-contig_147	ena	4970	6226	.	+	0	.
-contig_147	ena	6475	7386	.	+	0	.
-contig_147	ena	8183	8563	.	+	0	.
-contig_147	ena	11809	12375	.	+	0	.
-contig_90	ena	3024	3386	.	+	0	.
-contig_90	ena	3406	4512	.	+	0	.
-contig_90	ena	4658	5494	.	+	0	.
-contig_90	ena	6837	7790	.	+	0	.
-contig_90	ena	7801	8343	.	+	0	.
-contig_103	ena	1400	1927	.	+	0	.
-contig_103	ena	3478	3900	.	+	0	.
-contig_103	ena	4273	4437	.	+	0	.
-contig_103	ena	5395	5559	.	+	0	.
-contig_103	ena	5868	6503	.	+	0	.
-contig_103	ena	6639	7190	.	+	0	.
-contig_103	ena	8366	8818	.	+	0	.
-contig_103	ena	9022	9261	.	+	0	.
-contig_103	ena	10692	11087	.	+	0	.
-contig_70	ena	352	1008	.	+	0	.
-contig_70	ena	1391	1528	.	+	0	.
-contig_70	ena	1915	3318	.	+	0	.
-contig_70	ena	4325	4621	.	+	0	.
-contig_70	ena	11493	11966	.	+	0	.
-contig_92	ena	1177	2085	.	+	0	.
-contig_92	ena	3251	3532	.	+	0	.
-contig_92	ena	3574	3786	.	+	0	.
-contig_92	ena	3855	4136	.	+	0	.
-contig_92	ena	6117	7406	.	+	0	.
-contig_92	ena	7823	10861	.	+	0	.
-contig_92	ena	11678	11920	.	+	0	.
-contig_151	ena	244	1521	.	+	0	.
-contig_151	ena	4260	6245	.	+	0	.
-contig_151	ena	6463	8208	.	+	0	.
-contig_151	ena	8836	9858	.	+	0	.
-contig_151	ena	10332	11177	.	+	0	.
-contig_67	ena	1568	2230	.	+	0	.
-contig_67	ena	3817	4452	.	+	0	.
-contig_67	ena	4454	4672	.	+	0	.
-contig_67	ena	4687	4770	.	+	0	.
-contig_159	ena	7622	7891	.	+	0	.
-contig_159	ena	8007	9206	.	+	0	.
-contig_159	ena	9208	10917	.	+	0	.
-contig_124	ena	1236	1352	.	+	0	.
-contig_124	ena	3747	3995	.	+	0	.
-contig_139	ena	2151	2759	.	+	0	.
-contig_139	ena	6191	7219	.	+	0	.
-contig_139	ena	7961	8497	.	+	0	.
-contig_139	ena	8499	9596	.	+	0	.
-contig_139	ena	9620	10369	.	+	0	.
-contig_161	ena	706	1095	.	+	0	.
-contig_161	ena	3082	4194	.	+	0	.
-contig_161	ena	7932	8036	.	+	0	.
-contig_161	ena	8313	8924	.	+	0	.
-contig_95	ena	304	783	.	+	0	.
-contig_95	ena	1003	2673	.	+	0	.
-contig_95	ena	2974	3882	.	+	0	.
-contig_95	ena	3988	8292	.	+	0	.
-contig_95	ena	9217	9345	.	+	0	.
-contig_95	ena	9361	9870	.	+	0	.
-contig_89	ena	1100	1462	.	+	0	.
-contig_89	ena	1482	2588	.	+	0	.
-contig_89	ena	2734	3570	.	+	0	.
-contig_89	ena	4662	5588	.	+	0	.
-contig_89	ena	7831	8466	.	+	0	.
-contig_89	ena	8757	9611	.	+	0	.
-contig_149	ena	2330	2896	.	+	0	.
-contig_149	ena	6546	6905	.	+	0	.
-contig_149	ena	7350	7673	.	+	0	.
-contig_174	ena	813	1703	.	+	0	.
-contig_174	ena	3100	3312	.	+	0	.
-contig_174	ena	5734	5982	.	+	0	.
-contig_174	ena	8483	8818	.	+	0	.
-contig_93	ena	387	1214	.	+	0	.
-contig_93	ena	2272	3858	.	+	0	.
-contig_93	ena	3873	4640	.	+	0	.
-contig_93	ena	4649	5254	.	+	0	.
-contig_93	ena	5695	6885	.	+	0	.
-contig_93	ena	7063	7173	.	+	0	.
-contig_93	ena	7177	7569	.	+	0	.
-contig_93	ena	7675	8385	.	+	0	.
-contig_93	ena	8401	8511	.	+	0	.
-contig_105	ena	357	1052	.	+	0	.
-contig_105	ena	1054	1680	.	+	0	.
-contig_105	ena	1797	2147	.	+	0	.
-contig_105	ena	2345	4279	.	+	0	.
-contig_105	ena	5945	6754	.	+	0	.
-contig_105	ena	7049	8545	.	+	0	.
-contig_43	ena	408	1598	.	+	0	.
-contig_43	ena	1899	2411	.	+	0	.
-contig_43	ena	3788	3937	.	+	0	.
-contig_43	ena	4931	5182	.	+	0	.
-contig_43	ena	6032	6559	.	+	0	.
-contig_43	ena	6576	7046	.	+	0	.
-contig_43	ena	7188	7589	.	+	0	.
-contig_43	ena	7605	8048	.	+	0	.
-contig_170	ena	267	470	.	+	0	.
-contig_170	ena	617	1444	.	+	0	.
-contig_170	ena	1513	1947	.	+	0	.
-contig_170	ena	2210	3250	.	+	0	.
-contig_170	ena	3511	6300	.	+	0	.
-contig_170	ena	6444	7715	.	+	0	.
-contig_129	ena	901	1074	.	+	0	.
-contig_129	ena	1631	2044	.	+	0	.
-contig_129	ena	2764	3117	.	+	0	.
-contig_129	ena	3316	3597	.	+	0	.
-contig_129	ena	5920	6390	.	+	0	.
-contig_119	ena	347	1306	.	+	0	.
-contig_119	ena	1486	3201	.	+	0	.
-contig_119	ena	3374	4915	.	+	0	.
-contig_143	ena	521	1015	.	+	0	.
-contig_143	ena	2527	3405	.	+	0	.
-contig_145	ena	495	1364	.	+	0	.
-contig_145	ena	4316	4891	.	+	0	.
-contig_145	ena	5058	6053	.	+	0	.
-contig_145	ena	6434	6724	.	+	0	.
-contig_145	ena	6727	7038	.	+	0	.
-contig_65	ena	418	858	.	+	0	.
-contig_65	ena	933	2273	.	+	0	.
-contig_65	ena	3402	4709	.	+	0	.
-contig_65	ena	6469	6681	.	+	0	.
-contig_134	ena	3475	3981	.	+	0	.
-contig_134	ena	4380	4946	.	+	0	.
-contig_171	ena	2473	2646	.	+	0	.
-contig_171	ena	3379	4662	.	+	0	.
-contig_48	ena	418	579	.	+	0	.
-contig_48	ena	2452	4578	.	+	0	.
-contig_48	ena	5014	5607	.	+	0	.
-contig_48	ena	5815	6201	.	+	0	.
-contig_19	ena	3084	3287	.	+	0	.
-contig_19	ena	3715	4671	.	+	0	.
-contig_94	ena	455	2575	.	+	0	.
-contig_64	ena	3834	4013	.	+	0	.
-contig_113	ena	834	2675	.	+	0	.
-contig_113	ena	2786	3403	.	+	0	.
-contig_113	ena	3437	4228	.	+	0	.
-contig_172	ena	2231	2476	.	+	0	.
-contig_167	ena	1991	2599	.	+	0	.
-contig_167	ena	2603	2950	.	+	0	.
-contig_185	ena	652	2364	.	+	0	.
-contig_185	ena	2477	2626	.	+	0	.
-contig_102	ena	137	466	.	+	0	.
-contig_102	ena	622	1257	.	+	0	.
-contig_102	ena	2435	2722	.	+	0	.
-contig_102	ena	2839	3192	.	+	0	.
-contig_102	ena	3693	3857	.	+	0	.
-contig_140	ena	1611	2273	.	+	0	.
-contig_123	ena	1002	1514	.	+	0	.
-contig_152	ena	1869	2786	.	+	0	.
-contig_38	ena	559	1437	.	+	0	.
-contig_38	ena	1815	3014	.	+	0	.
-contig_162	ena	14	1063	.	+	0	.
-contig_162	ena	1066	2052	.	+	0	.
-contig_165	ena	31	645	.	+	0	.
-contig_165	ena	1834	1884	.	+	0	.
-contig_201	ena	1704	2030	.	+	0	.
-contig_201	ena	2117	2605	.	+	0	.
-contig_191	ena	647	814	.	+	0	.
-contig_155	ena	230	475	.	+	0	.
-contig_155	ena	2142	2423	.	+	0	.
-contig_154	ena	78	287	.	+	0	.
-contig_154	ena	370	660	.	+	0	.
-contig_154	ena	710	1585	.	+	0	.
-contig_179	ena	54	329	.	+	0	.
-contig_179	ena	1304	1579	.	+	0	.
-contig_150	ena	831	1010	.	+	0	.
-contig_146	ena	248	706	.	+	0	.
-contig_146	ena	1056	1538	.	+	0	.
-contig_164	ena	140	259	.	+	0	.
-contig_158	ena	837	920	.	+	0	.
-contig_173	ena	352	465	.	+	0	.
-contig_24	ena	300	1286	.	+	0	.
-contig_82	ena	216	1421	.	+	0	.
-contig_176	ena	162	455	.	+	0	.
-contig_176	ena	467	805	.	+	0	.
-contig_176	ena	888	1301	.	+	0	.
-contig_141	ena	637	966	.	+	0	.
-contig_128	ena	199	330	.	+	0	.
-contig_156	ena	83	328	.	+	0	.
-contig_168	ena	264	623	.	+	0	.
-contig_226	ena	10	156	.	+	0	.
-contig_287	ena	20	460	.	+	0	.
-contig_302	ena	416	649	.	+	0	.
-contig_317	ena	125	670	.	+	0	.
-contig_283	ena	498	614	.	+	0	.
-contig_178	ena	233	493	.	+	0	.
-contig_370	ena	13	546	.	+	0	.
-contig_349	ena	285	374	.	+	0	.
-contig_259	ena	59	595	.	+	0	.
-contig_331	ena	36	173	.	+	0	.
-contig_271	ena	23	505	.	+	0	.
-contig_348	ena	18	488	.	+	0	.
-contig_303	ena	64	447	.	+	0	.
-contig_284	ena	55	270	.	+	0	.
-contig_377	ena	52	321	.	+	0	.
-contig_213	ena	103	297	.	+	0	.
-contig_340	ena	108	209	.	+	0	.
+contig_32	ena	CDS	573	971	.	+	0	.
+contig_32	ena	CDS	1230	3065	.	+	0	.
+contig_32	ena	CDS	3519	4709	.	+	0	.
+contig_32	ena	CDS	4920	6500	.	+	0	.
+contig_32	ena	CDS	7430	8536	.	+	0	.
+contig_32	ena	CDS	8713	10785	.	+	0	.
+contig_32	ena	CDS	10917	11009	.	+	0	.
+contig_32	ena	CDS	12085	12501	.	+	0	.
+contig_32	ena	CDS	12688	14961	.	+	0	.
+contig_32	ena	CDS	15759	15971	.	+	0	.
+contig_32	ena	CDS	19828	19986	.	+	0	.
+contig_32	ena	CDS	20211	21446	.	+	0	.
+contig_32	ena	CDS	21707	21835	.	+	0	.
+contig_32	ena	CDS	21853	22443	.	+	0	.
+contig_32	ena	CDS	22461	23336	.	+	0	.
+contig_32	ena	CDS	23517	24059	.	+	0	.
+contig_32	ena	CDS	24548	25792	.	+	0	.
+contig_32	ena	CDS	27923	28081	.	+	0	.
+contig_32	ena	CDS	29348	29533	.	+	0	.
+contig_32	ena	CDS	31705	32826	.	+	0	.
+contig_32	ena	CDS	32924	33502	.	+	0	.
+contig_32	ena	CDS	33513	34757	.	+	0	.
+contig_32	ena	CDS	35811	37721	.	+	0	.
+contig_32	ena	CDS	37754	39505	.	+	0	.
+contig_32	ena	CDS	39916	40512	.	+	0	.
+contig_32	ena	CDS	41038	41427	.	+	0	.
+contig_32	ena	CDS	41750	42385	.	+	0	.
+contig_32	ena	CDS	42712	42798	.	+	0	.
+contig_32	ena	CDS	47528	48322	.	+	0	.
+contig_32	ena	CDS	50813	52648	.	+	0	.
+contig_32	ena	CDS	58531	59997	.	+	0	.
+contig_32	ena	CDS	60457	61014	.	+	0	.
+contig_32	ena	CDS	61155	61931	.	+	0	.
+contig_32	ena	CDS	62022	62762	.	+	0	.
+contig_32	ena	CDS	62769	63446	.	+	0	.
+contig_32	ena	CDS	63594	66314	.	+	0	.
+contig_32	ena	CDS	67582	69534	.	+	0	.
+contig_32	ena	CDS	72399	72512	.	+	0	.
+contig_32	ena	CDS	73817	74644	.	+	0	.
+contig_32	ena	CDS	74845	75336	.	+	0	.
+contig_32	ena	CDS	76448	78604	.	+	0	.
+contig_32	ena	CDS	79453	79773	.	+	0	.
+contig_32	ena	CDS	80079	82097	.	+	0	.
+contig_32	ena	CDS	84071	84448	.	+	0	.
+contig_32	ena	CDS	84573	85859	.	+	0	.
+contig_32	ena	CDS	86722	89346	.	+	0	.
+contig_32	ena	CDS	89884	91044	.	+	0	.
+contig_32	ena	CDS	91049	92491	.	+	0	.
+contig_32	ena	CDS	92859	93539	.	+	0	.
+contig_32	ena	CDS	97901	98614	.	+	0	.
+contig_32	ena	CDS	99593	100402	.	+	0	.
+contig_32	ena	CDS	100405	101742	.	+	0	.
+contig_32	ena	CDS	101750	102445	.	+	0	.
+contig_32	ena	CDS	102475	106905	.	+	0	.
+contig_32	ena	CDS	107587	107781	.	+	0	.
+contig_32	ena	CDS	108216	109652	.	+	0	.
+contig_32	ena	CDS	109733	110614	.	+	0	.
+contig_32	ena	CDS	111018	111371	.	+	0	.
+contig_32	ena	CDS	117448	117828	.	+	0	.
+contig_32	ena	CDS	118286	119806	.	+	0	.
+contig_32	ena	CDS	119873	120394	.	+	0	.
+contig_32	ena	CDS	120478	121098	.	+	0	.
+contig_32	ena	CDS	121393	122124	.	+	0	.
+contig_32	ena	CDS	122587	124173	.	+	0	.
+contig_32	ena	CDS	124190	125326	.	+	0	.
+contig_32	ena	CDS	125339	125446	.	+	0	.
+contig_32	ena	CDS	126358	126978	.	+	0	.
+contig_32	ena	CDS	127008	127418	.	+	0	.
+contig_32	ena	CDS	127433	128500	.	+	0	.
+contig_32	ena	CDS	128531	129862	.	+	0	.
+contig_32	ena	CDS	129894	130439	.	+	0	.
+contig_32	ena	CDS	130455	131237	.	+	0	.
+contig_32	ena	CDS	131366	132427	.	+	0	.
+contig_32	ena	CDS	132704	133573	.	+	0	.
+contig_32	ena	CDS	133594	133989	.	+	0	.
+contig_32	ena	CDS	134512	135720	.	+	0	.
+contig_32	ena	CDS	136756	139020	.	+	0	.
+contig_32	ena	CDS	139266	139715	.	+	0	.
+contig_32	ena	CDS	141089	142009	.	+	0	.
+contig_32	ena	CDS	142048	143358	.	+	0	.
+contig_32	ena	CDS	143459	148393	.	+	0	.
+contig_32	ena	CDS	148605	150485	.	+	0	.
+contig_32	ena	CDS	150494	150706	.	+	0	.
+contig_32	ena	CDS	150895	152685	.	+	0	.
+contig_32	ena	CDS	158795	159847	.	+	0	.
+contig_32	ena	CDS	159854	160657	.	+	0	.
+contig_32	ena	CDS	165289	165660	.	+	0	.
+contig_32	ena	CDS	166154	166327	.	+	0	.
+contig_32	ena	CDS	166376	166909	.	+	0	.
+contig_32	ena	CDS	167070	167414	.	+	0	.
+contig_32	ena	CDS	167432	167962	.	+	0	.
+contig_32	ena	CDS	168060	168449	.	+	0	.
+contig_32	ena	CDS	168508	169143	.	+	0	.
+contig_32	ena	CDS	171431	172147	.	+	0	.
+contig_32	ena	CDS	172358	173536	.	+	0	.
+contig_32	ena	CDS	173569	175317	.	+	0	.
+contig_32	ena	CDS	175360	176826	.	+	0	.
+contig_32	ena	CDS	176876	177250	.	+	0	.
+contig_32	ena	CDS	177312	177911	.	+	0	.
+contig_32	ena	CDS	177950	179071	.	+	0	.
+contig_32	ena	CDS	179417	180412	.	+	0	.
+contig_32	ena	CDS	180780	181403	.	+	0	.
+contig_32	ena	CDS	185883	186425	.	+	0	.
+contig_32	ena	CDS	186786	187088	.	+	0	.
+contig_32	ena	CDS	189455	191878	.	+	0	.
+contig_32	ena	CDS	195159	196955	.	+	0	.
+contig_32	ena	CDS	197645	199525	.	+	0	.
+contig_32	ena	CDS	199621	200319	.	+	0	.
+contig_32	ena	CDS	200423	200623	.	+	0	.
+contig_32	ena	CDS	202088	204202	.	+	0	.
+contig_32	ena	CDS	208193	208594	.	+	0	.
+contig_32	ena	CDS	208859	209824	.	+	0	.
+contig_32	ena	CDS	209885	210817	.	+	0	.
+contig_32	ena	CDS	210823	211608	.	+	0	.
+contig_32	ena	CDS	211752	213590	.	+	0	.
+contig_32	ena	CDS	213779	215197	.	+	0	.
+contig_32	ena	CDS	216287	216895	.	+	0	.
+contig_32	ena	CDS	219810	220649	.	+	0	.
+contig_32	ena	CDS	220863	221459	.	+	0	.
+contig_32	ena	CDS	221894	222892	.	+	0	.
+contig_32	ena	CDS	223112	224344	.	+	0	.
+contig_32	ena	CDS	224381	225379	.	+	0	.
+contig_32	ena	CDS	225879	226454	.	+	0	.
+contig_32	ena	CDS	226972	228093	.	+	0	.
+contig_32	ena	CDS	228257	228802	.	+	0	.
+contig_32	ena	CDS	228872	229528	.	+	0	.
+contig_32	ena	CDS	230040	230252	.	+	0	.
+contig_32	ena	CDS	230588	230917	.	+	0	.
+contig_32	ena	CDS	231532	232452	.	+	0	.
+contig_32	ena	CDS	232577	233116	.	+	0	.
+contig_32	ena	CDS	233142	234413	.	+	0	.
+contig_32	ena	CDS	234570	235880	.	+	0	.
+contig_32	ena	CDS	236050	236511	.	+	0	.
+contig_32	ena	CDS	236842	237006	.	+	0	.
+contig_32	ena	CDS	237463	239034	.	+	0	.
+contig_32	ena	CDS	239281	241107	.	+	0	.
+contig_32	ena	CDS	244045	244635	.	+	0	.
+contig_32	ena	CDS	252456	252818	.	+	0	.
+contig_32	ena	CDS	254936	255106	.	+	0	.
+contig_32	ena	CDS	259220	259777	.	+	0	.
+contig_32	ena	CDS	259782	261488	.	+	0	.
+contig_32	ena	CDS	263360	264715	.	+	0	.
+contig_32	ena	CDS	265244	266620	.	+	0	.
+contig_32	ena	CDS	266641	267642	.	+	0	.
+contig_32	ena	CDS	267729	269273	.	+	0	.
+contig_32	ena	CDS	269275	269850	.	+	0	.
+contig_32	ena	CDS	269883	270437	.	+	0	.
+contig_32	ena	CDS	270504	270920	.	+	0	.
+contig_32	ena	CDS	271207	272214	.	+	0	.
+contig_32	ena	CDS	272267	272572	.	+	0	.
+contig_32	ena	CDS	272577	273932	.	+	0	.
+contig_32	ena	CDS	273943	274377	.	+	0	.
+contig_32	ena	CDS	276112	276288	.	+	0	.
+contig_17	ena	CDS	371	682	.	+	0	.
+contig_17	ena	CDS	686	1393	.	+	0	.
+contig_17	ena	CDS	1441	3276	.	+	0	.
+contig_17	ena	CDS	4458	5963	.	+	0	.
+contig_17	ena	CDS	6170	7009	.	+	0	.
+contig_17	ena	CDS	7111	8178	.	+	0	.
+contig_17	ena	CDS	8223	9347	.	+	0	.
+contig_17	ena	CDS	9355	9969	.	+	0	.
+contig_17	ena	CDS	9972	10727	.	+	0	.
+contig_17	ena	CDS	10812	11423	.	+	0	.
+contig_17	ena	CDS	11440	12942	.	+	0	.
+contig_17	ena	CDS	12950	14002	.	+	0	.
+contig_17	ena	CDS	15710	15862	.	+	0	.
+contig_17	ena	CDS	16696	16953	.	+	0	.
+contig_17	ena	CDS	18703	19053	.	+	0	.
+contig_17	ena	CDS	25536	26672	.	+	0	.
+contig_17	ena	CDS	26975	27112	.	+	0	.
+contig_17	ena	CDS	27363	27638	.	+	0	.
+contig_17	ena	CDS	27770	29953	.	+	0	.
+contig_17	ena	CDS	30046	31170	.	+	0	.
+contig_17	ena	CDS	31259	32530	.	+	0	.
+contig_17	ena	CDS	35387	36061	.	+	0	.
+contig_17	ena	CDS	38057	38869	.	+	0	.
+contig_17	ena	CDS	39402	40487	.	+	0	.
+contig_17	ena	CDS	40507	41604	.	+	0	.
+contig_17	ena	CDS	41607	42512	.	+	0	.
+contig_17	ena	CDS	42516	43070	.	+	0	.
+contig_17	ena	CDS	43191	45047	.	+	0	.
+contig_17	ena	CDS	45220	46386	.	+	0	.
+contig_17	ena	CDS	46824	47066	.	+	0	.
+contig_17	ena	CDS	47597	47881	.	+	0	.
+contig_17	ena	CDS	48008	49285	.	+	0	.
+contig_17	ena	CDS	50356	54873	.	+	0	.
+contig_17	ena	CDS	56041	56670	.	+	0	.
+contig_17	ena	CDS	56687	57289	.	+	0	.
+contig_17	ena	CDS	57523	57588	.	+	0	.
+contig_17	ena	CDS	58145	58429	.	+	0	.
+contig_17	ena	CDS	58451	58729	.	+	0	.
+contig_17	ena	CDS	58740	59072	.	+	0	.
+contig_17	ena	CDS	59091	59792	.	+	0	.
+contig_17	ena	CDS	59804	60214	.	+	0	.
+contig_17	ena	CDS	60301	60405	.	+	0	.
+contig_17	ena	CDS	60822	61193	.	+	0	.
+contig_17	ena	CDS	61207	61524	.	+	0	.
+contig_17	ena	CDS	61626	62090	.	+	0	.
+contig_17	ena	CDS	62123	62413	.	+	0	.
+contig_17	ena	CDS	62444	62836	.	+	0	.
+contig_17	ena	CDS	62849	63382	.	+	0	.
+contig_17	ena	CDS	63392	63745	.	+	0	.
+contig_17	ena	CDS	64048	64263	.	+	0	.
+contig_17	ena	CDS	64271	64447	.	+	0	.
+contig_17	ena	CDS	64454	64888	.	+	0	.
+contig_17	ena	CDS	64909	66243	.	+	0	.
+contig_17	ena	CDS	66650	66898	.	+	0	.
+contig_17	ena	CDS	66917	67306	.	+	0	.
+contig_17	ena	CDS	67334	67954	.	+	0	.
+contig_17	ena	CDS	67978	68970	.	+	0	.
+contig_17	ena	CDS	68997	69380	.	+	0	.
+contig_17	ena	CDS	71350	71706	.	+	0	.
+contig_17	ena	CDS	74671	75051	.	+	0	.
+contig_17	ena	CDS	76080	76949	.	+	0	.
+contig_17	ena	CDS	77007	77915	.	+	0	.
+contig_17	ena	CDS	77933	79363	.	+	0	.
+contig_17	ena	CDS	79447	81171	.	+	0	.
+contig_17	ena	CDS	81185	81808	.	+	0	.
+contig_17	ena	CDS	83492	83647	.	+	0	.
+contig_17	ena	CDS	85883	86008	.	+	0	.
+contig_17	ena	CDS	86501	86701	.	+	0	.
+contig_17	ena	CDS	86776	86823	.	+	0	.
+contig_17	ena	CDS	88858	90573	.	+	0	.
+contig_17	ena	CDS	90579	94325	.	+	0	.
+contig_17	ena	CDS	94449	94736	.	+	0	.
+contig_17	ena	CDS	94858	95196	.	+	0	.
+contig_17	ena	CDS	97425	98675	.	+	0	.
+contig_17	ena	CDS	98692	99336	.	+	0	.
+contig_17	ena	CDS	99603	100565	.	+	0	.
+contig_17	ena	CDS	100611	102182	.	+	0	.
+contig_17	ena	CDS	102194	102880	.	+	0	.
+contig_17	ena	CDS	103925	104992	.	+	0	.
+contig_17	ena	CDS	110943	111050	.	+	0	.
+contig_17	ena	CDS	111427	111612	.	+	0	.
+contig_17	ena	CDS	114717	115520	.	+	0	.
+contig_17	ena	CDS	115531	116301	.	+	0	.
+contig_17	ena	CDS	116304	116792	.	+	0	.
+contig_17	ena	CDS	116797	117432	.	+	0	.
+contig_17	ena	CDS	117654	117749	.	+	0	.
+contig_17	ena	CDS	117912	118007	.	+	0	.
+contig_17	ena	CDS	118017	119282	.	+	0	.
+contig_17	ena	CDS	119422	120147	.	+	0	.
+contig_17	ena	CDS	122430	122831	.	+	0	.
+contig_17	ena	CDS	125538	125603	.	+	0	.
+contig_17	ena	CDS	126073	126633	.	+	0	.
+contig_17	ena	CDS	128332	128589	.	+	0	.
+contig_17	ena	CDS	128745	129914	.	+	0	.
+contig_17	ena	CDS	130368	130841	.	+	0	.
+contig_17	ena	CDS	130871	131305	.	+	0	.
+contig_17	ena	CDS	131315	131803	.	+	0	.
+contig_17	ena	CDS	133734	133826	.	+	0	.
+contig_17	ena	CDS	138758	139621	.	+	0	.
+contig_17	ena	CDS	142330	142506	.	+	0	.
+contig_17	ena	CDS	145983	146750	.	+	0	.
+contig_17	ena	CDS	146976	147524	.	+	0	.
+contig_17	ena	CDS	147529	148575	.	+	0	.
+contig_17	ena	CDS	148928	149887	.	+	0	.
+contig_17	ena	CDS	150075	151880	.	+	0	.
+contig_17	ena	CDS	152349	154064	.	+	0	.
+contig_17	ena	CDS	154090	154560	.	+	0	.
+contig_17	ena	CDS	154713	156593	.	+	0	.
+contig_17	ena	CDS	159749	160510	.	+	0	.
+contig_17	ena	CDS	160627	162408	.	+	0	.
+contig_17	ena	CDS	165958	166665	.	+	0	.
+contig_17	ena	CDS	174254	175087	.	+	0	.
+contig_17	ena	CDS	175208	176026	.	+	0	.
+contig_17	ena	CDS	176225	176314	.	+	0	.
+contig_17	ena	CDS	176851	177210	.	+	0	.
+contig_17	ena	CDS	177402	177689	.	+	0	.
+contig_17	ena	CDS	177705	178508	.	+	0	.
+contig_17	ena	CDS	180081	182051	.	+	0	.
+contig_17	ena	CDS	185254	186717	.	+	0	.
+contig_52	ena	CDS	756	1304	.	+	0	.
+contig_52	ena	CDS	1738	1875	.	+	0	.
+contig_52	ena	CDS	1880	2581	.	+	0	.
+contig_52	ena	CDS	2872	3360	.	+	0	.
+contig_52	ena	CDS	3463	3789	.	+	0	.
+contig_52	ena	CDS	4040	8068	.	+	0	.
+contig_52	ena	CDS	8525	12346	.	+	0	.
+contig_52	ena	CDS	13345	13962	.	+	0	.
+contig_52	ena	CDS	14068	14553	.	+	0	.
+contig_52	ena	CDS	14558	15298	.	+	0	.
+contig_52	ena	CDS	15613	16680	.	+	0	.
+contig_52	ena	CDS	18581	18976	.	+	0	.
+contig_52	ena	CDS	20816	21400	.	+	0	.
+contig_52	ena	CDS	24914	25312	.	+	0	.
+contig_52	ena	CDS	25354	25602	.	+	0	.
+contig_52	ena	CDS	35945	36070	.	+	0	.
+contig_52	ena	CDS	37199	38389	.	+	0	.
+contig_52	ena	CDS	39046	41916	.	+	0	.
+contig_52	ena	CDS	44667	44723	.	+	0	.
+contig_52	ena	CDS	46087	46245	.	+	0	.
+contig_52	ena	CDS	52848	53378	.	+	0	.
+contig_52	ena	CDS	54149	54265	.	+	0	.
+contig_52	ena	CDS	55734	56135	.	+	0	.
+contig_52	ena	CDS	57003	57518	.	+	0	.
+contig_52	ena	CDS	57632	58546	.	+	0	.
+contig_52	ena	CDS	58833	59795	.	+	0	.
+contig_52	ena	CDS	61838	63478	.	+	0	.
+contig_52	ena	CDS	63821	64375	.	+	0	.
+contig_52	ena	CDS	66122	66643	.	+	0	.
+contig_52	ena	CDS	66896	67474	.	+	0	.
+contig_52	ena	CDS	67699	69102	.	+	0	.
+contig_52	ena	CDS	69178	69228	.	+	0	.
+contig_52	ena	CDS	72966	73880	.	+	0	.
+contig_52	ena	CDS	74761	75015	.	+	0	.
+contig_52	ena	CDS	75266	76102	.	+	0	.
+contig_52	ena	CDS	80889	82469	.	+	0	.
+contig_52	ena	CDS	83756	83875	.	+	0	.
+contig_52	ena	CDS	84266	84655	.	+	0	.
+contig_52	ena	CDS	87262	87807	.	+	0	.
+contig_52	ena	CDS	90893	91363	.	+	0	.
+contig_52	ena	CDS	91486	93078	.	+	0	.
+contig_52	ena	CDS	93087	95081	.	+	0	.
+contig_52	ena	CDS	95086	96033	.	+	0	.
+contig_52	ena	CDS	96211	96471	.	+	0	.
+contig_52	ena	CDS	96744	97802	.	+	0	.
+contig_52	ena	CDS	98304	99047	.	+	0	.
+contig_52	ena	CDS	99050	100030	.	+	0	.
+contig_52	ena	CDS	100718	101785	.	+	0	.
+contig_52	ena	CDS	102013	102654	.	+	0	.
+contig_52	ena	CDS	103326	103511	.	+	0	.
+contig_52	ena	CDS	104071	104496	.	+	0	.
+contig_52	ena	CDS	104539	104724	.	+	0	.
+contig_52	ena	CDS	106217	108670	.	+	0	.
+contig_52	ena	CDS	108708	109451	.	+	0	.
+contig_52	ena	CDS	109546	110232	.	+	0	.
+contig_52	ena	CDS	110368	111384	.	+	0	.
+contig_52	ena	CDS	112170	112946	.	+	0	.
+contig_52	ena	CDS	112970	116236	.	+	0	.
+contig_52	ena	CDS	116379	116957	.	+	0	.
+contig_52	ena	CDS	117374	118519	.	+	0	.
+contig_52	ena	CDS	118797	119774	.	+	0	.
+contig_52	ena	CDS	119789	121249	.	+	0	.
+contig_52	ena	CDS	121462	122253	.	+	0	.
+contig_52	ena	CDS	124698	125012	.	+	0	.
+contig_52	ena	CDS	128329	128907	.	+	0	.
+contig_52	ena	CDS	128954	130249	.	+	0	.
+contig_52	ena	CDS	130252	130692	.	+	0	.
+contig_52	ena	CDS	130695	130901	.	+	0	.
+contig_52	ena	CDS	131016	131597	.	+	0	.
+contig_52	ena	CDS	131724	132665	.	+	0	.
+contig_52	ena	CDS	134099	134881	.	+	0	.
+contig_52	ena	CDS	135063	135755	.	+	0	.
+contig_52	ena	CDS	135776	136147	.	+	0	.
+contig_52	ena	CDS	136956	137330	.	+	0	.
+contig_52	ena	CDS	137448	137918	.	+	0	.
+contig_52	ena	CDS	138313	138507	.	+	0	.
+contig_52	ena	CDS	138555	140093	.	+	0	.
+contig_9	ena	CDS	14483	14659	.	+	0	.
+contig_9	ena	CDS	15734	16738	.	+	0	.
+contig_9	ena	CDS	17598	18260	.	+	0	.
+contig_9	ena	CDS	18620	18751	.	+	0	.
+contig_9	ena	CDS	20110	21402	.	+	0	.
+contig_9	ena	CDS	24578	24856	.	+	0	.
+contig_9	ena	CDS	26473	27810	.	+	0	.
+contig_9	ena	CDS	28096	29145	.	+	0	.
+contig_9	ena	CDS	30539	33877	.	+	0	.
+contig_9	ena	CDS	34818	36491	.	+	0	.
+contig_9	ena	CDS	36693	37646	.	+	0	.
+contig_9	ena	CDS	37649	38674	.	+	0	.
+contig_9	ena	CDS	38677	39660	.	+	0	.
+contig_9	ena	CDS	39698	40693	.	+	0	.
+contig_9	ena	CDS	40769	42490	.	+	0	.
+contig_9	ena	CDS	42492	43382	.	+	0	.
+contig_9	ena	CDS	43392	45311	.	+	0	.
+contig_9	ena	CDS	45402	47807	.	+	0	.
+contig_9	ena	CDS	47879	49291	.	+	0	.
+contig_9	ena	CDS	55515	56711	.	+	0	.
+contig_9	ena	CDS	56838	58064	.	+	0	.
+contig_9	ena	CDS	58079	59215	.	+	0	.
+contig_9	ena	CDS	68989	69321	.	+	0	.
+contig_9	ena	CDS	69448	70164	.	+	0	.
+contig_9	ena	CDS	70471	70743	.	+	0	.
+contig_9	ena	CDS	70806	71687	.	+	0	.
+contig_9	ena	CDS	72533	73135	.	+	0	.
+contig_9	ena	CDS	73333	73617	.	+	0	.
+contig_9	ena	CDS	73641	74435	.	+	0	.
+contig_9	ena	CDS	74448	75353	.	+	0	.
+contig_9	ena	CDS	79224	79892	.	+	0	.
+contig_9	ena	CDS	80985	81539	.	+	0	.
+contig_9	ena	CDS	88930	89037	.	+	0	.
+contig_9	ena	CDS	89944	90672	.	+	0	.
+contig_9	ena	CDS	90892	91362	.	+	0	.
+contig_9	ena	CDS	91623	93050	.	+	0	.
+contig_9	ena	CDS	93098	94324	.	+	0	.
+contig_9	ena	CDS	94763	95287	.	+	0	.
+contig_9	ena	CDS	95289	95897	.	+	0	.
+contig_9	ena	CDS	95930	96670	.	+	0	.
+contig_9	ena	CDS	99995	100204	.	+	0	.
+contig_9	ena	CDS	101000	101794	.	+	0	.
+contig_9	ena	CDS	102196	103158	.	+	0	.
+contig_9	ena	CDS	105764	105832	.	+	0	.
+contig_9	ena	CDS	106174	106494	.	+	0	.
+contig_9	ena	CDS	122512	125073	.	+	0	.
+contig_25	ena	CDS	345	545	.	+	0	.
+contig_25	ena	CDS	724	2562	.	+	0	.
+contig_25	ena	CDS	2653	3264	.	+	0	.
+contig_25	ena	CDS	3368	3595	.	+	0	.
+contig_25	ena	CDS	3637	4191	.	+	0	.
+contig_25	ena	CDS	4650	5045	.	+	0	.
+contig_25	ena	CDS	5167	6864	.	+	0	.
+contig_25	ena	CDS	7027	8067	.	+	0	.
+contig_25	ena	CDS	10188	10370	.	+	0	.
+contig_25	ena	CDS	10404	11393	.	+	0	.
+contig_25	ena	CDS	11439	12383	.	+	0	.
+contig_25	ena	CDS	12698	13807	.	+	0	.
+contig_25	ena	CDS	15282	15950	.	+	0	.
+contig_25	ena	CDS	16063	17178	.	+	0	.
+contig_25	ena	CDS	18820	19677	.	+	0	.
+contig_25	ena	CDS	20520	20912	.	+	0	.
+contig_25	ena	CDS	20936	21874	.	+	0	.
+contig_25	ena	CDS	21930	23465	.	+	0	.
+contig_25	ena	CDS	23660	24841	.	+	0	.
+contig_25	ena	CDS	24847	25935	.	+	0	.
+contig_25	ena	CDS	26679	26831	.	+	0	.
+contig_25	ena	CDS	27390	28190	.	+	0	.
+contig_25	ena	CDS	29158	31638	.	+	0	.
+contig_25	ena	CDS	31851	32303	.	+	0	.
+contig_25	ena	CDS	32353	32880	.	+	0	.
+contig_25	ena	CDS	32954	33166	.	+	0	.
+contig_25	ena	CDS	33176	33781	.	+	0	.
+contig_25	ena	CDS	34400	34807	.	+	0	.
+contig_25	ena	CDS	34942	35406	.	+	0	.
+contig_25	ena	CDS	35408	35665	.	+	0	.
+contig_25	ena	CDS	36159	36506	.	+	0	.
+contig_25	ena	CDS	36716	37363	.	+	0	.
+contig_25	ena	CDS	38015	40216	.	+	0	.
+contig_25	ena	CDS	40840	41571	.	+	0	.
+contig_25	ena	CDS	41604	42098	.	+	0	.
+contig_25	ena	CDS	42108	42458	.	+	0	.
+contig_25	ena	CDS	42594	44621	.	+	0	.
+contig_25	ena	CDS	44630	45025	.	+	0	.
+contig_25	ena	CDS	45294	46226	.	+	0	.
+contig_25	ena	CDS	47327	47518	.	+	0	.
+contig_25	ena	CDS	47676	48278	.	+	0	.
+contig_25	ena	CDS	48467	48946	.	+	0	.
+contig_25	ena	CDS	48976	49680	.	+	0	.
+contig_25	ena	CDS	49894	50205	.	+	0	.
+contig_25	ena	CDS	50213	50497	.	+	0	.
+contig_25	ena	CDS	50752	53511	.	+	0	.
+contig_25	ena	CDS	53521	54069	.	+	0	.
+contig_25	ena	CDS	54269	54592	.	+	0	.
+contig_25	ena	CDS	54860	55114	.	+	0	.
+contig_25	ena	CDS	55149	55358	.	+	0	.
+contig_25	ena	CDS	55473	56015	.	+	0	.
+contig_25	ena	CDS	56525	56761	.	+	0	.
+contig_25	ena	CDS	56774	57763	.	+	0	.
+contig_25	ena	CDS	57772	57966	.	+	0	.
+contig_25	ena	CDS	58293	59150	.	+	0	.
+contig_25	ena	CDS	59407	59625	.	+	0	.
+contig_25	ena	CDS	63225	63287	.	+	0	.
+contig_25	ena	CDS	63396	63689	.	+	0	.
+contig_25	ena	CDS	74800	75189	.	+	0	.
+contig_25	ena	CDS	75220	76290	.	+	0	.
+contig_25	ena	CDS	76315	77571	.	+	0	.
+contig_25	ena	CDS	77852	80869	.	+	0	.
+contig_25	ena	CDS	81195	82796	.	+	0	.
+contig_25	ena	CDS	83093	84346	.	+	0	.
+contig_25	ena	CDS	84496	85200	.	+	0	.
+contig_25	ena	CDS	85362	86648	.	+	0	.
+contig_25	ena	CDS	87227	88015	.	+	0	.
+contig_25	ena	CDS	88184	89044	.	+	0	.
+contig_25	ena	CDS	89113	89898	.	+	0	.
+contig_25	ena	CDS	89904	91019	.	+	0	.
+contig_25	ena	CDS	91589	92587	.	+	0	.
+contig_25	ena	CDS	92638	93318	.	+	0	.
+contig_25	ena	CDS	93322	94683	.	+	0	.
+contig_25	ena	CDS	94937	96826	.	+	0	.
+contig_25	ena	CDS	100757	101899	.	+	0	.
+contig_25	ena	CDS	102059	102631	.	+	0	.
+contig_25	ena	CDS	102702	103982	.	+	0	.
+contig_25	ena	CDS	104173	106452	.	+	0	.
+contig_25	ena	CDS	106625	106918	.	+	0	.
+contig_25	ena	CDS	107095	108954	.	+	0	.
+contig_25	ena	CDS	109120	109389	.	+	0	.
+contig_25	ena	CDS	110000	110608	.	+	0	.
+contig_25	ena	CDS	110858	111052	.	+	0	.
+contig_25	ena	CDS	114078	115400	.	+	0	.
+contig_25	ena	CDS	115418	117091	.	+	0	.
+contig_25	ena	CDS	117342	117863	.	+	0	.
+contig_25	ena	CDS	117877	118755	.	+	0	.
+contig_25	ena	CDS	118895	119884	.	+	0	.
+contig_25	ena	CDS	120319	121314	.	+	0	.
+contig_25	ena	CDS	125353	126222	.	+	0	.
+contig_25	ena	CDS	127362	128333	.	+	0	.
+contig_25	ena	CDS	128399	131446	.	+	0	.
+contig_25	ena	CDS	132248	132586	.	+	0	.
+contig_25	ena	CDS	132958	133362	.	+	0	.
+contig_25	ena	CDS	133906	134367	.	+	0	.
+contig_33	ena	CDS	92	232	.	+	0	.
+contig_33	ena	CDS	590	1129	.	+	0	.
+contig_33	ena	CDS	4167	5648	.	+	0	.
+contig_33	ena	CDS	7817	9484	.	+	0	.
+contig_33	ena	CDS	9494	10939	.	+	0	.
+contig_33	ena	CDS	11068	11409	.	+	0	.
+contig_33	ena	CDS	11446	11883	.	+	0	.
+contig_33	ena	CDS	12862	13239	.	+	0	.
+contig_33	ena	CDS	13283	14788	.	+	0	.
+contig_33	ena	CDS	14968	15771	.	+	0	.
+contig_33	ena	CDS	15848	16726	.	+	0	.
+contig_33	ena	CDS	16881	17801	.	+	0	.
+contig_33	ena	CDS	17822	18841	.	+	0	.
+contig_33	ena	CDS	19718	20701	.	+	0	.
+contig_33	ena	CDS	22083	22631	.	+	0	.
+contig_33	ena	CDS	26072	26614	.	+	0	.
+contig_33	ena	CDS	26617	26970	.	+	0	.
+contig_33	ena	CDS	27053	27406	.	+	0	.
+contig_33	ena	CDS	27409	27993	.	+	0	.
+contig_33	ena	CDS	28106	31204	.	+	0	.
+contig_33	ena	CDS	31209	32324	.	+	0	.
+contig_33	ena	CDS	32549	33604	.	+	0	.
+contig_33	ena	CDS	33613	36678	.	+	0	.
+contig_33	ena	CDS	37213	40962	.	+	0	.
+contig_33	ena	CDS	41582	42334	.	+	0	.
+contig_33	ena	CDS	42978	43193	.	+	0	.
+contig_33	ena	CDS	43320	44030	.	+	0	.
+contig_33	ena	CDS	44108	45358	.	+	0	.
+contig_33	ena	CDS	45436	45819	.	+	0	.
+contig_33	ena	CDS	45822	47021	.	+	0	.
+contig_33	ena	CDS	47048	48283	.	+	0	.
+contig_33	ena	CDS	48493	49197	.	+	0	.
+contig_33	ena	CDS	49275	50072	.	+	0	.
+contig_33	ena	CDS	50134	51195	.	+	0	.
+contig_33	ena	CDS	51300	51719	.	+	0	.
+contig_33	ena	CDS	51976	52290	.	+	0	.
+contig_33	ena	CDS	52292	53572	.	+	0	.
+contig_33	ena	CDS	53574	54140	.	+	0	.
+contig_33	ena	CDS	55209	55850	.	+	0	.
+contig_33	ena	CDS	56455	56709	.	+	0	.
+contig_33	ena	CDS	57621	57782	.	+	0	.
+contig_33	ena	CDS	59521	60921	.	+	0	.
+contig_33	ena	CDS	60924	61598	.	+	0	.
+contig_33	ena	CDS	61759	62352	.	+	0	.
+contig_33	ena	CDS	64225	65148	.	+	0	.
+contig_33	ena	CDS	65189	66091	.	+	0	.
+contig_33	ena	CDS	66099	66854	.	+	0	.
+contig_33	ena	CDS	69096	69221	.	+	0	.
+contig_33	ena	CDS	71587	71763	.	+	0	.
+contig_33	ena	CDS	71929	72186	.	+	0	.
+contig_33	ena	CDS	72301	72564	.	+	0	.
+contig_33	ena	CDS	73061	74977	.	+	0	.
+contig_33	ena	CDS	76059	76136	.	+	0	.
+contig_33	ena	CDS	76203	76391	.	+	0	.
+contig_33	ena	CDS	76751	79663	.	+	0	.
+contig_33	ena	CDS	83139	84236	.	+	0	.
+contig_33	ena	CDS	84315	86126	.	+	0	.
+contig_33	ena	CDS	86852	86965	.	+	0	.
+contig_33	ena	CDS	88366	90552	.	+	0	.
+contig_33	ena	CDS	90645	91577	.	+	0	.
+contig_33	ena	CDS	91603	93585	.	+	0	.
+contig_33	ena	CDS	95361	98963	.	+	0	.
+contig_33	ena	CDS	98967	100733	.	+	0	.
+contig_33	ena	CDS	100735	102402	.	+	0	.
+contig_33	ena	CDS	105666	109115	.	+	0	.
+contig_33	ena	CDS	110255	110605	.	+	0	.
+contig_33	ena	CDS	113289	113576	.	+	0	.
+contig_33	ena	CDS	113975	115900	.	+	0	.
+contig_33	ena	CDS	116242	117435	.	+	0	.
+contig_33	ena	CDS	120286	120945	.	+	0	.
+contig_33	ena	CDS	121287	122267	.	+	0	.
+contig_33	ena	CDS	122277	123365	.	+	0	.
+contig_33	ena	CDS	123864	124373	.	+	0	.
+contig_2	ena	CDS	985	2274	.	+	0	.
+contig_2	ena	CDS	2419	2883	.	+	0	.
+contig_2	ena	CDS	3133	4293	.	+	0	.
+contig_2	ena	CDS	4387	4788	.	+	0	.
+contig_2	ena	CDS	5020	6051	.	+	0	.
+contig_2	ena	CDS	6082	7332	.	+	0	.
+contig_2	ena	CDS	7533	7982	.	+	0	.
+contig_2	ena	CDS	8002	9108	.	+	0	.
+contig_2	ena	CDS	9110	9766	.	+	0	.
+contig_2	ena	CDS	9864	10973	.	+	0	.
+contig_2	ena	CDS	11149	11619	.	+	0	.
+contig_2	ena	CDS	11892	12086	.	+	0	.
+contig_2	ena	CDS	12153	13121	.	+	0	.
+contig_2	ena	CDS	13127	13630	.	+	0	.
+contig_2	ena	CDS	17149	17859	.	+	0	.
+contig_2	ena	CDS	17926	18828	.	+	0	.
+contig_2	ena	CDS	19198	20421	.	+	0	.
+contig_2	ena	CDS	21546	22361	.	+	0	.
+contig_2	ena	CDS	22438	22965	.	+	0	.
+contig_2	ena	CDS	23087	23353	.	+	0	.
+contig_2	ena	CDS	23362	24441	.	+	0	.
+contig_2	ena	CDS	29805	29975	.	+	0	.
+contig_2	ena	CDS	32840	33385	.	+	0	.
+contig_2	ena	CDS	33389	34165	.	+	0	.
+contig_2	ena	CDS	36172	36378	.	+	0	.
+contig_2	ena	CDS	37051	37635	.	+	0	.
+contig_2	ena	CDS	37742	38620	.	+	0	.
+contig_2	ena	CDS	38790	40214	.	+	0	.
+contig_2	ena	CDS	40467	41966	.	+	0	.
+contig_2	ena	CDS	43651	44010	.	+	0	.
+contig_2	ena	CDS	46731	47852	.	+	0	.
+contig_2	ena	CDS	51689	51904	.	+	0	.
+contig_2	ena	CDS	52031	52129	.	+	0	.
+contig_2	ena	CDS	61245	61589	.	+	0	.
+contig_2	ena	CDS	63519	63689	.	+	0	.
+contig_2	ena	CDS	64533	64709	.	+	0	.
+contig_2	ena	CDS	67643	68740	.	+	0	.
+contig_2	ena	CDS	70415	70690	.	+	0	.
+contig_2	ena	CDS	74010	74138	.	+	0	.
+contig_2	ena	CDS	75450	76709	.	+	0	.
+contig_2	ena	CDS	76735	77826	.	+	0	.
+contig_2	ena	CDS	77831	78706	.	+	0	.
+contig_2	ena	CDS	78730	79113	.	+	0	.
+contig_2	ena	CDS	79152	79934	.	+	0	.
+contig_2	ena	CDS	79977	80831	.	+	0	.
+contig_2	ena	CDS	81412	82896	.	+	0	.
+contig_2	ena	CDS	83137	83475	.	+	0	.
+contig_2	ena	CDS	87510	90161	.	+	0	.
+contig_2	ena	CDS	91082	91180	.	+	0	.
+contig_2	ena	CDS	93923	95017	.	+	0	.
+contig_2	ena	CDS	95102	95893	.	+	0	.
+contig_2	ena	CDS	96240	97469	.	+	0	.
+contig_2	ena	CDS	99652	100287	.	+	0	.
+contig_2	ena	CDS	100296	100727	.	+	0	.
+contig_2	ena	CDS	102666	103592	.	+	0	.
+contig_2	ena	CDS	103606	104433	.	+	0	.
+contig_2	ena	CDS	104852	105247	.	+	0	.
+contig_2	ena	CDS	105252	105668	.	+	0	.
+contig_2	ena	CDS	105686	106393	.	+	0	.
+contig_2	ena	CDS	106448	107728	.	+	0	.
+contig_2	ena	CDS	107970	108719	.	+	0	.
+contig_2	ena	CDS	108741	109529	.	+	0	.
+contig_2	ena	CDS	109567	110346	.	+	0	.
+contig_2	ena	CDS	110406	111497	.	+	0	.
+contig_2	ena	CDS	111745	112434	.	+	0	.
+contig_42	ena	CDS	2000	2119	.	+	0	.
+contig_42	ena	CDS	13128	14372	.	+	0	.
+contig_42	ena	CDS	16775	16957	.	+	0	.
+contig_42	ena	CDS	17605	18501	.	+	0	.
+contig_42	ena	CDS	19790	20122	.	+	0	.
+contig_42	ena	CDS	21988	22146	.	+	0	.
+contig_42	ena	CDS	24750	24821	.	+	0	.
+contig_42	ena	CDS	26010	26150	.	+	0	.
+contig_42	ena	CDS	62256	62408	.	+	0	.
+contig_42	ena	CDS	69878	70429	.	+	0	.
+contig_42	ena	CDS	70446	70922	.	+	0	.
+contig_42	ena	CDS	70937	71578	.	+	0	.
+contig_42	ena	CDS	72086	73021	.	+	0	.
+contig_42	ena	CDS	73442	73819	.	+	0	.
+contig_42	ena	CDS	73864	74859	.	+	0	.
+contig_42	ena	CDS	75646	75987	.	+	0	.
+contig_42	ena	CDS	76143	76448	.	+	0	.
+contig_42	ena	CDS	76458	76709	.	+	0	.
+contig_42	ena	CDS	77562	77900	.	+	0	.
+contig_42	ena	CDS	80334	80702	.	+	0	.
+contig_42	ena	CDS	80934	81383	.	+	0	.
+contig_42	ena	CDS	87712	88002	.	+	0	.
+contig_42	ena	CDS	88270	88419	.	+	0	.
+contig_42	ena	CDS	89028	89921	.	+	0	.
+contig_42	ena	CDS	92315	92536	.	+	0	.
+contig_42	ena	CDS	93879	93980	.	+	0	.
+contig_42	ena	CDS	95941	97644	.	+	0	.
+contig_42	ena	CDS	98499	99536	.	+	0	.
+contig_42	ena	CDS	99547	100863	.	+	0	.
+contig_42	ena	CDS	102355	102750	.	+	0	.
+contig_42	ena	CDS	103039	104103	.	+	0	.
+contig_42	ena	CDS	105084	106430	.	+	0	.
+contig_42	ena	CDS	106932	107135	.	+	0	.
+contig_42	ena	CDS	108458	108646	.	+	0	.
+contig_42	ena	CDS	109500	110666	.	+	0	.
+contig_30	ena	CDS	959	1132	.	+	0	.
+contig_30	ena	CDS	1356	2321	.	+	0	.
+contig_30	ena	CDS	3138	5933	.	+	0	.
+contig_30	ena	CDS	7582	8178	.	+	0	.
+contig_30	ena	CDS	8749	9555	.	+	0	.
+contig_30	ena	CDS	9780	10100	.	+	0	.
+contig_30	ena	CDS	10109	10597	.	+	0	.
+contig_30	ena	CDS	11138	12133	.	+	0	.
+contig_30	ena	CDS	13198	13374	.	+	0	.
+contig_30	ena	CDS	13984	14055	.	+	0	.
+contig_30	ena	CDS	16513	16782	.	+	0	.
+contig_30	ena	CDS	20281	21972	.	+	0	.
+contig_30	ena	CDS	22609	23079	.	+	0	.
+contig_30	ena	CDS	23313	24254	.	+	0	.
+contig_30	ena	CDS	24313	24663	.	+	0	.
+contig_30	ena	CDS	24844	25632	.	+	0	.
+contig_30	ena	CDS	31352	32227	.	+	0	.
+contig_30	ena	CDS	32264	34285	.	+	0	.
+contig_30	ena	CDS	34546	35784	.	+	0	.
+contig_30	ena	CDS	35892	37001	.	+	0	.
+contig_30	ena	CDS	37016	37498	.	+	0	.
+contig_30	ena	CDS	37527	38129	.	+	0	.
+contig_30	ena	CDS	38149	38484	.	+	0	.
+contig_30	ena	CDS	38639	39172	.	+	0	.
+contig_30	ena	CDS	39198	40187	.	+	0	.
+contig_30	ena	CDS	40393	41355	.	+	0	.
+contig_30	ena	CDS	41381	41854	.	+	0	.
+contig_30	ena	CDS	41856	42617	.	+	0	.
+contig_30	ena	CDS	43404	43493	.	+	0	.
+contig_30	ena	CDS	45761	46528	.	+	0	.
+contig_30	ena	CDS	46672	47136	.	+	0	.
+contig_30	ena	CDS	47963	48229	.	+	0	.
+contig_30	ena	CDS	48986	49180	.	+	0	.
+contig_30	ena	CDS	49791	50261	.	+	0	.
+contig_30	ena	CDS	50462	51181	.	+	0	.
+contig_30	ena	CDS	51323	52573	.	+	0	.
+contig_30	ena	CDS	54297	54635	.	+	0	.
+contig_30	ena	CDS	58683	58826	.	+	0	.
+contig_30	ena	CDS	69394	70419	.	+	0	.
+contig_30	ena	CDS	70511	71464	.	+	0	.
+contig_30	ena	CDS	71506	73332	.	+	0	.
+contig_30	ena	CDS	73371	74228	.	+	0	.
+contig_30	ena	CDS	74239	75078	.	+	0	.
+contig_30	ena	CDS	77303	77671	.	+	0	.
+contig_30	ena	CDS	78005	78778	.	+	0	.
+contig_30	ena	CDS	78891	79088	.	+	0	.
+contig_30	ena	CDS	81859	82386	.	+	0	.
+contig_30	ena	CDS	82781	83425	.	+	0	.
+contig_30	ena	CDS	89068	89238	.	+	0	.
+contig_30	ena	CDS	89424	89981	.	+	0	.
+contig_30	ena	CDS	93394	93693	.	+	0	.
+contig_30	ena	CDS	94595	95656	.	+	0	.
+contig_30	ena	CDS	96334	98766	.	+	0	.
+contig_30	ena	CDS	98872	100398	.	+	0	.
+contig_7	ena	CDS	795	1061	.	+	0	.
+contig_7	ena	CDS	1077	2246	.	+	0	.
+contig_7	ena	CDS	2442	3029	.	+	0	.
+contig_7	ena	CDS	3608	4594	.	+	0	.
+contig_7	ena	CDS	5032	5637	.	+	0	.
+contig_7	ena	CDS	5664	7505	.	+	0	.
+contig_7	ena	CDS	7524	8390	.	+	0	.
+contig_7	ena	CDS	8393	9223	.	+	0	.
+contig_7	ena	CDS	10349	13993	.	+	0	.
+contig_7	ena	CDS	16010	16984	.	+	0	.
+contig_7	ena	CDS	17043	18245	.	+	0	.
+contig_7	ena	CDS	19644	20138	.	+	0	.
+contig_7	ena	CDS	20799	23240	.	+	0	.
+contig_7	ena	CDS	23313	23909	.	+	0	.
+contig_7	ena	CDS	23916	25265	.	+	0	.
+contig_7	ena	CDS	25795	26664	.	+	0	.
+contig_7	ena	CDS	28143	29195	.	+	0	.
+contig_7	ena	CDS	29239	30336	.	+	0	.
+contig_7	ena	CDS	30342	31145	.	+	0	.
+contig_7	ena	CDS	31625	31825	.	+	0	.
+contig_7	ena	CDS	32642	33262	.	+	0	.
+contig_7	ena	CDS	33527	33922	.	+	0	.
+contig_7	ena	CDS	33928	34644	.	+	0	.
+contig_7	ena	CDS	34907	35953	.	+	0	.
+contig_7	ena	CDS	35956	36723	.	+	0	.
+contig_7	ena	CDS	36849	38015	.	+	0	.
+contig_7	ena	CDS	38020	38535	.	+	0	.
+contig_7	ena	CDS	38540	39055	.	+	0	.
+contig_7	ena	CDS	39057	39590	.	+	0	.
+contig_7	ena	CDS	43341	43502	.	+	0	.
+contig_7	ena	CDS	43709	44923	.	+	0	.
+contig_7	ena	CDS	46236	47753	.	+	0	.
+contig_7	ena	CDS	48114	49010	.	+	0	.
+contig_7	ena	CDS	49016	50311	.	+	0	.
+contig_7	ena	CDS	50322	51362	.	+	0	.
+contig_7	ena	CDS	51432	52505	.	+	0	.
+contig_7	ena	CDS	52532	53146	.	+	0	.
+contig_7	ena	CDS	53576	53896	.	+	0	.
+contig_7	ena	CDS	54409	54651	.	+	0	.
+contig_7	ena	CDS	54705	55283	.	+	0	.
+contig_7	ena	CDS	57521	57745	.	+	0	.
+contig_7	ena	CDS	58722	60251	.	+	0	.
+contig_7	ena	CDS	60638	60910	.	+	0	.
+contig_7	ena	CDS	63446	63871	.	+	0	.
+contig_7	ena	CDS	64603	65967	.	+	0	.
+contig_7	ena	CDS	66499	67110	.	+	0	.
+contig_7	ena	CDS	69132	70316	.	+	0	.
+contig_7	ena	CDS	70341	72803	.	+	0	.
+contig_7	ena	CDS	74322	74999	.	+	0	.
+contig_7	ena	CDS	75233	75448	.	+	0	.
+contig_7	ena	CDS	76243	77982	.	+	0	.
+contig_7	ena	CDS	79477	80382	.	+	0	.
+contig_7	ena	CDS	80589	80903	.	+	0	.
+contig_7	ena	CDS	81906	82016	.	+	0	.
+contig_7	ena	CDS	88523	89194	.	+	0	.
+contig_7	ena	CDS	89222	89443	.	+	0	.
+contig_7	ena	CDS	89544	89825	.	+	0	.
+contig_7	ena	CDS	90097	91020	.	+	0	.
+contig_7	ena	CDS	91022	92107	.	+	0	.
+contig_7	ena	CDS	92118	95207	.	+	0	.
+contig_7	ena	CDS	95268	95837	.	+	0	.
+contig_7	ena	CDS	97362	97643	.	+	0	.
+contig_7	ena	CDS	99106	100476	.	+	0	.
+contig_4	ena	CDS	343	648	.	+	0	.
+contig_4	ena	CDS	736	2022	.	+	0	.
+contig_4	ena	CDS	2337	2765	.	+	0	.
+contig_4	ena	CDS	2776	4242	.	+	0	.
+contig_4	ena	CDS	4253	4507	.	+	0	.
+contig_4	ena	CDS	4575	5747	.	+	0	.
+contig_4	ena	CDS	5761	6186	.	+	0	.
+contig_4	ena	CDS	6231	6701	.	+	0	.
+contig_4	ena	CDS	6712	7929	.	+	0	.
+contig_4	ena	CDS	8112	9452	.	+	0	.
+contig_4	ena	CDS	9465	10430	.	+	0	.
+contig_4	ena	CDS	10432	11376	.	+	0	.
+contig_4	ena	CDS	11387	12427	.	+	0	.
+contig_4	ena	CDS	13794	14750	.	+	0	.
+contig_4	ena	CDS	15935	16090	.	+	0	.
+contig_4	ena	CDS	18692	18946	.	+	0	.
+contig_4	ena	CDS	22641	23135	.	+	0	.
+contig_4	ena	CDS	23859	24071	.	+	0	.
+contig_4	ena	CDS	27955	28950	.	+	0	.
+contig_4	ena	CDS	29058	30086	.	+	0	.
+contig_4	ena	CDS	30197	31357	.	+	0	.
+contig_4	ena	CDS	31367	32425	.	+	0	.
+contig_4	ena	CDS	32666	34249	.	+	0	.
+contig_4	ena	CDS	35432	35764	.	+	0	.
+contig_4	ena	CDS	36492	37652	.	+	0	.
+contig_4	ena	CDS	37741	37974	.	+	0	.
+contig_4	ena	CDS	39355	40362	.	+	0	.
+contig_4	ena	CDS	42275	42454	.	+	0	.
+contig_4	ena	CDS	43008	43334	.	+	0	.
+contig_4	ena	CDS	49484	49669	.	+	0	.
+contig_4	ena	CDS	49769	50719	.	+	0	.
+contig_4	ena	CDS	51329	51589	.	+	0	.
+contig_4	ena	CDS	52965	56378	.	+	0	.
+contig_4	ena	CDS	56688	60308	.	+	0	.
+contig_4	ena	CDS	60341	62419	.	+	0	.
+contig_4	ena	CDS	63495	63824	.	+	0	.
+contig_4	ena	CDS	64380	64847	.	+	0	.
+contig_4	ena	CDS	64994	66097	.	+	0	.
+contig_4	ena	CDS	66371	66988	.	+	0	.
+contig_4	ena	CDS	67069	67497	.	+	0	.
+contig_4	ena	CDS	72641	73144	.	+	0	.
+contig_4	ena	CDS	73271	73831	.	+	0	.
+contig_4	ena	CDS	73849	74496	.	+	0	.
+contig_4	ena	CDS	78590	78901	.	+	0	.
+contig_4	ena	CDS	79391	80731	.	+	0	.
+contig_4	ena	CDS	80737	81981	.	+	0	.
+contig_4	ena	CDS	82738	83370	.	+	0	.
+contig_4	ena	CDS	83378	83974	.	+	0	.
+contig_4	ena	CDS	84008	85231	.	+	0	.
+contig_4	ena	CDS	85485	86402	.	+	0	.
+contig_22	ena	CDS	392	901	.	+	0	.
+contig_22	ena	CDS	1221	3758	.	+	0	.
+contig_22	ena	CDS	6215	6625	.	+	0	.
+contig_22	ena	CDS	7192	8481	.	+	0	.
+contig_22	ena	CDS	8927	9040	.	+	0	.
+contig_22	ena	CDS	9585	9986	.	+	0	.
+contig_22	ena	CDS	12412	12615	.	+	0	.
+contig_22	ena	CDS	13785	14144	.	+	0	.
+contig_22	ena	CDS	15298	16098	.	+	0	.
+contig_22	ena	CDS	20813	21553	.	+	0	.
+contig_22	ena	CDS	21836	23428	.	+	0	.
+contig_22	ena	CDS	32372	32476	.	+	0	.
+contig_22	ena	CDS	34915	35637	.	+	0	.
+contig_22	ena	CDS	37790	38323	.	+	0	.
+contig_22	ena	CDS	38326	39258	.	+	0	.
+contig_22	ena	CDS	39534	39725	.	+	0	.
+contig_22	ena	CDS	41323	41403	.	+	0	.
+contig_22	ena	CDS	43458	44675	.	+	0	.
+contig_22	ena	CDS	44683	45657	.	+	0	.
+contig_22	ena	CDS	45828	47783	.	+	0	.
+contig_22	ena	CDS	48117	48371	.	+	0	.
+contig_22	ena	CDS	48403	48762	.	+	0	.
+contig_22	ena	CDS	48797	50911	.	+	0	.
+contig_22	ena	CDS	50921	51427	.	+	0	.
+contig_22	ena	CDS	51562	51888	.	+	0	.
+contig_22	ena	CDS	51897	54320	.	+	0	.
+contig_22	ena	CDS	54440	55159	.	+	0	.
+contig_22	ena	CDS	55175	55819	.	+	0	.
+contig_22	ena	CDS	55843	56853	.	+	0	.
+contig_22	ena	CDS	56905	58077	.	+	0	.
+contig_22	ena	CDS	58118	58417	.	+	0	.
+contig_22	ena	CDS	58432	60108	.	+	0	.
+contig_22	ena	CDS	60330	62003	.	+	0	.
+contig_22	ena	CDS	62659	62733	.	+	0	.
+contig_22	ena	CDS	63039	63140	.	+	0	.
+contig_22	ena	CDS	63816	63959	.	+	0	.
+contig_22	ena	CDS	66113	66265	.	+	0	.
+contig_22	ena	CDS	68305	68919	.	+	0	.
+contig_22	ena	CDS	69142	69903	.	+	0	.
+contig_22	ena	CDS	70802	70927	.	+	0	.
+contig_22	ena	CDS	72149	72697	.	+	0	.
+contig_22	ena	CDS	72844	73131	.	+	0	.
+contig_22	ena	CDS	73874	74665	.	+	0	.
+contig_22	ena	CDS	74838	76052	.	+	0	.
+contig_22	ena	CDS	76767	76952	.	+	0	.
+contig_22	ena	CDS	77633	78199	.	+	0	.
+contig_22	ena	CDS	78366	78656	.	+	0	.
+contig_22	ena	CDS	78691	80289	.	+	0	.
+contig_22	ena	CDS	81021	81218	.	+	0	.
+contig_22	ena	CDS	82295	82435	.	+	0	.
+contig_22	ena	CDS	83750	83881	.	+	0	.
+contig_22	ena	CDS	84068	84241	.	+	0	.
+contig_36	ena	CDS	501	932	.	+	0	.
+contig_36	ena	CDS	1326	1787	.	+	0	.
+contig_36	ena	CDS	1790	3178	.	+	0	.
+contig_36	ena	CDS	3222	3764	.	+	0	.
+contig_36	ena	CDS	3775	4851	.	+	0	.
+contig_36	ena	CDS	4872	6143	.	+	0	.
+contig_36	ena	CDS	6165	7037	.	+	0	.
+contig_36	ena	CDS	7041	7922	.	+	0	.
+contig_36	ena	CDS	8190	8711	.	+	0	.
+contig_36	ena	CDS	8762	9175	.	+	0	.
+contig_36	ena	CDS	9225	9650	.	+	0	.
+contig_36	ena	CDS	9652	11049	.	+	0	.
+contig_36	ena	CDS	15145	19098	.	+	0	.
+contig_36	ena	CDS	19220	19717	.	+	0	.
+contig_36	ena	CDS	20529	20819	.	+	0	.
+contig_36	ena	CDS	20944	21324	.	+	0	.
+contig_36	ena	CDS	21544	22452	.	+	0	.
+contig_36	ena	CDS	22469	23311	.	+	0	.
+contig_36	ena	CDS	31795	32178	.	+	0	.
+contig_36	ena	CDS	33341	33913	.	+	0	.
+contig_36	ena	CDS	33961	34464	.	+	0	.
+contig_36	ena	CDS	34499	34549	.	+	0	.
+contig_36	ena	CDS	34716	35525	.	+	0	.
+contig_36	ena	CDS	40759	41550	.	+	0	.
+contig_36	ena	CDS	41722	44103	.	+	0	.
+contig_36	ena	CDS	44150	44935	.	+	0	.
+contig_36	ena	CDS	45110	46093	.	+	0	.
+contig_36	ena	CDS	46303	47418	.	+	0	.
+contig_36	ena	CDS	47984	48721	.	+	0	.
+contig_36	ena	CDS	48740	51127	.	+	0	.
+contig_36	ena	CDS	51440	51613	.	+	0	.
+contig_36	ena	CDS	52821	53534	.	+	0	.
+contig_36	ena	CDS	53547	54191	.	+	0	.
+contig_36	ena	CDS	54691	54897	.	+	0	.
+contig_36	ena	CDS	56438	56698	.	+	0	.
+contig_36	ena	CDS	63249	66293	.	+	0	.
+contig_36	ena	CDS	66689	66826	.	+	0	.
+contig_36	ena	CDS	67043	68629	.	+	0	.
+contig_36	ena	CDS	73278	73472	.	+	0	.
+contig_36	ena	CDS	75631	75834	.	+	0	.
+contig_36	ena	CDS	76217	76960	.	+	0	.
+contig_36	ena	CDS	77512	77622	.	+	0	.
+contig_36	ena	CDS	78297	80225	.	+	0	.
+contig_36	ena	CDS	80442	80780	.	+	0	.
+contig_36	ena	CDS	81120	81473	.	+	0	.
+contig_60	ena	CDS	845	907	.	+	0	.
+contig_60	ena	CDS	3795	4262	.	+	0	.
+contig_60	ena	CDS	4266	5399	.	+	0	.
+contig_60	ena	CDS	7011	7316	.	+	0	.
+contig_60	ena	CDS	8879	9391	.	+	0	.
+contig_60	ena	CDS	9423	10370	.	+	0	.
+contig_60	ena	CDS	10454	11734	.	+	0	.
+contig_60	ena	CDS	12153	13166	.	+	0	.
+contig_60	ena	CDS	13176	14621	.	+	0	.
+contig_60	ena	CDS	15114	15257	.	+	0	.
+contig_60	ena	CDS	16623	16745	.	+	0	.
+contig_60	ena	CDS	17029	17130	.	+	0	.
+contig_60	ena	CDS	17406	18827	.	+	0	.
+contig_60	ena	CDS	18924	19865	.	+	0	.
+contig_60	ena	CDS	19898	20503	.	+	0	.
+contig_60	ena	CDS	21642	22553	.	+	0	.
+contig_60	ena	CDS	24308	24397	.	+	0	.
+contig_60	ena	CDS	24639	26231	.	+	0	.
+contig_60	ena	CDS	26243	26527	.	+	0	.
+contig_60	ena	CDS	26539	27477	.	+	0	.
+contig_60	ena	CDS	27532	29331	.	+	0	.
+contig_60	ena	CDS	29335	30864	.	+	0	.
+contig_60	ena	CDS	32049	33161	.	+	0	.
+contig_60	ena	CDS	34279	34854	.	+	0	.
+contig_60	ena	CDS	46574	46891	.	+	0	.
+contig_60	ena	CDS	53285	53398	.	+	0	.
+contig_60	ena	CDS	55903	56766	.	+	0	.
+contig_60	ena	CDS	56827	57927	.	+	0	.
+contig_60	ena	CDS	58114	59016	.	+	0	.
+contig_60	ena	CDS	59035	61452	.	+	0	.
+contig_60	ena	CDS	61903	62337	.	+	0	.
+contig_60	ena	CDS	62480	62569	.	+	0	.
+contig_60	ena	CDS	63029	63244	.	+	0	.
+contig_60	ena	CDS	63743	63913	.	+	0	.
+contig_60	ena	CDS	66185	66517	.	+	0	.
+contig_60	ena	CDS	70357	70647	.	+	0	.
+contig_60	ena	CDS	70822	71067	.	+	0	.
+contig_60	ena	CDS	71824	72765	.	+	0	.
+contig_60	ena	CDS	78243	79700	.	+	0	.
+contig_60	ena	CDS	79707	80237	.	+	0	.
+contig_31	ena	CDS	3280	3876	.	+	0	.
+contig_31	ena	CDS	4128	4250	.	+	0	.
+contig_31	ena	CDS	6066	6134	.	+	0	.
+contig_31	ena	CDS	6281	7096	.	+	0	.
+contig_31	ena	CDS	8194	8625	.	+	0	.
+contig_31	ena	CDS	14205	14324	.	+	0	.
+contig_31	ena	CDS	14414	14524	.	+	0	.
+contig_31	ena	CDS	15890	17839	.	+	0	.
+contig_31	ena	CDS	18351	19547	.	+	0	.
+contig_31	ena	CDS	21266	22189	.	+	0	.
+contig_31	ena	CDS	22791	23270	.	+	0	.
+contig_31	ena	CDS	23514	23969	.	+	0	.
+contig_31	ena	CDS	24526	26157	.	+	0	.
+contig_31	ena	CDS	26338	27180	.	+	0	.
+contig_31	ena	CDS	27192	28100	.	+	0	.
+contig_31	ena	CDS	28126	29100	.	+	0	.
+contig_31	ena	CDS	29361	30092	.	+	0	.
+contig_31	ena	CDS	30279	31229	.	+	0	.
+contig_31	ena	CDS	33590	33784	.	+	0	.
+contig_31	ena	CDS	38525	38752	.	+	0	.
+contig_31	ena	CDS	40072	40215	.	+	0	.
+contig_31	ena	CDS	42379	43260	.	+	0	.
+contig_31	ena	CDS	43531	43911	.	+	0	.
+contig_31	ena	CDS	45033	45995	.	+	0	.
+contig_31	ena	CDS	47169	47936	.	+	0	.
+contig_31	ena	CDS	48035	50137	.	+	0	.
+contig_31	ena	CDS	51730	51849	.	+	0	.
+contig_31	ena	CDS	53050	53532	.	+	0	.
+contig_31	ena	CDS	53600	55366	.	+	0	.
+contig_31	ena	CDS	55446	55970	.	+	0	.
+contig_31	ena	CDS	57226	60105	.	+	0	.
+contig_31	ena	CDS	60121	61365	.	+	0	.
+contig_31	ena	CDS	61444	62577	.	+	0	.
+contig_31	ena	CDS	64725	65666	.	+	0	.
+contig_31	ena	CDS	71154	73712	.	+	0	.
+contig_31	ena	CDS	73858	74499	.	+	0	.
+contig_31	ena	CDS	74799	75029	.	+	0	.
+contig_31	ena	CDS	76998	77555	.	+	0	.
+contig_31	ena	CDS	77605	78243	.	+	0	.
+contig_31	ena	CDS	78245	79201	.	+	0	.
+contig_31	ena	CDS	79215	80054	.	+	0	.
+contig_39	ena	CDS	3665	4489	.	+	0	.
+contig_39	ena	CDS	4741	5169	.	+	0	.
+contig_39	ena	CDS	5185	5577	.	+	0	.
+contig_39	ena	CDS	6621	7763	.	+	0	.
+contig_39	ena	CDS	7895	8497	.	+	0	.
+contig_39	ena	CDS	8625	9230	.	+	0	.
+contig_39	ena	CDS	9234	9710	.	+	0	.
+contig_39	ena	CDS	11355	11462	.	+	0	.
+contig_39	ena	CDS	13223	14086	.	+	0	.
+contig_39	ena	CDS	14784	15734	.	+	0	.
+contig_39	ena	CDS	15744	16061	.	+	0	.
+contig_39	ena	CDS	16316	17788	.	+	0	.
+contig_39	ena	CDS	17793	19301	.	+	0	.
+contig_39	ena	CDS	19322	20659	.	+	0	.
+contig_39	ena	CDS	20773	21738	.	+	0	.
+contig_39	ena	CDS	21772	23100	.	+	0	.
+contig_39	ena	CDS	23238	24332	.	+	0	.
+contig_39	ena	CDS	24340	25386	.	+	0	.
+contig_39	ena	CDS	25400	26860	.	+	0	.
+contig_39	ena	CDS	27190	27819	.	+	0	.
+contig_39	ena	CDS	27830	29092	.	+	0	.
+contig_39	ena	CDS	29125	30339	.	+	0	.
+contig_39	ena	CDS	30438	31355	.	+	0	.
+contig_39	ena	CDS	32234	34933	.	+	0	.
+contig_39	ena	CDS	34996	35397	.	+	0	.
+contig_39	ena	CDS	35851	36300	.	+	0	.
+contig_39	ena	CDS	37247	37921	.	+	0	.
+contig_39	ena	CDS	37938	41171	.	+	0	.
+contig_39	ena	CDS	42245	43006	.	+	0	.
+contig_39	ena	CDS	49023	49682	.	+	0	.
+contig_39	ena	CDS	52805	52897	.	+	0	.
+contig_39	ena	CDS	60608	61564	.	+	0	.
+contig_39	ena	CDS	61606	63405	.	+	0	.
+contig_39	ena	CDS	63696	65954	.	+	0	.
+contig_39	ena	CDS	65959	66408	.	+	0	.
+contig_39	ena	CDS	68168	68509	.	+	0	.
+contig_39	ena	CDS	69442	71901	.	+	0	.
+contig_39	ena	CDS	71905	72876	.	+	0	.
+contig_39	ena	CDS	73089	74153	.	+	0	.
+contig_15	ena	CDS	691	1308	.	+	0	.
+contig_15	ena	CDS	1775	2683	.	+	0	.
+contig_15	ena	CDS	2918	3649	.	+	0	.
+contig_15	ena	CDS	3967	5103	.	+	0	.
+contig_15	ena	CDS	5998	7125	.	+	0	.
+contig_15	ena	CDS	7135	10287	.	+	0	.
+contig_15	ena	CDS	11117	11296	.	+	0	.
+contig_15	ena	CDS	12470	13072	.	+	0	.
+contig_15	ena	CDS	14643	15086	.	+	0	.
+contig_15	ena	CDS	16587	16760	.	+	0	.
+contig_15	ena	CDS	19391	20512	.	+	0	.
+contig_15	ena	CDS	20641	20748	.	+	0	.
+contig_15	ena	CDS	23694	23903	.	+	0	.
+contig_15	ena	CDS	26841	27068	.	+	0	.
+contig_15	ena	CDS	28697	28795	.	+	0	.
+contig_15	ena	CDS	30658	31626	.	+	0	.
+contig_15	ena	CDS	34799	34981	.	+	0	.
+contig_15	ena	CDS	38415	38594	.	+	0	.
+contig_15	ena	CDS	38777	39151	.	+	0	.
+contig_15	ena	CDS	39869	40021	.	+	0	.
+contig_15	ena	CDS	40094	40249	.	+	0	.
+contig_15	ena	CDS	40660	41877	.	+	0	.
+contig_15	ena	CDS	41984	43477	.	+	0	.
+contig_15	ena	CDS	43788	44669	.	+	0	.
+contig_15	ena	CDS	44696	45493	.	+	0	.
+contig_15	ena	CDS	45515	46645	.	+	0	.
+contig_15	ena	CDS	46749	47669	.	+	0	.
+contig_15	ena	CDS	47774	48475	.	+	0	.
+contig_15	ena	CDS	52312	52416	.	+	0	.
+contig_15	ena	CDS	54743	55102	.	+	0	.
+contig_15	ena	CDS	55128	55589	.	+	0	.
+contig_15	ena	CDS	55822	71238	.	+	0	.
+contig_15	ena	CDS	71999	72262	.	+	0	.
+contig_15	ena	CDS	72332	72532	.	+	0	.
+contig_14	ena	CDS	1737	2063	.	+	0	.
+contig_14	ena	CDS	2123	3043	.	+	0	.
+contig_14	ena	CDS	3215	3568	.	+	0	.
+contig_14	ena	CDS	3812	3943	.	+	0	.
+contig_14	ena	CDS	5764	5994	.	+	0	.
+contig_14	ena	CDS	6285	7127	.	+	0	.
+contig_14	ena	CDS	7300	8052	.	+	0	.
+contig_14	ena	CDS	8100	8777	.	+	0	.
+contig_14	ena	CDS	10191	10499	.	+	0	.
+contig_14	ena	CDS	10871	11764	.	+	0	.
+contig_14	ena	CDS	12475	12741	.	+	0	.
+contig_14	ena	CDS	15532	15648	.	+	0	.
+contig_14	ena	CDS	15870	16748	.	+	0	.
+contig_14	ena	CDS	18843	19064	.	+	0	.
+contig_14	ena	CDS	19152	19304	.	+	0	.
+contig_14	ena	CDS	19959	20351	.	+	0	.
+contig_14	ena	CDS	21744	22349	.	+	0	.
+contig_14	ena	CDS	24197	25042	.	+	0	.
+contig_14	ena	CDS	26735	27154	.	+	0	.
+contig_14	ena	CDS	28258	29016	.	+	0	.
+contig_14	ena	CDS	29194	32862	.	+	0	.
+contig_14	ena	CDS	33554	33682	.	+	0	.
+contig_14	ena	CDS	40009	40215	.	+	0	.
+contig_14	ena	CDS	42665	42832	.	+	0	.
+contig_14	ena	CDS	44498	44800	.	+	0	.
+contig_14	ena	CDS	45192	45431	.	+	0	.
+contig_14	ena	CDS	46064	46318	.	+	0	.
+contig_14	ena	CDS	46438	47223	.	+	0	.
+contig_14	ena	CDS	47441	47542	.	+	0	.
+contig_14	ena	CDS	48568	48870	.	+	0	.
+contig_14	ena	CDS	56961	57125	.	+	0	.
+contig_14	ena	CDS	59049	59288	.	+	0	.
+contig_14	ena	CDS	59519	60325	.	+	0	.
+contig_14	ena	CDS	61373	62134	.	+	0	.
+contig_14	ena	CDS	63155	63466	.	+	0	.
+contig_14	ena	CDS	63518	64120	.	+	0	.
+contig_14	ena	CDS	64588	66150	.	+	0	.
+contig_14	ena	CDS	67308	67847	.	+	0	.
+contig_14	ena	CDS	67943	68746	.	+	0	.
+contig_14	ena	CDS	68926	69189	.	+	0	.
+contig_14	ena	CDS	69574	70017	.	+	0	.
+contig_5	ena	CDS	815	2332	.	+	0	.
+contig_5	ena	CDS	8408	8839	.	+	0	.
+contig_5	ena	CDS	11771	11944	.	+	0	.
+contig_5	ena	CDS	12161	12502	.	+	0	.
+contig_5	ena	CDS	12513	13136	.	+	0	.
+contig_5	ena	CDS	13173	13580	.	+	0	.
+contig_5	ena	CDS	15875	16294	.	+	0	.
+contig_5	ena	CDS	17082	17222	.	+	0	.
+contig_5	ena	CDS	18244	18486	.	+	0	.
+contig_5	ena	CDS	18982	19611	.	+	0	.
+contig_5	ena	CDS	19990	20613	.	+	0	.
+contig_5	ena	CDS	23480	23614	.	+	0	.
+contig_5	ena	CDS	24211	24489	.	+	0	.
+contig_5	ena	CDS	25666	26202	.	+	0	.
+contig_5	ena	CDS	26343	27776	.	+	0	.
+contig_5	ena	CDS	27886	28245	.	+	0	.
+contig_5	ena	CDS	28615	29952	.	+	0	.
+contig_5	ena	CDS	29977	30144	.	+	0	.
+contig_5	ena	CDS	30161	32503	.	+	0	.
+contig_5	ena	CDS	32768	33622	.	+	0	.
+contig_5	ena	CDS	33649	34011	.	+	0	.
+contig_5	ena	CDS	36955	37026	.	+	0	.
+contig_5	ena	CDS	37160	38353	.	+	0	.
+contig_5	ena	CDS	38412	38762	.	+	0	.
+contig_5	ena	CDS	41101	41514	.	+	0	.
+contig_5	ena	CDS	42163	42336	.	+	0	.
+contig_5	ena	CDS	45248	46231	.	+	0	.
+contig_5	ena	CDS	46924	47334	.	+	0	.
+contig_5	ena	CDS	47920	48051	.	+	0	.
+contig_5	ena	CDS	49221	49298	.	+	0	.
+contig_5	ena	CDS	50228	50860	.	+	0	.
+contig_5	ena	CDS	51001	51423	.	+	0	.
+contig_5	ena	CDS	51504	51566	.	+	0	.
+contig_5	ena	CDS	52098	52535	.	+	0	.
+contig_5	ena	CDS	53543	54679	.	+	0	.
+contig_5	ena	CDS	54967	56307	.	+	0	.
+contig_5	ena	CDS	56362	56925	.	+	0	.
+contig_5	ena	CDS	57051	57806	.	+	0	.
+contig_5	ena	CDS	58043	58819	.	+	0	.
+contig_5	ena	CDS	58830	59333	.	+	0	.
+contig_5	ena	CDS	59365	60372	.	+	0	.
+contig_5	ena	CDS	60409	60498	.	+	0	.
+contig_5	ena	CDS	60707	61264	.	+	0	.
+contig_5	ena	CDS	63070	63927	.	+	0	.
+contig_5	ena	CDS	64579	65802	.	+	0	.
+contig_54	ena	CDS	4865	5590	.	+	0	.
+contig_54	ena	CDS	6087	6266	.	+	0	.
+contig_54	ena	CDS	6957	7688	.	+	0	.
+contig_54	ena	CDS	7698	8249	.	+	0	.
+contig_54	ena	CDS	10897	12543	.	+	0	.
+contig_54	ena	CDS	12659	13033	.	+	0	.
+contig_54	ena	CDS	13062	14066	.	+	0	.
+contig_54	ena	CDS	14134	14274	.	+	0	.
+contig_54	ena	CDS	16196	16288	.	+	0	.
+contig_54	ena	CDS	17587	18750	.	+	0	.
+contig_54	ena	CDS	19519	19647	.	+	0	.
+contig_54	ena	CDS	21682	22677	.	+	0	.
+contig_54	ena	CDS	22846	24528	.	+	0	.
+contig_54	ena	CDS	24548	25153	.	+	0	.
+contig_54	ena	CDS	30975	31136	.	+	0	.
+contig_54	ena	CDS	31146	31217	.	+	0	.
+contig_54	ena	CDS	33320	33580	.	+	0	.
+contig_54	ena	CDS	35388	36548	.	+	0	.
+contig_54	ena	CDS	36668	37816	.	+	0	.
+contig_54	ena	CDS	38361	38498	.	+	0	.
+contig_54	ena	CDS	43868	44458	.	+	0	.
+contig_54	ena	CDS	45516	46013	.	+	0	.
+contig_54	ena	CDS	51560	51685	.	+	0	.
+contig_54	ena	CDS	53066	53251	.	+	0	.
+contig_54	ena	CDS	54835	55353	.	+	0	.
+contig_54	ena	CDS	57087	57806	.	+	0	.
+contig_54	ena	CDS	58324	59142	.	+	0	.
+contig_54	ena	CDS	62238	62423	.	+	0	.
+contig_54	ena	CDS	62551	62697	.	+	0	.
+contig_76	ena	CDS	5732	5857	.	+	0	.
+contig_76	ena	CDS	10369	10539	.	+	0	.
+contig_76	ena	CDS	10586	11605	.	+	0	.
+contig_76	ena	CDS	14292	14579	.	+	0	.
+contig_76	ena	CDS	15939	16841	.	+	0	.
+contig_76	ena	CDS	17052	18116	.	+	0	.
+contig_76	ena	CDS	18457	19557	.	+	0	.
+contig_76	ena	CDS	19852	20949	.	+	0	.
+contig_76	ena	CDS	21194	21448	.	+	0	.
+contig_76	ena	CDS	21469	23571	.	+	0	.
+contig_76	ena	CDS	23578	23880	.	+	0	.
+contig_76	ena	CDS	23893	24303	.	+	0	.
+contig_76	ena	CDS	24447	25946	.	+	0	.
+contig_76	ena	CDS	26147	27103	.	+	0	.
+contig_76	ena	CDS	27130	28545	.	+	0	.
+contig_76	ena	CDS	28675	28986	.	+	0	.
+contig_76	ena	CDS	29068	30747	.	+	0	.
+contig_76	ena	CDS	30779	31795	.	+	0	.
+contig_76	ena	CDS	31892	32692	.	+	0	.
+contig_76	ena	CDS	32728	34014	.	+	0	.
+contig_76	ena	CDS	34018	34449	.	+	0	.
+contig_76	ena	CDS	34555	36603	.	+	0	.
+contig_76	ena	CDS	37145	38188	.	+	0	.
+contig_76	ena	CDS	38258	38668	.	+	0	.
+contig_76	ena	CDS	38731	39090	.	+	0	.
+contig_76	ena	CDS	39227	39949	.	+	0	.
+contig_76	ena	CDS	39965	40234	.	+	0	.
+contig_76	ena	CDS	40247	41029	.	+	0	.
+contig_76	ena	CDS	41039	42169	.	+	0	.
+contig_76	ena	CDS	42501	44432	.	+	0	.
+contig_76	ena	CDS	44566	45975	.	+	0	.
+contig_76	ena	CDS	45989	46876	.	+	0	.
+contig_76	ena	CDS	46941	47603	.	+	0	.
+contig_76	ena	CDS	47648	48016	.	+	0	.
+contig_76	ena	CDS	48138	48878	.	+	0	.
+contig_76	ena	CDS	48888	51113	.	+	0	.
+contig_76	ena	CDS	51195	52274	.	+	0	.
+contig_76	ena	CDS	52283	53059	.	+	0	.
+contig_76	ena	CDS	53070	54122	.	+	0	.
+contig_76	ena	CDS	54155	54649	.	+	0	.
+contig_76	ena	CDS	54748	55149	.	+	0	.
+contig_76	ena	CDS	56060	56728	.	+	0	.
+contig_76	ena	CDS	57049	57591	.	+	0	.
+contig_76	ena	CDS	57604	57810	.	+	0	.
+contig_76	ena	CDS	57906	58292	.	+	0	.
+contig_76	ena	CDS	58490	60271	.	+	0	.
+contig_76	ena	CDS	60273	60827	.	+	0	.
+contig_76	ena	CDS	61034	61306	.	+	0	.
+contig_76	ena	CDS	61597	62520	.	+	0	.
+contig_76	ena	CDS	62686	63393	.	+	0	.
+contig_63	ena	CDS	2170	3588	.	+	0	.
+contig_63	ena	CDS	9186	11204	.	+	0	.
+contig_63	ena	CDS	13562	15277	.	+	0	.
+contig_63	ena	CDS	15353	16909	.	+	0	.
+contig_63	ena	CDS	17061	18038	.	+	0	.
+contig_63	ena	CDS	18041	18979	.	+	0	.
+contig_63	ena	CDS	19223	20110	.	+	0	.
+contig_63	ena	CDS	23367	24050	.	+	0	.
+contig_63	ena	CDS	24057	24800	.	+	0	.
+contig_63	ena	CDS	27070	27297	.	+	0	.
+contig_63	ena	CDS	28439	28633	.	+	0	.
+contig_63	ena	CDS	30071	30967	.	+	0	.
+contig_63	ena	CDS	31130	32050	.	+	0	.
+contig_63	ena	CDS	34665	35945	.	+	0	.
+contig_63	ena	CDS	35955	36566	.	+	0	.
+contig_63	ena	CDS	39295	41337	.	+	0	.
+contig_63	ena	CDS	41628	41876	.	+	0	.
+contig_63	ena	CDS	42018	45137	.	+	0	.
+contig_63	ena	CDS	45370	46026	.	+	0	.
+contig_63	ena	CDS	46205	46681	.	+	0	.
+contig_63	ena	CDS	47203	47301	.	+	0	.
+contig_63	ena	CDS	48323	48850	.	+	0	.
+contig_63	ena	CDS	48937	49260	.	+	0	.
+contig_63	ena	CDS	50137	50550	.	+	0	.
+contig_63	ena	CDS	53464	53640	.	+	0	.
+contig_63	ena	CDS	55589	57592	.	+	0	.
+contig_63	ena	CDS	58453	59493	.	+	0	.
+contig_63	ena	CDS	59504	60334	.	+	0	.
+contig_63	ena	CDS	60446	61108	.	+	0	.
+contig_63	ena	CDS	61209	62027	.	+	0	.
+contig_63	ena	CDS	62060	62740	.	+	0	.
+contig_63	ena	CDS	63035	64891	.	+	0	.
+contig_50	ena	CDS	1082	2293	.	+	0	.
+contig_50	ena	CDS	2429	3433	.	+	0	.
+contig_50	ena	CDS	3693	4622	.	+	0	.
+contig_50	ena	CDS	4637	5098	.	+	0	.
+contig_50	ena	CDS	5207	5596	.	+	0	.
+contig_50	ena	CDS	8723	8983	.	+	0	.
+contig_50	ena	CDS	8987	9481	.	+	0	.
+contig_50	ena	CDS	9878	10318	.	+	0	.
+contig_50	ena	CDS	11185	12456	.	+	0	.
+contig_50	ena	CDS	16198	16476	.	+	0	.
+contig_50	ena	CDS	35790	35864	.	+	0	.
+contig_50	ena	CDS	37583	37744	.	+	0	.
+contig_50	ena	CDS	46289	46894	.	+	0	.
+contig_50	ena	CDS	47080	47952	.	+	0	.
+contig_50	ena	CDS	48096	50918	.	+	0	.
+contig_50	ena	CDS	50985	52748	.	+	0	.
+contig_50	ena	CDS	54449	55798	.	+	0	.
+contig_50	ena	CDS	59786	61078	.	+	0	.
+contig_18	ena	CDS	783	3569	.	+	0	.
+contig_18	ena	CDS	4269	4523	.	+	0	.
+contig_18	ena	CDS	9337	9498	.	+	0	.
+contig_18	ena	CDS	16467	18035	.	+	0	.
+contig_18	ena	CDS	18919	19893	.	+	0	.
+contig_18	ena	CDS	19910	20395	.	+	0	.
+contig_18	ena	CDS	21014	21190	.	+	0	.
+contig_18	ena	CDS	24532	24843	.	+	0	.
+contig_18	ena	CDS	25038	25637	.	+	0	.
+contig_18	ena	CDS	25684	26346	.	+	0	.
+contig_18	ena	CDS	26681	27835	.	+	0	.
+contig_18	ena	CDS	29740	30360	.	+	0	.
+contig_18	ena	CDS	38125	39132	.	+	0	.
+contig_18	ena	CDS	39649	40179	.	+	0	.
+contig_18	ena	CDS	40433	40759	.	+	0	.
+contig_18	ena	CDS	40861	41556	.	+	0	.
+contig_18	ena	CDS	43294	43905	.	+	0	.
+contig_18	ena	CDS	43920	44873	.	+	0	.
+contig_18	ena	CDS	44928	45491	.	+	0	.
+contig_18	ena	CDS	45513	45935	.	+	0	.
+contig_18	ena	CDS	48707	48925	.	+	0	.
+contig_18	ena	CDS	48960	49778	.	+	0	.
+contig_18	ena	CDS	49820	50377	.	+	0	.
+contig_18	ena	CDS	50710	51141	.	+	0	.
+contig_18	ena	CDS	51152	51754	.	+	0	.
+contig_18	ena	CDS	51875	52933	.	+	0	.
+contig_18	ena	CDS	54703	54975	.	+	0	.
+contig_18	ena	CDS	55820	56596	.	+	0	.
+contig_18	ena	CDS	56618	56890	.	+	0	.
+contig_18	ena	CDS	56970	58109	.	+	0	.
+contig_18	ena	CDS	58729	60366	.	+	0	.
+contig_18	ena	CDS	61400	62011	.	+	0	.
+contig_18	ena	CDS	62029	62760	.	+	0	.
+contig_27	ena	CDS	419	1051	.	+	0	.
+contig_27	ena	CDS	1339	2130	.	+	0	.
+contig_27	ena	CDS	2246	3178	.	+	0	.
+contig_27	ena	CDS	6194	7012	.	+	0	.
+contig_27	ena	CDS	7143	7853	.	+	0	.
+contig_27	ena	CDS	7880	8623	.	+	0	.
+contig_27	ena	CDS	8820	9758	.	+	0	.
+contig_27	ena	CDS	9920	10957	.	+	0	.
+contig_27	ena	CDS	11423	11605	.	+	0	.
+contig_27	ena	CDS	13594	14178	.	+	0	.
+contig_27	ena	CDS	14735	15691	.	+	0	.
+contig_27	ena	CDS	16262	16450	.	+	0	.
+contig_27	ena	CDS	19104	19460	.	+	0	.
+contig_27	ena	CDS	25018	25692	.	+	0	.
+contig_27	ena	CDS	26008	27681	.	+	0	.
+contig_27	ena	CDS	29610	31955	.	+	0	.
+contig_27	ena	CDS	31957	32838	.	+	0	.
+contig_27	ena	CDS	36701	37519	.	+	0	.
+contig_27	ena	CDS	37526	38224	.	+	0	.
+contig_27	ena	CDS	38266	38952	.	+	0	.
+contig_27	ena	CDS	38987	39517	.	+	0	.
+contig_27	ena	CDS	39583	41292	.	+	0	.
+contig_27	ena	CDS	41485	41622	.	+	0	.
+contig_27	ena	CDS	44113	44484	.	+	0	.
+contig_27	ena	CDS	49813	50679	.	+	0	.
+contig_27	ena	CDS	51047	51115	.	+	0	.
+contig_27	ena	CDS	52080	53369	.	+	0	.
+contig_27	ena	CDS	55739	57931	.	+	0	.
+contig_27	ena	CDS	58978	59205	.	+	0	.
+contig_27	ena	CDS	59448	59825	.	+	0	.
+contig_6	ena	CDS	411	704	.	+	0	.
+contig_6	ena	CDS	795	2540	.	+	0	.
+contig_6	ena	CDS	2781	3365	.	+	0	.
+contig_6	ena	CDS	4035	4157	.	+	0	.
+contig_6	ena	CDS	4166	4393	.	+	0	.
+contig_6	ena	CDS	5489	5608	.	+	0	.
+contig_6	ena	CDS	5629	6222	.	+	0	.
+contig_6	ena	CDS	6278	7534	.	+	0	.
+contig_6	ena	CDS	9729	10268	.	+	0	.
+contig_6	ena	CDS	10301	10834	.	+	0	.
+contig_6	ena	CDS	11745	11900	.	+	0	.
+contig_6	ena	CDS	12643	13548	.	+	0	.
+contig_6	ena	CDS	13793	14218	.	+	0	.
+contig_6	ena	CDS	16295	18040	.	+	0	.
+contig_6	ena	CDS	18614	19588	.	+	0	.
+contig_6	ena	CDS	19863	20054	.	+	0	.
+contig_6	ena	CDS	20208	21104	.	+	0	.
+contig_6	ena	CDS	21367	22500	.	+	0	.
+contig_6	ena	CDS	27828	28856	.	+	0	.
+contig_6	ena	CDS	29788	30222	.	+	0	.
+contig_6	ena	CDS	30224	30460	.	+	0	.
+contig_6	ena	CDS	30534	32225	.	+	0	.
+contig_6	ena	CDS	34633	35298	.	+	0	.
+contig_6	ena	CDS	35504	35632	.	+	0	.
+contig_6	ena	CDS	36599	37324	.	+	0	.
+contig_6	ena	CDS	37484	38098	.	+	0	.
+contig_6	ena	CDS	41496	41615	.	+	0	.
+contig_6	ena	CDS	44516	45193	.	+	0	.
+contig_6	ena	CDS	45276	47636	.	+	0	.
+contig_6	ena	CDS	48067	49401	.	+	0	.
+contig_6	ena	CDS	51963	52535	.	+	0	.
+contig_6	ena	CDS	52562	54511	.	+	0	.
+contig_6	ena	CDS	54634	54708	.	+	0	.
+contig_41	ena	CDS	637	2508	.	+	0	.
+contig_41	ena	CDS	2737	4518	.	+	0	.
+contig_41	ena	CDS	7550	8473	.	+	0	.
+contig_41	ena	CDS	11852	12532	.	+	0	.
+contig_41	ena	CDS	12535	13227	.	+	0	.
+contig_41	ena	CDS	13301	13633	.	+	0	.
+contig_41	ena	CDS	13645	14496	.	+	0	.
+contig_41	ena	CDS	14596	15537	.	+	0	.
+contig_41	ena	CDS	15828	16319	.	+	0	.
+contig_41	ena	CDS	17399	17698	.	+	0	.
+contig_41	ena	CDS	18109	18720	.	+	0	.
+contig_41	ena	CDS	20234	20722	.	+	0	.
+contig_41	ena	CDS	22013	22843	.	+	0	.
+contig_41	ena	CDS	25046	26074	.	+	0	.
+contig_41	ena	CDS	26283	27368	.	+	0	.
+contig_41	ena	CDS	28452	29369	.	+	0	.
+contig_41	ena	CDS	30252	31160	.	+	0	.
+contig_41	ena	CDS	31523	31759	.	+	0	.
+contig_41	ena	CDS	31978	32145	.	+	0	.
+contig_41	ena	CDS	37431	38033	.	+	0	.
+contig_41	ena	CDS	38448	39848	.	+	0	.
+contig_41	ena	CDS	39877	41097	.	+	0	.
+contig_41	ena	CDS	41228	41644	.	+	0	.
+contig_41	ena	CDS	41664	43844	.	+	0	.
+contig_41	ena	CDS	43868	44908	.	+	0	.
+contig_41	ena	CDS	45956	46987	.	+	0	.
+contig_41	ena	CDS	46998	48311	.	+	0	.
+contig_35	ena	CDS	1560	2159	.	+	0	.
+contig_35	ena	CDS	2672	3592	.	+	0	.
+contig_35	ena	CDS	3730	5205	.	+	0	.
+contig_35	ena	CDS	5218	6384	.	+	0	.
+contig_35	ena	CDS	8527	8772	.	+	0	.
+contig_35	ena	CDS	11443	11964	.	+	0	.
+contig_35	ena	CDS	11976	13277	.	+	0	.
+contig_35	ena	CDS	13329	14792	.	+	0	.
+contig_35	ena	CDS	14805	16217	.	+	0	.
+contig_35	ena	CDS	16221	17198	.	+	0	.
+contig_35	ena	CDS	17208	17837	.	+	0	.
+contig_35	ena	CDS	18149	18448	.	+	0	.
+contig_35	ena	CDS	19472	20140	.	+	0	.
+contig_35	ena	CDS	20256	21428	.	+	0	.
+contig_35	ena	CDS	21507	22136	.	+	0	.
+contig_35	ena	CDS	22147	23241	.	+	0	.
+contig_35	ena	CDS	25277	25945	.	+	0	.
+contig_35	ena	CDS	26379	26906	.	+	0	.
+contig_35	ena	CDS	29284	31044	.	+	0	.
+contig_35	ena	CDS	31156	31590	.	+	0	.
+contig_35	ena	CDS	31600	32292	.	+	0	.
+contig_35	ena	CDS	32297	33118	.	+	0	.
+contig_35	ena	CDS	33124	33771	.	+	0	.
+contig_35	ena	CDS	33780	34661	.	+	0	.
+contig_35	ena	CDS	34884	35312	.	+	0	.
+contig_35	ena	CDS	36710	38569	.	+	0	.
+contig_35	ena	CDS	39181	39411	.	+	0	.
+contig_35	ena	CDS	39973	40185	.	+	0	.
+contig_35	ena	CDS	42143	42250	.	+	0	.
+contig_35	ena	CDS	43343	43885	.	+	0	.
+contig_35	ena	CDS	45112	45273	.	+	0	.
+contig_35	ena	CDS	47392	47589	.	+	0	.
+contig_35	ena	CDS	49987	51426	.	+	0	.
+contig_35	ena	CDS	51626	51790	.	+	0	.
+contig_56	ena	CDS	485	1066	.	+	0	.
+contig_56	ena	CDS	4825	4977	.	+	0	.
+contig_56	ena	CDS	6201	6326	.	+	0	.
+contig_56	ena	CDS	10545	11273	.	+	0	.
+contig_56	ena	CDS	11688	12128	.	+	0	.
+contig_56	ena	CDS	12130	12819	.	+	0	.
+contig_56	ena	CDS	12915	13484	.	+	0	.
+contig_56	ena	CDS	13893	14228	.	+	0	.
+contig_56	ena	CDS	18161	18268	.	+	0	.
+contig_56	ena	CDS	20953	22041	.	+	0	.
+contig_56	ena	CDS	23286	24821	.	+	0	.
+contig_56	ena	CDS	24895	25623	.	+	0	.
+contig_56	ena	CDS	27368	27460	.	+	0	.
+contig_56	ena	CDS	28078	28401	.	+	0	.
+contig_56	ena	CDS	30406	30540	.	+	0	.
+contig_56	ena	CDS	37111	38127	.	+	0	.
+contig_56	ena	CDS	39520	40701	.	+	0	.
+contig_56	ena	CDS	40711	42351	.	+	0	.
+contig_56	ena	CDS	46801	46986	.	+	0	.
+contig_56	ena	CDS	47042	47950	.	+	0	.
+contig_10	ena	CDS	1820	1999	.	+	0	.
+contig_10	ena	CDS	4361	4912	.	+	0	.
+contig_10	ena	CDS	9110	9217	.	+	0	.
+contig_10	ena	CDS	10426	10695	.	+	0	.
+contig_10	ena	CDS	11953	12243	.	+	0	.
+contig_10	ena	CDS	12246	14729	.	+	0	.
+contig_10	ena	CDS	14805	15281	.	+	0	.
+contig_10	ena	CDS	15312	15887	.	+	0	.
+contig_10	ena	CDS	15899	16033	.	+	0	.
+contig_10	ena	CDS	23358	23468	.	+	0	.
+contig_10	ena	CDS	23563	24240	.	+	0	.
+contig_10	ena	CDS	24272	25102	.	+	0	.
+contig_10	ena	CDS	25468	26235	.	+	0	.
+contig_10	ena	CDS	37470	38033	.	+	0	.
+contig_10	ena	CDS	39702	40100	.	+	0	.
+contig_10	ena	CDS	40279	40887	.	+	0	.
+contig_10	ena	CDS	41676	41840	.	+	0	.
+contig_10	ena	CDS	44117	44185	.	+	0	.
+contig_10	ena	CDS	47489	47803	.	+	0	.
+contig_10	ena	CDS	48027	49301	.	+	0	.
+contig_10	ena	CDS	51350	51499	.	+	0	.
+contig_53	ena	CDS	2254	3618	.	+	0	.
+contig_53	ena	CDS	7722	7946	.	+	0	.
+contig_53	ena	CDS	8679	9935	.	+	0	.
+contig_53	ena	CDS	11672	12109	.	+	0	.
+contig_53	ena	CDS	13489	13803	.	+	0	.
+contig_53	ena	CDS	13860	14540	.	+	0	.
+contig_53	ena	CDS	16578	16685	.	+	0	.
+contig_53	ena	CDS	19199	19912	.	+	0	.
+contig_53	ena	CDS	20043	20885	.	+	0	.
+contig_53	ena	CDS	21100	21825	.	+	0	.
+contig_53	ena	CDS	21917	22474	.	+	0	.
+contig_53	ena	CDS	22751	23326	.	+	0	.
+contig_53	ena	CDS	23333	24181	.	+	0	.
+contig_53	ena	CDS	24531	25448	.	+	0	.
+contig_53	ena	CDS	25457	26803	.	+	0	.
+contig_53	ena	CDS	26849	29263	.	+	0	.
+contig_53	ena	CDS	29274	29789	.	+	0	.
+contig_53	ena	CDS	29798	30829	.	+	0	.
+contig_53	ena	CDS	30943	31374	.	+	0	.
+contig_53	ena	CDS	31376	32164	.	+	0	.
+contig_53	ena	CDS	32257	33399	.	+	0	.
+contig_53	ena	CDS	33403	34026	.	+	0	.
+contig_53	ena	CDS	34398	37619	.	+	0	.
+contig_53	ena	CDS	38101	38616	.	+	0	.
+contig_53	ena	CDS	38812	40011	.	+	0	.
+contig_53	ena	CDS	40090	40389	.	+	0	.
+contig_53	ena	CDS	40527	40865	.	+	0	.
+contig_53	ena	CDS	40926	41780	.	+	0	.
+contig_53	ena	CDS	45115	45663	.	+	0	.
+contig_53	ena	CDS	46534	46932	.	+	0	.
+contig_53	ena	CDS	47013	48191	.	+	0	.
+contig_53	ena	CDS	48671	48877	.	+	0	.
+contig_53	ena	CDS	48964	50826	.	+	0	.
+contig_53	ena	CDS	51412	51537	.	+	0	.
+contig_97	ena	CDS	21404	23572	.	+	0	.
+contig_97	ena	CDS	24403	24942	.	+	0	.
+contig_97	ena	CDS	25080	25337	.	+	0	.
+contig_97	ena	CDS	26766	28166	.	+	0	.
+contig_97	ena	CDS	30191	31585	.	+	0	.
+contig_97	ena	CDS	32541	33320	.	+	0	.
+contig_97	ena	CDS	33612	34388	.	+	0	.
+contig_97	ena	CDS	35442	35603	.	+	0	.
+contig_97	ena	CDS	37421	39418	.	+	0	.
+contig_97	ena	CDS	41740	42735	.	+	0	.
+contig_97	ena	CDS	43214	44287	.	+	0	.
+contig_97	ena	CDS	44439	45263	.	+	0	.
+contig_97	ena	CDS	45359	46405	.	+	0	.
+contig_97	ena	CDS	47395	47484	.	+	0	.
+contig_97	ena	CDS	48940	50235	.	+	0	.
+contig_1	ena	CDS	590	1327	.	+	0	.
+contig_1	ena	CDS	1344	1838	.	+	0	.
+contig_1	ena	CDS	5536	5712	.	+	0	.
+contig_1	ena	CDS	6349	7083	.	+	0	.
+contig_1	ena	CDS	7434	7907	.	+	0	.
+contig_1	ena	CDS	8049	10157	.	+	0	.
+contig_1	ena	CDS	11111	11410	.	+	0	.
+contig_1	ena	CDS	17223	17993	.	+	0	.
+contig_1	ena	CDS	18794	19291	.	+	0	.
+contig_1	ena	CDS	19613	20533	.	+	0	.
+contig_1	ena	CDS	20539	21489	.	+	0	.
+contig_1	ena	CDS	21565	22488	.	+	0	.
+contig_1	ena	CDS	22501	23247	.	+	0	.
+contig_1	ena	CDS	23545	23649	.	+	0	.
+contig_1	ena	CDS	23771	24982	.	+	0	.
+contig_1	ena	CDS	25068	25871	.	+	0	.
+contig_1	ena	CDS	26150	26884	.	+	0	.
+contig_1	ena	CDS	26953	27519	.	+	0	.
+contig_1	ena	CDS	27575	28480	.	+	0	.
+contig_1	ena	CDS	28615	29238	.	+	0	.
+contig_1	ena	CDS	29682	31112	.	+	0	.
+contig_1	ena	CDS	31482	31883	.	+	0	.
+contig_1	ena	CDS	34878	35969	.	+	0	.
+contig_1	ena	CDS	37719	38936	.	+	0	.
+contig_1	ena	CDS	39245	40060	.	+	0	.
+contig_1	ena	CDS	46301	47362	.	+	0	.
+contig_1	ena	CDS	47555	48235	.	+	0	.
+contig_1	ena	CDS	48345	50015	.	+	0	.
+contig_98	ena	CDS	1096	1875	.	+	0	.
+contig_98	ena	CDS	2628	2789	.	+	0	.
+contig_98	ena	CDS	7960	8739	.	+	0	.
+contig_98	ena	CDS	9626	9817	.	+	0	.
+contig_98	ena	CDS	10098	11084	.	+	0	.
+contig_98	ena	CDS	11713	11931	.	+	0	.
+contig_98	ena	CDS	12382	12579	.	+	0	.
+contig_98	ena	CDS	14350	14517	.	+	0	.
+contig_98	ena	CDS	14662	14784	.	+	0	.
+contig_98	ena	CDS	15250	15363	.	+	0	.
+contig_98	ena	CDS	18687	19256	.	+	0	.
+contig_98	ena	CDS	20683	21150	.	+	0	.
+contig_98	ena	CDS	22399	22611	.	+	0	.
+contig_98	ena	CDS	27904	29064	.	+	0	.
+contig_98	ena	CDS	29076	32213	.	+	0	.
+contig_98	ena	CDS	32560	32829	.	+	0	.
+contig_98	ena	CDS	33370	34962	.	+	0	.
+contig_98	ena	CDS	35773	37581	.	+	0	.
+contig_98	ena	CDS	37793	37951	.	+	0	.
+contig_98	ena	CDS	43276	43470	.	+	0	.
+contig_98	ena	CDS	44739	45500	.	+	0	.
+contig_98	ena	CDS	45516	45950	.	+	0	.
+contig_98	ena	CDS	46143	46367	.	+	0	.
+contig_98	ena	CDS	46519	47043	.	+	0	.
+contig_117	ena	CDS	1333	2223	.	+	0	.
+contig_117	ena	CDS	2235	3062	.	+	0	.
+contig_117	ena	CDS	3390	3836	.	+	0	.
+contig_117	ena	CDS	9120	9764	.	+	0	.
+contig_117	ena	CDS	11057	11212	.	+	0	.
+contig_117	ena	CDS	12733	13383	.	+	0	.
+contig_117	ena	CDS	15002	15166	.	+	0	.
+contig_117	ena	CDS	25150	25251	.	+	0	.
+contig_117	ena	CDS	26427	26627	.	+	0	.
+contig_117	ena	CDS	29133	29363	.	+	0	.
+contig_117	ena	CDS	29883	30227	.	+	0	.
+contig_117	ena	CDS	32109	32354	.	+	0	.
+contig_117	ena	CDS	32931	33401	.	+	0	.
+contig_117	ena	CDS	35072	35473	.	+	0	.
+contig_117	ena	CDS	36452	36592	.	+	0	.
+contig_117	ena	CDS	37100	37522	.	+	0	.
+contig_117	ena	CDS	37761	39287	.	+	0	.
+contig_117	ena	CDS	39304	40074	.	+	0	.
+contig_117	ena	CDS	41235	42365	.	+	0	.
+contig_117	ena	CDS	42580	43308	.	+	0	.
+contig_117	ena	CDS	43555	44019	.	+	0	.
+contig_117	ena	CDS	44056	44679	.	+	0	.
+contig_117	ena	CDS	44850	45311	.	+	0	.
+contig_117	ena	CDS	45586	46086	.	+	0	.
+contig_117	ena	CDS	46925	47350	.	+	0	.
+contig_80	ena	CDS	763	2400	.	+	0	.
+contig_80	ena	CDS	2528	3841	.	+	0	.
+contig_80	ena	CDS	4641	5831	.	+	0	.
+contig_80	ena	CDS	6047	7099	.	+	0	.
+contig_80	ena	CDS	8057	8452	.	+	0	.
+contig_80	ena	CDS	8621	8899	.	+	0	.
+contig_80	ena	CDS	8954	10777	.	+	0	.
+contig_80	ena	CDS	10831	11739	.	+	0	.
+contig_80	ena	CDS	12235	12582	.	+	0	.
+contig_80	ena	CDS	13771	14418	.	+	0	.
+contig_80	ena	CDS	14575	15042	.	+	0	.
+contig_80	ena	CDS	15073	16287	.	+	0	.
+contig_80	ena	CDS	16331	16714	.	+	0	.
+contig_80	ena	CDS	17171	17686	.	+	0	.
+contig_80	ena	CDS	17972	19561	.	+	0	.
+contig_80	ena	CDS	19573	19911	.	+	0	.
+contig_80	ena	CDS	19986	20186	.	+	0	.
+contig_80	ena	CDS	20351	21637	.	+	0	.
+contig_80	ena	CDS	21701	22126	.	+	0	.
+contig_80	ena	CDS	22194	23447	.	+	0	.
+contig_80	ena	CDS	24040	24774	.	+	0	.
+contig_80	ena	CDS	24780	25898	.	+	0	.
+contig_80	ena	CDS	26054	27202	.	+	0	.
+contig_80	ena	CDS	27272	27886	.	+	0	.
+contig_80	ena	CDS	27932	29059	.	+	0	.
+contig_80	ena	CDS	29324	30751	.	+	0	.
+contig_80	ena	CDS	31297	31746	.	+	0	.
+contig_80	ena	CDS	32123	33097	.	+	0	.
+contig_80	ena	CDS	33773	33874	.	+	0	.
+contig_80	ena	CDS	34926	36389	.	+	0	.
+contig_80	ena	CDS	36814	38025	.	+	0	.
+contig_80	ena	CDS	38287	39990	.	+	0	.
+contig_80	ena	CDS	40151	40744	.	+	0	.
+contig_80	ena	CDS	42696	42815	.	+	0	.
+contig_80	ena	CDS	44107	45009	.	+	0	.
+contig_80	ena	CDS	45099	46076	.	+	0	.
+contig_80	ena	CDS	46173	46232	.	+	0	.
+contig_138	ena	CDS	340	1173	.	+	0	.
+contig_138	ena	CDS	1700	1777	.	+	0	.
+contig_138	ena	CDS	2037	3785	.	+	0	.
+contig_138	ena	CDS	3917	4345	.	+	0	.
+contig_138	ena	CDS	12582	13295	.	+	0	.
+contig_138	ena	CDS	13378	14073	.	+	0	.
+contig_138	ena	CDS	24765	25454	.	+	0	.
+contig_138	ena	CDS	26373	27134	.	+	0	.
+contig_138	ena	CDS	33861	34628	.	+	0	.
+contig_138	ena	CDS	34757	34963	.	+	0	.
+contig_138	ena	CDS	35012	35545	.	+	0	.
+contig_138	ena	CDS	36267	36716	.	+	0	.
+contig_138	ena	CDS	40779	41915	.	+	0	.
+contig_138	ena	CDS	41918	43132	.	+	0	.
+contig_138	ena	CDS	43222	44814	.	+	0	.
+contig_138	ena	CDS	45100	46695	.	+	0	.
+contig_121	ena	CDS	298	747	.	+	0	.
+contig_121	ena	CDS	958	1800	.	+	0	.
+contig_121	ena	CDS	2135	3571	.	+	0	.
+contig_121	ena	CDS	3907	4134	.	+	0	.
+contig_121	ena	CDS	5108	6364	.	+	0	.
+contig_121	ena	CDS	6556	7029	.	+	0	.
+contig_121	ena	CDS	7506	7757	.	+	0	.
+contig_121	ena	CDS	7864	7962	.	+	0	.
+contig_121	ena	CDS	9498	10688	.	+	0	.
+contig_121	ena	CDS	13050	13715	.	+	0	.
+contig_121	ena	CDS	16408	17001	.	+	0	.
+contig_121	ena	CDS	18190	18504	.	+	0	.
+contig_121	ena	CDS	18852	19724	.	+	0	.
+contig_121	ena	CDS	19865	21211	.	+	0	.
+contig_121	ena	CDS	22079	23317	.	+	0	.
+contig_121	ena	CDS	23327	24604	.	+	0	.
+contig_121	ena	CDS	27577	28056	.	+	0	.
+contig_121	ena	CDS	28071	29699	.	+	0	.
+contig_121	ena	CDS	33264	34958	.	+	0	.
+contig_121	ena	CDS	35105	35860	.	+	0	.
+contig_121	ena	CDS	36196	37290	.	+	0	.
+contig_121	ena	CDS	37431	37946	.	+	0	.
+contig_121	ena	CDS	38116	40956	.	+	0	.
+contig_121	ena	CDS	41100	41837	.	+	0	.
+contig_121	ena	CDS	42233	44029	.	+	0	.
+contig_121	ena	CDS	44257	46083	.	+	0	.
+contig_121	ena	CDS	46163	46810	.	+	0	.
+contig_111	ena	CDS	8407	9072	.	+	0	.
+contig_111	ena	CDS	9414	10496	.	+	0	.
+contig_111	ena	CDS	10658	11677	.	+	0	.
+contig_111	ena	CDS	12673	13626	.	+	0	.
+contig_111	ena	CDS	13662	14696	.	+	0	.
+contig_111	ena	CDS	14786	17752	.	+	0	.
+contig_111	ena	CDS	22406	22624	.	+	0	.
+contig_111	ena	CDS	23116	24096	.	+	0	.
+contig_111	ena	CDS	24161	24367	.	+	0	.
+contig_111	ena	CDS	31113	32360	.	+	0	.
+contig_111	ena	CDS	32390	34723	.	+	0	.
+contig_111	ena	CDS	34800	35981	.	+	0	.
+contig_111	ena	CDS	37767	38189	.	+	0	.
+contig_111	ena	CDS	38558	41740	.	+	0	.
+contig_29	ena	CDS	710	772	.	+	0	.
+contig_29	ena	CDS	3364	4617	.	+	0	.
+contig_29	ena	CDS	5233	6399	.	+	0	.
+contig_29	ena	CDS	6909	8810	.	+	0	.
+contig_29	ena	CDS	9011	9904	.	+	0	.
+contig_29	ena	CDS	14697	14846	.	+	0	.
+contig_29	ena	CDS	15304	16308	.	+	0	.
+contig_29	ena	CDS	16331	17122	.	+	0	.
+contig_29	ena	CDS	17331	18548	.	+	0	.
+contig_29	ena	CDS	18788	20662	.	+	0	.
+contig_29	ena	CDS	21371	22270	.	+	0	.
+contig_29	ena	CDS	25203	25997	.	+	0	.
+contig_29	ena	CDS	26302	26577	.	+	0	.
+contig_29	ena	CDS	26771	27160	.	+	0	.
+contig_29	ena	CDS	27219	27662	.	+	0	.
+contig_29	ena	CDS	27691	29460	.	+	0	.
+contig_29	ena	CDS	29662	30180	.	+	0	.
+contig_29	ena	CDS	30213	31304	.	+	0	.
+contig_29	ena	CDS	31355	32851	.	+	0	.
+contig_29	ena	CDS	33123	33758	.	+	0	.
+contig_29	ena	CDS	33880	34548	.	+	0	.
+contig_29	ena	CDS	34864	35235	.	+	0	.
+contig_29	ena	CDS	35256	35546	.	+	0	.
+contig_29	ena	CDS	35563	35790	.	+	0	.
+contig_29	ena	CDS	35824	36273	.	+	0	.
+contig_29	ena	CDS	37293	38687	.	+	0	.
+contig_29	ena	CDS	38692	39777	.	+	0	.
+contig_29	ena	CDS	39785	40996	.	+	0	.
+contig_29	ena	CDS	41790	43442	.	+	0	.
+contig_34	ena	CDS	1917	2675	.	+	0	.
+contig_34	ena	CDS	3063	4580	.	+	0	.
+contig_34	ena	CDS	4846	6006	.	+	0	.
+contig_34	ena	CDS	6209	7513	.	+	0	.
+contig_34	ena	CDS	7626	8447	.	+	0	.
+contig_34	ena	CDS	8457	9299	.	+	0	.
+contig_34	ena	CDS	9352	10470	.	+	0	.
+contig_34	ena	CDS	10479	11240	.	+	0	.
+contig_34	ena	CDS	11275	11973	.	+	0	.
+contig_34	ena	CDS	12343	14514	.	+	0	.
+contig_34	ena	CDS	16053	17006	.	+	0	.
+contig_34	ena	CDS	19344	19523	.	+	0	.
+contig_34	ena	CDS	24784	25569	.	+	0	.
+contig_34	ena	CDS	26338	28020	.	+	0	.
+contig_34	ena	CDS	28309	29121	.	+	0	.
+contig_34	ena	CDS	29525	30028	.	+	0	.
+contig_34	ena	CDS	31604	31918	.	+	0	.
+contig_34	ena	CDS	32134	32364	.	+	0	.
+contig_34	ena	CDS	32623	32703	.	+	0	.
+contig_34	ena	CDS	33335	34543	.	+	0	.
+contig_34	ena	CDS	34655	35176	.	+	0	.
+contig_34	ena	CDS	35326	35901	.	+	0	.
+contig_34	ena	CDS	42407	42721	.	+	0	.
+contig_75	ena	CDS	1622	2137	.	+	0	.
+contig_75	ena	CDS	5665	5961	.	+	0	.
+contig_75	ena	CDS	6001	6360	.	+	0	.
+contig_75	ena	CDS	8304	8477	.	+	0	.
+contig_75	ena	CDS	8683	9417	.	+	0	.
+contig_75	ena	CDS	9558	10325	.	+	0	.
+contig_75	ena	CDS	10361	11239	.	+	0	.
+contig_75	ena	CDS	11299	13233	.	+	0	.
+contig_75	ena	CDS	13405	14358	.	+	0	.
+contig_75	ena	CDS	14748	16868	.	+	0	.
+contig_75	ena	CDS	18517	18615	.	+	0	.
+contig_75	ena	CDS	20029	20112	.	+	0	.
+contig_75	ena	CDS	20655	20732	.	+	0	.
+contig_75	ena	CDS	20946	21146	.	+	0	.
+contig_75	ena	CDS	21519	21689	.	+	0	.
+contig_75	ena	CDS	22229	22468	.	+	0	.
+contig_75	ena	CDS	24750	25202	.	+	0	.
+contig_75	ena	CDS	29888	30802	.	+	0	.
+contig_75	ena	CDS	30937	32904	.	+	0	.
+contig_75	ena	CDS	32992	33219	.	+	0	.
+contig_75	ena	CDS	33353	33553	.	+	0	.
+contig_75	ena	CDS	33707	34240	.	+	0	.
+contig_75	ena	CDS	34401	34622	.	+	0	.
+contig_75	ena	CDS	35926	36381	.	+	0	.
+contig_75	ena	CDS	36552	36905	.	+	0	.
+contig_75	ena	CDS	37058	37306	.	+	0	.
+contig_75	ena	CDS	37726	37794	.	+	0	.
+contig_75	ena	CDS	41744	42361	.	+	0	.
+contig_3	ena	CDS	6526	8286	.	+	0	.
+contig_3	ena	CDS	14632	14973	.	+	0	.
+contig_3	ena	CDS	15262	16245	.	+	0	.
+contig_3	ena	CDS	16322	17743	.	+	0	.
+contig_3	ena	CDS	19546	20778	.	+	0	.
+contig_3	ena	CDS	21305	21457	.	+	0	.
+contig_3	ena	CDS	21817	22473	.	+	0	.
+contig_3	ena	CDS	25145	25834	.	+	0	.
+contig_3	ena	CDS	25859	27559	.	+	0	.
+contig_3	ena	CDS	29764	30072	.	+	0	.
+contig_3	ena	CDS	38600	39457	.	+	0	.
+contig_3	ena	CDS	39678	41294	.	+	0	.
+contig_8	ena	CDS	2685	2801	.	+	0	.
+contig_8	ena	CDS	14665	16551	.	+	0	.
+contig_8	ena	CDS	16772	18637	.	+	0	.
+contig_8	ena	CDS	20496	20966	.	+	0	.
+contig_8	ena	CDS	21235	23829	.	+	0	.
+contig_8	ena	CDS	23856	24749	.	+	0	.
+contig_8	ena	CDS	24817	25782	.	+	0	.
+contig_8	ena	CDS	26035	26820	.	+	0	.
+contig_8	ena	CDS	27023	27574	.	+	0	.
+contig_8	ena	CDS	27993	29228	.	+	0	.
+contig_8	ena	CDS	29625	30224	.	+	0	.
+contig_8	ena	CDS	30236	31078	.	+	0	.
+contig_8	ena	CDS	31089	33572	.	+	0	.
+contig_8	ena	CDS	33576	33899	.	+	0	.
+contig_8	ena	CDS	34049	34312	.	+	0	.
+contig_8	ena	CDS	35855	36094	.	+	0	.
+contig_8	ena	CDS	37706	39487	.	+	0	.
+contig_8	ena	CDS	40349	41335	.	+	0	.
+contig_118	ena	CDS	3578	4216	.	+	0	.
+contig_118	ena	CDS	4367	5128	.	+	0	.
+contig_118	ena	CDS	7344	8780	.	+	0	.
+contig_118	ena	CDS	12674	12901	.	+	0	.
+contig_118	ena	CDS	13013	14743	.	+	0	.
+contig_118	ena	CDS	15219	15881	.	+	0	.
+contig_118	ena	CDS	15905	17248	.	+	0	.
+contig_118	ena	CDS	17286	17852	.	+	0	.
+contig_118	ena	CDS	18190	19533	.	+	0	.
+contig_118	ena	CDS	21230	21454	.	+	0	.
+contig_118	ena	CDS	22088	22333	.	+	0	.
+contig_118	ena	CDS	26719	27063	.	+	0	.
+contig_118	ena	CDS	27883	28452	.	+	0	.
+contig_118	ena	CDS	28863	30743	.	+	0	.
+contig_118	ena	CDS	30959	31861	.	+	0	.
+contig_118	ena	CDS	32315	33133	.	+	0	.
+contig_118	ena	CDS	34204	35079	.	+	0	.
+contig_118	ena	CDS	35235	36146	.	+	0	.
+contig_118	ena	CDS	36357	38393	.	+	0	.
+contig_68	ena	CDS	1041	1142	.	+	0	.
+contig_68	ena	CDS	3028	3747	.	+	0	.
+contig_68	ena	CDS	4705	4971	.	+	0	.
+contig_68	ena	CDS	5337	5816	.	+	0	.
+contig_68	ena	CDS	6435	8912	.	+	0	.
+contig_68	ena	CDS	9038	10255	.	+	0	.
+contig_68	ena	CDS	10361	11587	.	+	0	.
+contig_68	ena	CDS	12134	12262	.	+	0	.
+contig_68	ena	CDS	12992	14482	.	+	0	.
+contig_68	ena	CDS	14503	16263	.	+	0	.
+contig_68	ena	CDS	18320	18856	.	+	0	.
+contig_68	ena	CDS	19133	19348	.	+	0	.
+contig_68	ena	CDS	19930	20469	.	+	0	.
+contig_68	ena	CDS	21746	22603	.	+	0	.
+contig_68	ena	CDS	22711	23535	.	+	0	.
+contig_68	ena	CDS	23894	24556	.	+	0	.
+contig_68	ena	CDS	24686	25048	.	+	0	.
+contig_68	ena	CDS	25475	27052	.	+	0	.
+contig_68	ena	CDS	27600	27995	.	+	0	.
+contig_68	ena	CDS	28243	28464	.	+	0	.
+contig_68	ena	CDS	29729	30280	.	+	0	.
+contig_68	ena	CDS	30463	31155	.	+	0	.
+contig_68	ena	CDS	31287	32759	.	+	0	.
+contig_68	ena	CDS	32859	33860	.	+	0	.
+contig_68	ena	CDS	33876	35021	.	+	0	.
+contig_99	ena	CDS	1118	1918	.	+	0	.
+contig_99	ena	CDS	8396	9268	.	+	0	.
+contig_99	ena	CDS	9281	9799	.	+	0	.
+contig_99	ena	CDS	10172	10606	.	+	0	.
+contig_99	ena	CDS	10616	10894	.	+	0	.
+contig_99	ena	CDS	14110	14925	.	+	0	.
+contig_99	ena	CDS	14966	15793	.	+	0	.
+contig_99	ena	CDS	16394	16936	.	+	0	.
+contig_99	ena	CDS	17100	18023	.	+	0	.
+contig_99	ena	CDS	18033	18491	.	+	0	.
+contig_99	ena	CDS	24196	24843	.	+	0	.
+contig_99	ena	CDS	25079	25966	.	+	0	.
+contig_99	ena	CDS	26655	28379	.	+	0	.
+contig_99	ena	CDS	35082	35339	.	+	0	.
+contig_57	ena	CDS	2770	2835	.	+	0	.
+contig_57	ena	CDS	3598	4527	.	+	0	.
+contig_57	ena	CDS	4540	5163	.	+	0	.
+contig_57	ena	CDS	9794	9889	.	+	0	.
+contig_57	ena	CDS	11545	11748	.	+	0	.
+contig_57	ena	CDS	13587	13949	.	+	0	.
+contig_57	ena	CDS	14133	16196	.	+	0	.
+contig_57	ena	CDS	16484	18256	.	+	0	.
+contig_57	ena	CDS	18634	19488	.	+	0	.
+contig_57	ena	CDS	19787	21487	.	+	0	.
+contig_57	ena	CDS	21569	22972	.	+	0	.
+contig_57	ena	CDS	22985	24985	.	+	0	.
+contig_57	ena	CDS	25674	27326	.	+	0	.
+contig_57	ena	CDS	28428	28904	.	+	0	.
+contig_57	ena	CDS	29081	29368	.	+	0	.
+contig_57	ena	CDS	29381	30505	.	+	0	.
+contig_57	ena	CDS	30722	31057	.	+	0	.
+contig_57	ena	CDS	32266	32547	.	+	0	.
+contig_57	ena	CDS	32831	33040	.	+	0	.
+contig_57	ena	CDS	33158	34744	.	+	0	.
+contig_57	ena	CDS	35865	36326	.	+	0	.
+contig_57	ena	CDS	36523	36741	.	+	0	.
+contig_116	ena	CDS	518	1081	.	+	0	.
+contig_116	ena	CDS	24609	24938	.	+	0	.
+contig_116	ena	CDS	34220	34522	.	+	0	.
+contig_116	ena	CDS	35235	36071	.	+	0	.
+contig_87	ena	CDS	588	1223	.	+	0	.
+contig_87	ena	CDS	4513	4731	.	+	0	.
+contig_87	ena	CDS	8488	10074	.	+	0	.
+contig_87	ena	CDS	10398	10757	.	+	0	.
+contig_87	ena	CDS	11170	12675	.	+	0	.
+contig_87	ena	CDS	12732	13406	.	+	0	.
+contig_87	ena	CDS	13476	14888	.	+	0	.
+contig_87	ena	CDS	15528	15665	.	+	0	.
+contig_87	ena	CDS	16627	17007	.	+	0	.
+contig_87	ena	CDS	18390	18629	.	+	0	.
+contig_87	ena	CDS	19728	19835	.	+	0	.
+contig_87	ena	CDS	22111	22338	.	+	0	.
+contig_87	ena	CDS	23727	23987	.	+	0	.
+contig_13	ena	CDS	262	726	.	+	0	.
+contig_13	ena	CDS	2411	2545	.	+	0	.
+contig_13	ena	CDS	3370	3435	.	+	0	.
+contig_13	ena	CDS	3818	4432	.	+	0	.
+contig_13	ena	CDS	4499	4807	.	+	0	.
+contig_13	ena	CDS	5600	6223	.	+	0	.
+contig_13	ena	CDS	6277	7500	.	+	0	.
+contig_13	ena	CDS	7607	7942	.	+	0	.
+contig_13	ena	CDS	7972	8973	.	+	0	.
+contig_13	ena	CDS	9548	10768	.	+	0	.
+contig_13	ena	CDS	10967	11881	.	+	0	.
+contig_13	ena	CDS	12410	12811	.	+	0	.
+contig_13	ena	CDS	13876	14463	.	+	0	.
+contig_13	ena	CDS	14906	15499	.	+	0	.
+contig_13	ena	CDS	16665	17852	.	+	0	.
+contig_13	ena	CDS	17873	18550	.	+	0	.
+contig_13	ena	CDS	18699	19505	.	+	0	.
+contig_13	ena	CDS	19682	20539	.	+	0	.
+contig_13	ena	CDS	20974	21294	.	+	0	.
+contig_13	ena	CDS	21413	22222	.	+	0	.
+contig_13	ena	CDS	22854	23393	.	+	0	.
+contig_13	ena	CDS	23436	24248	.	+	0	.
+contig_13	ena	CDS	27279	27833	.	+	0	.
+contig_13	ena	CDS	28074	28835	.	+	0	.
+contig_13	ena	CDS	29197	30039	.	+	0	.
+contig_13	ena	CDS	30573	31214	.	+	0	.
+contig_13	ena	CDS	31289	31594	.	+	0	.
+contig_13	ena	CDS	33408	34511	.	+	0	.
+contig_13	ena	CDS	34999	36036	.	+	0	.
+contig_74	ena	CDS	4162	5346	.	+	0	.
+contig_74	ena	CDS	5523	7463	.	+	0	.
+contig_74	ena	CDS	10680	11144	.	+	0	.
+contig_74	ena	CDS	11871	12749	.	+	0	.
+contig_74	ena	CDS	12949	14034	.	+	0	.
+contig_74	ena	CDS	15062	15523	.	+	0	.
+contig_74	ena	CDS	15538	15801	.	+	0	.
+contig_74	ena	CDS	16422	16559	.	+	0	.
+contig_74	ena	CDS	18077	19225	.	+	0	.
+contig_74	ena	CDS	19448	20602	.	+	0	.
+contig_74	ena	CDS	21247	21612	.	+	0	.
+contig_74	ena	CDS	21823	27936	.	+	0	.
+contig_74	ena	CDS	28061	28855	.	+	0	.
+contig_74	ena	CDS	29030	29956	.	+	0	.
+contig_74	ena	CDS	30037	31266	.	+	0	.
+contig_74	ena	CDS	31294	31830	.	+	0	.
+contig_74	ena	CDS	31892	32383	.	+	0	.
+contig_74	ena	CDS	32486	33934	.	+	0	.
+contig_74	ena	CDS	35220	35405	.	+	0	.
+contig_12	ena	CDS	958	1167	.	+	0	.
+contig_12	ena	CDS	4180	4404	.	+	0	.
+contig_12	ena	CDS	6776	6937	.	+	0	.
+contig_12	ena	CDS	7730	7834	.	+	0	.
+contig_12	ena	CDS	8628	8909	.	+	0	.
+contig_12	ena	CDS	9417	9698	.	+	0	.
+contig_12	ena	CDS	10339	11799	.	+	0	.
+contig_12	ena	CDS	13358	13840	.	+	0	.
+contig_12	ena	CDS	13954	14688	.	+	0	.
+contig_12	ena	CDS	14796	16151	.	+	0	.
+contig_12	ena	CDS	19113	19817	.	+	0	.
+contig_12	ena	CDS	20788	20952	.	+	0	.
+contig_12	ena	CDS	23989	24159	.	+	0	.
+contig_12	ena	CDS	28678	29241	.	+	0	.
+contig_12	ena	CDS	29672	29833	.	+	0	.
+contig_12	ena	CDS	30184	31950	.	+	0	.
+contig_12	ena	CDS	32136	33176	.	+	0	.
+contig_12	ena	CDS	33390	34670	.	+	0	.
+contig_12	ena	CDS	34678	35391	.	+	0	.
+contig_122	ena	CDS	3351	3989	.	+	0	.
+contig_122	ena	CDS	4037	5266	.	+	0	.
+contig_122	ena	CDS	5384	5668	.	+	0	.
+contig_122	ena	CDS	8034	9770	.	+	0	.
+contig_122	ena	CDS	11225	11503	.	+	0	.
+contig_122	ena	CDS	19019	19765	.	+	0	.
+contig_122	ena	CDS	21236	23692	.	+	0	.
+contig_122	ena	CDS	25686	26069	.	+	0	.
+contig_122	ena	CDS	27165	27239	.	+	0	.
+contig_122	ena	CDS	28369	29214	.	+	0	.
+contig_122	ena	CDS	29622	31055	.	+	0	.
+contig_122	ena	CDS	32584	33135	.	+	0	.
+contig_122	ena	CDS	33375	33596	.	+	0	.
+contig_122	ena	CDS	33865	34935	.	+	0	.
+contig_81	ena	CDS	1092	2330	.	+	0	.
+contig_81	ena	CDS	2487	2834	.	+	0	.
+contig_81	ena	CDS	3355	5094	.	+	0	.
+contig_81	ena	CDS	5097	6431	.	+	0	.
+contig_81	ena	CDS	6589	7257	.	+	0	.
+contig_81	ena	CDS	7452	8225	.	+	0	.
+contig_81	ena	CDS	8372	9385	.	+	0	.
+contig_81	ena	CDS	12615	13808	.	+	0	.
+contig_81	ena	CDS	16966	19140	.	+	0	.
+contig_81	ena	CDS	21493	21696	.	+	0	.
+contig_81	ena	CDS	22706	24394	.	+	0	.
+contig_81	ena	CDS	24426	24701	.	+	0	.
+contig_81	ena	CDS	24979	25650	.	+	0	.
+contig_81	ena	CDS	27888	28139	.	+	0	.
+contig_81	ena	CDS	28320	28484	.	+	0	.
+contig_81	ena	CDS	28641	28967	.	+	0	.
+contig_81	ena	CDS	29164	30423	.	+	0	.
+contig_81	ena	CDS	30596	31522	.	+	0	.
+contig_81	ena	CDS	31963	33468	.	+	0	.
+contig_81	ena	CDS	33492	33737	.	+	0	.
+contig_81	ena	CDS	33860	34465	.	+	0	.
+contig_77	ena	CDS	305	1915	.	+	0	.
+contig_77	ena	CDS	1936	2724	.	+	0	.
+contig_77	ena	CDS	2916	3677	.	+	0	.
+contig_77	ena	CDS	6935	7006	.	+	0	.
+contig_77	ena	CDS	7688	7783	.	+	0	.
+contig_77	ena	CDS	8994	9164	.	+	0	.
+contig_77	ena	CDS	9613	9747	.	+	0	.
+contig_77	ena	CDS	11569	11646	.	+	0	.
+contig_77	ena	CDS	13507	13635	.	+	0	.
+contig_77	ena	CDS	14345	14527	.	+	0	.
+contig_77	ena	CDS	14611	16203	.	+	0	.
+contig_77	ena	CDS	24516	25121	.	+	0	.
+contig_77	ena	CDS	25459	26562	.	+	0	.
+contig_77	ena	CDS	26643	27221	.	+	0	.
+contig_77	ena	CDS	28441	28638	.	+	0	.
+contig_77	ena	CDS	28919	29590	.	+	0	.
+contig_77	ena	CDS	29637	32024	.	+	0	.
+contig_77	ena	CDS	32064	33149	.	+	0	.
+contig_77	ena	CDS	33503	34594	.	+	0	.
+contig_61	ena	CDS	3287	4780	.	+	0	.
+contig_61	ena	CDS	4978	5370	.	+	0	.
+contig_61	ena	CDS	26757	28556	.	+	0	.
+contig_61	ena	CDS	28791	29858	.	+	0	.
+contig_61	ena	CDS	29935	32499	.	+	0	.
+contig_61	ena	CDS	32670	32924	.	+	0	.
+contig_62	ena	CDS	138	5366	.	+	0	.
+contig_62	ena	CDS	16903	17868	.	+	0	.
+contig_62	ena	CDS	18524	19105	.	+	0	.
+contig_62	ena	CDS	24228	25391	.	+	0	.
+contig_62	ena	CDS	29072	31297	.	+	0	.
+contig_101	ena	CDS	2228	3457	.	+	0	.
+contig_101	ena	CDS	3460	4743	.	+	0	.
+contig_101	ena	CDS	4746	5579	.	+	0	.
+contig_101	ena	CDS	5594	7372	.	+	0	.
+contig_101	ena	CDS	7510	8271	.	+	0	.
+contig_101	ena	CDS	8351	9133	.	+	0	.
+contig_101	ena	CDS	9552	10520	.	+	0	.
+contig_101	ena	CDS	11219	11695	.	+	0	.
+contig_101	ena	CDS	11697	12146	.	+	0	.
+contig_101	ena	CDS	12471	13520	.	+	0	.
+contig_101	ena	CDS	13847	15067	.	+	0	.
+contig_101	ena	CDS	16685	16960	.	+	0	.
+contig_101	ena	CDS	21641	25225	.	+	0	.
+contig_101	ena	CDS	27024	28484	.	+	0	.
+contig_101	ena	CDS	28711	29889	.	+	0	.
+contig_101	ena	CDS	29951	31480	.	+	0	.
+contig_71	ena	CDS	533	865	.	+	0	.
+contig_71	ena	CDS	3524	3745	.	+	0	.
+contig_71	ena	CDS	7054	8025	.	+	0	.
+contig_71	ena	CDS	8211	8558	.	+	0	.
+contig_71	ena	CDS	10732	10950	.	+	0	.
+contig_71	ena	CDS	15212	17236	.	+	0	.
+contig_71	ena	CDS	18743	19030	.	+	0	.
+contig_71	ena	CDS	20024	20404	.	+	0	.
+contig_71	ena	CDS	20491	21186	.	+	0	.
+contig_71	ena	CDS	21344	22528	.	+	0	.
+contig_71	ena	CDS	23482	24546	.	+	0	.
+contig_71	ena	CDS	24556	25563	.	+	0	.
+contig_71	ena	CDS	29231	30223	.	+	0	.
+contig_88	ena	CDS	969	1055	.	+	0	.
+contig_88	ena	CDS	6369	7124	.	+	0	.
+contig_88	ena	CDS	7150	8400	.	+	0	.
+contig_88	ena	CDS	8466	8990	.	+	0	.
+contig_88	ena	CDS	8992	11163	.	+	0	.
+contig_88	ena	CDS	11165	12400	.	+	0	.
+contig_88	ena	CDS	12438	13787	.	+	0	.
+contig_88	ena	CDS	14836	16032	.	+	0	.
+contig_88	ena	CDS	16038	17144	.	+	0	.
+contig_88	ena	CDS	17147	17551	.	+	0	.
+contig_88	ena	CDS	17640	19070	.	+	0	.
+contig_88	ena	CDS	19987	20865	.	+	0	.
+contig_88	ena	CDS	20878	22191	.	+	0	.
+contig_88	ena	CDS	23569	23742	.	+	0	.
+contig_88	ena	CDS	25608	25805	.	+	0	.
+contig_88	ena	CDS	29843	30934	.	+	0	.
+contig_72	ena	CDS	1471	1854	.	+	0	.
+contig_72	ena	CDS	2238	3659	.	+	0	.
+contig_72	ena	CDS	4073	4984	.	+	0	.
+contig_72	ena	CDS	12703	15051	.	+	0	.
+contig_72	ena	CDS	16366	16842	.	+	0	.
+contig_72	ena	CDS	17295	17456	.	+	0	.
+contig_72	ena	CDS	27391	29310	.	+	0	.
+contig_114	ena	CDS	1978	2646	.	+	0	.
+contig_114	ena	CDS	3694	3897	.	+	0	.
+contig_114	ena	CDS	4377	5015	.	+	0	.
+contig_114	ena	CDS	5280	6287	.	+	0	.
+contig_114	ena	CDS	6846	7433	.	+	0	.
+contig_114	ena	CDS	11588	11785	.	+	0	.
+contig_114	ena	CDS	12332	12493	.	+	0	.
+contig_114	ena	CDS	13196	13282	.	+	0	.
+contig_114	ena	CDS	18975	21683	.	+	0	.
+contig_114	ena	CDS	22045	23004	.	+	0	.
+contig_114	ena	CDS	23102	24067	.	+	0	.
+contig_114	ena	CDS	28165	28386	.	+	0	.
+contig_44	ena	CDS	345	1361	.	+	0	.
+contig_44	ena	CDS	1388	2146	.	+	0	.
+contig_44	ena	CDS	3236	3730	.	+	0	.
+contig_44	ena	CDS	10899	12104	.	+	0	.
+contig_44	ena	CDS	12255	12845	.	+	0	.
+contig_44	ena	CDS	12849	13787	.	+	0	.
+contig_44	ena	CDS	15866	16621	.	+	0	.
+contig_44	ena	CDS	21802	22179	.	+	0	.
+contig_120	ena	CDS	297	1418	.	+	0	.
+contig_120	ena	CDS	1552	2253	.	+	0	.
+contig_120	ena	CDS	2318	3082	.	+	0	.
+contig_120	ena	CDS	4094	5233	.	+	0	.
+contig_120	ena	CDS	5443	6591	.	+	0	.
+contig_120	ena	CDS	7740	8300	.	+	0	.
+contig_120	ena	CDS	10278	11789	.	+	0	.
+contig_120	ena	CDS	14272	14895	.	+	0	.
+contig_120	ena	CDS	14932	15477	.	+	0	.
+contig_120	ena	CDS	15504	15596	.	+	0	.
+contig_120	ena	CDS	17811	21704	.	+	0	.
+contig_120	ena	CDS	21864	22169	.	+	0	.
+contig_120	ena	CDS	22795	22866	.	+	0	.
+contig_120	ena	CDS	23600	23833	.	+	0	.
+contig_120	ena	CDS	24217	24756	.	+	0	.
+contig_73	ena	CDS	3131	3430	.	+	0	.
+contig_73	ena	CDS	3439	4218	.	+	0	.
+contig_73	ena	CDS	5466	7367	.	+	0	.
+contig_73	ena	CDS	7386	8693	.	+	0	.
+contig_73	ena	CDS	10220	11290	.	+	0	.
+contig_73	ena	CDS	14144	14401	.	+	0	.
+contig_73	ena	CDS	14584	16116	.	+	0	.
+contig_73	ena	CDS	17433	17537	.	+	0	.
+contig_73	ena	CDS	19289	19996	.	+	0	.
+contig_73	ena	CDS	20538	22319	.	+	0	.
+contig_73	ena	CDS	23180	23551	.	+	0	.
+contig_73	ena	CDS	24485	24613	.	+	0	.
+contig_96	ena	CDS	217	1701	.	+	0	.
+contig_96	ena	CDS	1718	4009	.	+	0	.
+contig_96	ena	CDS	4025	5476	.	+	0	.
+contig_96	ena	CDS	5478	6038	.	+	0	.
+contig_96	ena	CDS	7773	7850	.	+	0	.
+contig_96	ena	CDS	9333	9611	.	+	0	.
+contig_96	ena	CDS	10591	11277	.	+	0	.
+contig_96	ena	CDS	11366	12298	.	+	0	.
+contig_96	ena	CDS	12320	13030	.	+	0	.
+contig_96	ena	CDS	13033	13182	.	+	0	.
+contig_96	ena	CDS	13241	13990	.	+	0	.
+contig_96	ena	CDS	14305	16359	.	+	0	.
+contig_96	ena	CDS	23431	25344	.	+	0	.
+contig_96	ena	CDS	25392	25592	.	+	0	.
+contig_96	ena	CDS	25768	26067	.	+	0	.
+contig_91	ena	CDS	823	2436	.	+	0	.
+contig_91	ena	CDS	6961	7089	.	+	0	.
+contig_91	ena	CDS	12993	13154	.	+	0	.
+contig_91	ena	CDS	15879	16916	.	+	0	.
+contig_91	ena	CDS	17090	18322	.	+	0	.
+contig_91	ena	CDS	18413	19228	.	+	0	.
+contig_91	ena	CDS	20447	21439	.	+	0	.
+contig_91	ena	CDS	21768	22220	.	+	0	.
+contig_91	ena	CDS	23646	24488	.	+	0	.
+contig_91	ena	CDS	25291	25797	.	+	0	.
+contig_69	ena	CDS	480	617	.	+	0	.
+contig_69	ena	CDS	6844	7482	.	+	0	.
+contig_69	ena	CDS	17096	17797	.	+	0	.
+contig_69	ena	CDS	18039	18554	.	+	0	.
+contig_69	ena	CDS	18576	20117	.	+	0	.
+contig_109	ena	CDS	1045	2415	.	+	0	.
+contig_109	ena	CDS	2979	4850	.	+	0	.
+contig_109	ena	CDS	6806	7066	.	+	0	.
+contig_109	ena	CDS	7137	8234	.	+	0	.
+contig_109	ena	CDS	10220	10828	.	+	0	.
+contig_109	ena	CDS	11335	11448	.	+	0	.
+contig_109	ena	CDS	11789	12097	.	+	0	.
+contig_109	ena	CDS	13269	13868	.	+	0	.
+contig_109	ena	CDS	14413	14757	.	+	0	.
+contig_109	ena	CDS	14868	15515	.	+	0	.
+contig_109	ena	CDS	18444	18932	.	+	0	.
+contig_109	ena	CDS	19255	20604	.	+	0	.
+contig_109	ena	CDS	21466	21768	.	+	0	.
+contig_109	ena	CDS	22213	22281	.	+	0	.
+contig_59	ena	CDS	369	500	.	+	0	.
+contig_59	ena	CDS	1434	2042	.	+	0	.
+contig_59	ena	CDS	2302	3054	.	+	0	.
+contig_59	ena	CDS	3108	3884	.	+	0	.
+contig_59	ena	CDS	3895	4842	.	+	0	.
+contig_59	ena	CDS	4953	5429	.	+	0	.
+contig_59	ena	CDS	11301	13166	.	+	0	.
+contig_59	ena	CDS	13210	14649	.	+	0	.
+contig_59	ena	CDS	17878	18792	.	+	0	.
+contig_59	ena	CDS	18995	20335	.	+	0	.
+contig_59	ena	CDS	20378	20593	.	+	0	.
+contig_58	ena	CDS	379	750	.	+	0	.
+contig_58	ena	CDS	1764	1952	.	+	0	.
+contig_58	ena	CDS	2290	2571	.	+	0	.
+contig_58	ena	CDS	3088	5754	.	+	0	.
+contig_58	ena	CDS	6771	7661	.	+	0	.
+contig_58	ena	CDS	7764	8084	.	+	0	.
+contig_58	ena	CDS	10063	10182	.	+	0	.
+contig_58	ena	CDS	11329	11457	.	+	0	.
+contig_58	ena	CDS	16299	16481	.	+	0	.
+contig_58	ena	CDS	21013	21369	.	+	0	.
+contig_28	ena	CDS	5472	6023	.	+	0	.
+contig_28	ena	CDS	8012	8086	.	+	0	.
+contig_45	ena	CDS	4711	5046	.	+	0	.
+contig_45	ena	CDS	5594	5650	.	+	0	.
+contig_45	ena	CDS	10527	10868	.	+	0	.
+contig_45	ena	CDS	13504	13662	.	+	0	.
+contig_45	ena	CDS	15646	15789	.	+	0	.
+contig_45	ena	CDS	15994	16035	.	+	0	.
+contig_45	ena	CDS	17379	17588	.	+	0	.
+contig_78	ena	CDS	795	1307	.	+	0	.
+contig_78	ena	CDS	1492	2535	.	+	0	.
+contig_78	ena	CDS	3797	5056	.	+	0	.
+contig_78	ena	CDS	10179	12068	.	+	0	.
+contig_78	ena	CDS	12291	13037	.	+	0	.
+contig_78	ena	CDS	13552	13665	.	+	0	.
+contig_78	ena	CDS	19851	20660	.	+	0	.
+contig_84	ena	CDS	586	795	.	+	0	.
+contig_84	ena	CDS	3089	3223	.	+	0	.
+contig_84	ena	CDS	7157	7864	.	+	0	.
+contig_84	ena	CDS	8045	8881	.	+	0	.
+contig_84	ena	CDS	9414	10424	.	+	0	.
+contig_84	ena	CDS	12604	13392	.	+	0	.
+contig_84	ena	CDS	18558	18701	.	+	0	.
+contig_84	ena	CDS	19519	19611	.	+	0	.
+contig_136	ena	CDS	335	1012	.	+	0	.
+contig_136	ena	CDS	2441	3415	.	+	0	.
+contig_136	ena	CDS	3679	4410	.	+	0	.
+contig_136	ena	CDS	9660	10760	.	+	0	.
+contig_136	ena	CDS	10764	11837	.	+	0	.
+contig_136	ena	CDS	14518	14814	.	+	0	.
+contig_136	ena	CDS	14912	16243	.	+	0	.
+contig_136	ena	CDS	16297	16605	.	+	0	.
+contig_136	ena	CDS	16615	17937	.	+	0	.
+contig_136	ena	CDS	17954	18712	.	+	0	.
+contig_136	ena	CDS	18751	19803	.	+	0	.
+contig_136	ena	CDS	19873	20280	.	+	0	.
+contig_26	ena	CDS	7334	8161	.	+	0	.
+contig_26	ena	CDS	10238	10870	.	+	0	.
+contig_26	ena	CDS	12489	13700	.	+	0	.
+contig_26	ena	CDS	16309	16512	.	+	0	.
+contig_26	ena	CDS	16962	17078	.	+	0	.
+contig_26	ena	CDS	17080	18141	.	+	0	.
+contig_26	ena	CDS	18307	18387	.	+	0	.
+contig_131	ena	CDS	464	1162	.	+	0	.
+contig_131	ena	CDS	4052	4495	.	+	0	.
+contig_131	ena	CDS	4556	4846	.	+	0	.
+contig_131	ena	CDS	4856	6112	.	+	0	.
+contig_131	ena	CDS	8476	8826	.	+	0	.
+contig_131	ena	CDS	11103	12416	.	+	0	.
+contig_131	ena	CDS	12533	12949	.	+	0	.
+contig_131	ena	CDS	14859	16559	.	+	0	.
+contig_131	ena	CDS	16829	17029	.	+	0	.
+contig_131	ena	CDS	18068	18154	.	+	0	.
+contig_131	ena	CDS	19057	19239	.	+	0	.
+contig_11	ena	CDS	413	2332	.	+	0	.
+contig_11	ena	CDS	2337	2822	.	+	0	.
+contig_11	ena	CDS	3030	3578	.	+	0	.
+contig_11	ena	CDS	4909	5772	.	+	0	.
+contig_11	ena	CDS	6248	7024	.	+	0	.
+contig_11	ena	CDS	7222	7734	.	+	0	.
+contig_11	ena	CDS	8195	9511	.	+	0	.
+contig_11	ena	CDS	9822	10676	.	+	0	.
+contig_11	ena	CDS	12635	14377	.	+	0	.
+contig_55	ena	CDS	3946	4938	.	+	0	.
+contig_55	ena	CDS	5087	6373	.	+	0	.
+contig_55	ena	CDS	10349	10480	.	+	0	.
+contig_55	ena	CDS	12339	12923	.	+	0	.
+contig_55	ena	CDS	13179	14417	.	+	0	.
+contig_55	ena	CDS	18244	18501	.	+	0	.
+contig_112	ena	CDS	891	1400	.	+	0	.
+contig_112	ena	CDS	2470	5304	.	+	0	.
+contig_112	ena	CDS	7423	9984	.	+	0	.
+contig_112	ena	CDS	9999	10322	.	+	0	.
+contig_112	ena	CDS	10511	11332	.	+	0	.
+contig_112	ena	CDS	11500	12258	.	+	0	.
+contig_112	ena	CDS	12822	13310	.	+	0	.
+contig_112	ena	CDS	13573	14340	.	+	0	.
+contig_112	ena	CDS	14383	15708	.	+	0	.
+contig_112	ena	CDS	15786	16271	.	+	0	.
+contig_112	ena	CDS	16325	16672	.	+	0	.
+contig_112	ena	CDS	16675	17310	.	+	0	.
+contig_112	ena	CDS	18060	18602	.	+	0	.
+contig_79	ena	CDS	7908	8783	.	+	0	.
+contig_79	ena	CDS	10166	10330	.	+	0	.
+contig_79	ena	CDS	11032	11664	.	+	0	.
+contig_23	ena	CDS	5151	6140	.	+	0	.
+contig_23	ena	CDS	6144	6830	.	+	0	.
+contig_40	ena	CDS	3995	4471	.	+	0	.
+contig_40	ena	CDS	8402	8785	.	+	0	.
+contig_40	ena	CDS	8857	9135	.	+	0	.
+contig_40	ena	CDS	10918	11085	.	+	0	.
+contig_40	ena	CDS	12723	13319	.	+	0	.
+contig_40	ena	CDS	13637	14881	.	+	0	.
+contig_130	ena	CDS	1557	2348	.	+	0	.
+contig_130	ena	CDS	2412	2840	.	+	0	.
+contig_130	ena	CDS	4411	5793	.	+	0	.
+contig_130	ena	CDS	5798	7507	.	+	0	.
+contig_130	ena	CDS	7549	10632	.	+	0	.
+contig_130	ena	CDS	10717	11292	.	+	0	.
+contig_130	ena	CDS	11901	13322	.	+	0	.
+contig_130	ena	CDS	13645	14634	.	+	0	.
+contig_163	ena	CDS	1605	1757	.	+	0	.
+contig_163	ena	CDS	2404	3435	.	+	0	.
+contig_163	ena	CDS	3641	4015	.	+	0	.
+contig_163	ena	CDS	6803	7285	.	+	0	.
+contig_163	ena	CDS	7381	8094	.	+	0	.
+contig_163	ena	CDS	8289	10196	.	+	0	.
+contig_163	ena	CDS	10271	11938	.	+	0	.
+contig_163	ena	CDS	14002	14901	.	+	0	.
+contig_163	ena	CDS	15694	15846	.	+	0	.
+contig_137	ena	CDS	6628	6981	.	+	0	.
+contig_137	ena	CDS	8366	9319	.	+	0	.
+contig_137	ena	CDS	9480	10115	.	+	0	.
+contig_137	ena	CDS	10118	11533	.	+	0	.
+contig_137	ena	CDS	11582	12451	.	+	0	.
+contig_137	ena	CDS	13323	14450	.	+	0	.
+contig_137	ena	CDS	14888	15706	.	+	0	.
+contig_51	ena	CDS	2959	4374	.	+	0	.
+contig_51	ena	CDS	6255	7394	.	+	0	.
+contig_51	ena	CDS	10356	11609	.	+	0	.
+contig_51	ena	CDS	11884	13077	.	+	0	.
+contig_51	ena	CDS	13129	14160	.	+	0	.
+contig_144	ena	CDS	348	728	.	+	0	.
+contig_144	ena	CDS	779	1018	.	+	0	.
+contig_144	ena	CDS	1576	1752	.	+	0	.
+contig_144	ena	CDS	2028	2852	.	+	0	.
+contig_144	ena	CDS	2889	3272	.	+	0	.
+contig_144	ena	CDS	4167	4610	.	+	0	.
+contig_144	ena	CDS	4688	5476	.	+	0	.
+contig_144	ena	CDS	5654	6049	.	+	0	.
+contig_144	ena	CDS	6294	9335	.	+	0	.
+contig_144	ena	CDS	10052	10411	.	+	0	.
+contig_144	ena	CDS	11319	12932	.	+	0	.
+contig_144	ena	CDS	13921	14571	.	+	0	.
+contig_83	ena	CDS	383	1375	.	+	0	.
+contig_83	ena	CDS	2596	3903	.	+	0	.
+contig_83	ena	CDS	3972	4214	.	+	0	.
+contig_83	ena	CDS	4732	5784	.	+	0	.
+contig_83	ena	CDS	5810	6292	.	+	0	.
+contig_83	ena	CDS	9847	10023	.	+	0	.
+contig_83	ena	CDS	10271	10897	.	+	0	.
+contig_83	ena	CDS	10939	12993	.	+	0	.
+contig_83	ena	CDS	12996	13670	.	+	0	.
+contig_104	ena	CDS	11327	11572	.	+	0	.
+contig_115	ena	CDS	2481	4310	.	+	0	.
+contig_115	ena	CDS	5068	5970	.	+	0	.
+contig_115	ena	CDS	6523	7407	.	+	0	.
+contig_115	ena	CDS	8433	8627	.	+	0	.
+contig_115	ena	CDS	9184	9420	.	+	0	.
+contig_115	ena	CDS	9955	10077	.	+	0	.
+contig_115	ena	CDS	11515	12168	.	+	0	.
+contig_115	ena	CDS	12182	12475	.	+	0	.
+contig_100	ena	CDS	1115	3304	.	+	0	.
+contig_100	ena	CDS	4234	4788	.	+	0	.
+contig_100	ena	CDS	5254	5607	.	+	0	.
+contig_100	ena	CDS	6004	6522	.	+	0	.
+contig_100	ena	CDS	9185	9370	.	+	0	.
+contig_100	ena	CDS	10116	10751	.	+	0	.
+contig_100	ena	CDS	10829	11314	.	+	0	.
+contig_110	ena	CDS	716	961	.	+	0	.
+contig_110	ena	CDS	3320	3667	.	+	0	.
+contig_110	ena	CDS	3674	4147	.	+	0	.
+contig_110	ena	CDS	4801	5427	.	+	0	.
+contig_147	ena	CDS	336	2024	.	+	0	.
+contig_147	ena	CDS	2202	2708	.	+	0	.
+contig_147	ena	CDS	2712	3743	.	+	0	.
+contig_147	ena	CDS	4970	6226	.	+	0	.
+contig_147	ena	CDS	6475	7386	.	+	0	.
+contig_147	ena	CDS	8183	8563	.	+	0	.
+contig_147	ena	CDS	11809	12375	.	+	0	.
+contig_90	ena	CDS	3024	3386	.	+	0	.
+contig_90	ena	CDS	3406	4512	.	+	0	.
+contig_90	ena	CDS	4658	5494	.	+	0	.
+contig_90	ena	CDS	6837	7790	.	+	0	.
+contig_90	ena	CDS	7801	8343	.	+	0	.
+contig_103	ena	CDS	1400	1927	.	+	0	.
+contig_103	ena	CDS	3478	3900	.	+	0	.
+contig_103	ena	CDS	4273	4437	.	+	0	.
+contig_103	ena	CDS	5395	5559	.	+	0	.
+contig_103	ena	CDS	5868	6503	.	+	0	.
+contig_103	ena	CDS	6639	7190	.	+	0	.
+contig_103	ena	CDS	8366	8818	.	+	0	.
+contig_103	ena	CDS	9022	9261	.	+	0	.
+contig_103	ena	CDS	10692	11087	.	+	0	.
+contig_70	ena	CDS	352	1008	.	+	0	.
+contig_70	ena	CDS	1391	1528	.	+	0	.
+contig_70	ena	CDS	1915	3318	.	+	0	.
+contig_70	ena	CDS	4325	4621	.	+	0	.
+contig_70	ena	CDS	11493	11966	.	+	0	.
+contig_92	ena	CDS	1177	2085	.	+	0	.
+contig_92	ena	CDS	3251	3532	.	+	0	.
+contig_92	ena	CDS	3574	3786	.	+	0	.
+contig_92	ena	CDS	3855	4136	.	+	0	.
+contig_92	ena	CDS	6117	7406	.	+	0	.
+contig_92	ena	CDS	7823	10861	.	+	0	.
+contig_92	ena	CDS	11678	11920	.	+	0	.
+contig_151	ena	CDS	244	1521	.	+	0	.
+contig_151	ena	CDS	4260	6245	.	+	0	.
+contig_151	ena	CDS	6463	8208	.	+	0	.
+contig_151	ena	CDS	8836	9858	.	+	0	.
+contig_151	ena	CDS	10332	11177	.	+	0	.
+contig_67	ena	CDS	1568	2230	.	+	0	.
+contig_67	ena	CDS	3817	4452	.	+	0	.
+contig_67	ena	CDS	4454	4672	.	+	0	.
+contig_67	ena	CDS	4687	4770	.	+	0	.
+contig_159	ena	CDS	7622	7891	.	+	0	.
+contig_159	ena	CDS	8007	9206	.	+	0	.
+contig_159	ena	CDS	9208	10917	.	+	0	.
+contig_124	ena	CDS	1236	1352	.	+	0	.
+contig_124	ena	CDS	3747	3995	.	+	0	.
+contig_139	ena	CDS	2151	2759	.	+	0	.
+contig_139	ena	CDS	6191	7219	.	+	0	.
+contig_139	ena	CDS	7961	8497	.	+	0	.
+contig_139	ena	CDS	8499	9596	.	+	0	.
+contig_139	ena	CDS	9620	10369	.	+	0	.
+contig_161	ena	CDS	706	1095	.	+	0	.
+contig_161	ena	CDS	3082	4194	.	+	0	.
+contig_161	ena	CDS	7932	8036	.	+	0	.
+contig_161	ena	CDS	8313	8924	.	+	0	.
+contig_95	ena	CDS	304	783	.	+	0	.
+contig_95	ena	CDS	1003	2673	.	+	0	.
+contig_95	ena	CDS	2974	3882	.	+	0	.
+contig_95	ena	CDS	3988	8292	.	+	0	.
+contig_95	ena	CDS	9217	9345	.	+	0	.
+contig_95	ena	CDS	9361	9870	.	+	0	.
+contig_89	ena	CDS	1100	1462	.	+	0	.
+contig_89	ena	CDS	1482	2588	.	+	0	.
+contig_89	ena	CDS	2734	3570	.	+	0	.
+contig_89	ena	CDS	4662	5588	.	+	0	.
+contig_89	ena	CDS	7831	8466	.	+	0	.
+contig_89	ena	CDS	8757	9611	.	+	0	.
+contig_149	ena	CDS	2330	2896	.	+	0	.
+contig_149	ena	CDS	6546	6905	.	+	0	.
+contig_149	ena	CDS	7350	7673	.	+	0	.
+contig_174	ena	CDS	813	1703	.	+	0	.
+contig_174	ena	CDS	3100	3312	.	+	0	.
+contig_174	ena	CDS	5734	5982	.	+	0	.
+contig_174	ena	CDS	8483	8818	.	+	0	.
+contig_93	ena	CDS	387	1214	.	+	0	.
+contig_93	ena	CDS	2272	3858	.	+	0	.
+contig_93	ena	CDS	3873	4640	.	+	0	.
+contig_93	ena	CDS	4649	5254	.	+	0	.
+contig_93	ena	CDS	5695	6885	.	+	0	.
+contig_93	ena	CDS	7063	7173	.	+	0	.
+contig_93	ena	CDS	7177	7569	.	+	0	.
+contig_93	ena	CDS	7675	8385	.	+	0	.
+contig_93	ena	CDS	8401	8511	.	+	0	.
+contig_105	ena	CDS	357	1052	.	+	0	.
+contig_105	ena	CDS	1054	1680	.	+	0	.
+contig_105	ena	CDS	1797	2147	.	+	0	.
+contig_105	ena	CDS	2345	4279	.	+	0	.
+contig_105	ena	CDS	5945	6754	.	+	0	.
+contig_105	ena	CDS	7049	8545	.	+	0	.
+contig_43	ena	CDS	408	1598	.	+	0	.
+contig_43	ena	CDS	1899	2411	.	+	0	.
+contig_43	ena	CDS	3788	3937	.	+	0	.
+contig_43	ena	CDS	4931	5182	.	+	0	.
+contig_43	ena	CDS	6032	6559	.	+	0	.
+contig_43	ena	CDS	6576	7046	.	+	0	.
+contig_43	ena	CDS	7188	7589	.	+	0	.
+contig_43	ena	CDS	7605	8048	.	+	0	.
+contig_170	ena	CDS	267	470	.	+	0	.
+contig_170	ena	CDS	617	1444	.	+	0	.
+contig_170	ena	CDS	1513	1947	.	+	0	.
+contig_170	ena	CDS	2210	3250	.	+	0	.
+contig_170	ena	CDS	3511	6300	.	+	0	.
+contig_170	ena	CDS	6444	7715	.	+	0	.
+contig_129	ena	CDS	901	1074	.	+	0	.
+contig_129	ena	CDS	1631	2044	.	+	0	.
+contig_129	ena	CDS	2764	3117	.	+	0	.
+contig_129	ena	CDS	3316	3597	.	+	0	.
+contig_129	ena	CDS	5920	6390	.	+	0	.
+contig_119	ena	CDS	347	1306	.	+	0	.
+contig_119	ena	CDS	1486	3201	.	+	0	.
+contig_119	ena	CDS	3374	4915	.	+	0	.
+contig_143	ena	CDS	521	1015	.	+	0	.
+contig_143	ena	CDS	2527	3405	.	+	0	.
+contig_145	ena	CDS	495	1364	.	+	0	.
+contig_145	ena	CDS	4316	4891	.	+	0	.
+contig_145	ena	CDS	5058	6053	.	+	0	.
+contig_145	ena	CDS	6434	6724	.	+	0	.
+contig_145	ena	CDS	6727	7038	.	+	0	.
+contig_65	ena	CDS	418	858	.	+	0	.
+contig_65	ena	CDS	933	2273	.	+	0	.
+contig_65	ena	CDS	3402	4709	.	+	0	.
+contig_65	ena	CDS	6469	6681	.	+	0	.
+contig_134	ena	CDS	3475	3981	.	+	0	.
+contig_134	ena	CDS	4380	4946	.	+	0	.
+contig_171	ena	CDS	2473	2646	.	+	0	.
+contig_171	ena	CDS	3379	4662	.	+	0	.
+contig_48	ena	CDS	418	579	.	+	0	.
+contig_48	ena	CDS	2452	4578	.	+	0	.
+contig_48	ena	CDS	5014	5607	.	+	0	.
+contig_48	ena	CDS	5815	6201	.	+	0	.
+contig_19	ena	CDS	3084	3287	.	+	0	.
+contig_19	ena	CDS	3715	4671	.	+	0	.
+contig_94	ena	CDS	455	2575	.	+	0	.
+contig_64	ena	CDS	3834	4013	.	+	0	.
+contig_113	ena	CDS	834	2675	.	+	0	.
+contig_113	ena	CDS	2786	3403	.	+	0	.
+contig_113	ena	CDS	3437	4228	.	+	0	.
+contig_172	ena	CDS	2231	2476	.	+	0	.
+contig_167	ena	CDS	1991	2599	.	+	0	.
+contig_167	ena	CDS	2603	2950	.	+	0	.
+contig_185	ena	CDS	652	2364	.	+	0	.
+contig_185	ena	CDS	2477	2626	.	+	0	.
+contig_102	ena	CDS	137	466	.	+	0	.
+contig_102	ena	CDS	622	1257	.	+	0	.
+contig_102	ena	CDS	2435	2722	.	+	0	.
+contig_102	ena	CDS	2839	3192	.	+	0	.
+contig_102	ena	CDS	3693	3857	.	+	0	.
+contig_140	ena	CDS	1611	2273	.	+	0	.
+contig_123	ena	CDS	1002	1514	.	+	0	.
+contig_152	ena	CDS	1869	2786	.	+	0	.
+contig_38	ena	CDS	559	1437	.	+	0	.
+contig_38	ena	CDS	1815	3014	.	+	0	.
+contig_162	ena	CDS	14	1063	.	+	0	.
+contig_162	ena	CDS	1066	2052	.	+	0	.
+contig_165	ena	CDS	31	645	.	+	0	.
+contig_165	ena	CDS	1834	1884	.	+	0	.
+contig_201	ena	CDS	1704	2030	.	+	0	.
+contig_201	ena	CDS	2117	2605	.	+	0	.
+contig_191	ena	CDS	647	814	.	+	0	.
+contig_155	ena	CDS	230	475	.	+	0	.
+contig_155	ena	CDS	2142	2423	.	+	0	.
+contig_154	ena	CDS	78	287	.	+	0	.
+contig_154	ena	CDS	370	660	.	+	0	.
+contig_154	ena	CDS	710	1585	.	+	0	.
+contig_179	ena	CDS	54	329	.	+	0	.
+contig_179	ena	CDS	1304	1579	.	+	0	.
+contig_150	ena	CDS	831	1010	.	+	0	.
+contig_146	ena	CDS	248	706	.	+	0	.
+contig_146	ena	CDS	1056	1538	.	+	0	.
+contig_164	ena	CDS	140	259	.	+	0	.
+contig_158	ena	CDS	837	920	.	+	0	.
+contig_173	ena	CDS	352	465	.	+	0	.
+contig_24	ena	CDS	300	1286	.	+	0	.
+contig_82	ena	CDS	216	1421	.	+	0	.
+contig_176	ena	CDS	162	455	.	+	0	.
+contig_176	ena	CDS	467	805	.	+	0	.
+contig_176	ena	CDS	888	1301	.	+	0	.
+contig_141	ena	CDS	637	966	.	+	0	.
+contig_128	ena	CDS	199	330	.	+	0	.
+contig_156	ena	CDS	83	328	.	+	0	.
+contig_168	ena	CDS	264	623	.	+	0	.
+contig_226	ena	CDS	10	156	.	+	0	.
+contig_287	ena	CDS	20	460	.	+	0	.
+contig_302	ena	CDS	416	649	.	+	0	.
+contig_317	ena	CDS	125	670	.	+	0	.
+contig_283	ena	CDS	498	614	.	+	0	.
+contig_178	ena	CDS	233	493	.	+	0	.
+contig_370	ena	CDS	13	546	.	+	0	.
+contig_349	ena	CDS	285	374	.	+	0	.
+contig_259	ena	CDS	59	595	.	+	0	.
+contig_331	ena	CDS	36	173	.	+	0	.
+contig_271	ena	CDS	23	505	.	+	0	.
+contig_348	ena	CDS	18	488	.	+	0	.
+contig_303	ena	CDS	64	447	.	+	0	.
+contig_284	ena	CDS	55	270	.	+	0	.
+contig_377	ena	CDS	52	321	.	+	0	.
+contig_213	ena	CDS	103	297	.	+	0	.
+contig_340	ena	CDS	108	209	.	+	0	.
